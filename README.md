@@ -1,4 +1,11 @@
-### Hi there 👋
+<!-- <img src="https://github.com/abhi1693/abhi1693/blob/master/assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
+<h1 align="center"> <img src="https://github.com/abhi1693/abhi1693/blob/main/assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/abhimanyu-saharan/">Abhimanyu Saharan</a>. Welcome to my GitHub! 🤗</h1>
+
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi1693" alt="abhi1693"/> </p> 
+
 
 <!--
 **abhi1693/abhi1693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +22,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Abhimanyu's github stats](https://github-readme-stats.vercel.app/api?username=abhi1693&show_icons=true)
