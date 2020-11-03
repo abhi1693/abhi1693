@@ -7,9 +7,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/abhi1693/abhi1693/blob/main/assets/coder.gif?raw=true" />
 
-<summary><b>GitHub Stats</b></summary>
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=abhi1693&count_private=true&show_icons=true&hide_border=true" /> <br>
-Some Advance Stats about my GitHub Profile - https://gitstats.me/abhi1693<br>
 
 <!--
 **abhi1693/abhi1693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
