@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/abhi1693/abhi1693/blob/main/assets/coder.gif?raw=true" />
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=abhi1693&show_icons=true&count_private=true&include_all_commits=true" /> <br>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=abhi1693&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <br>
 
 ## Skills
 
