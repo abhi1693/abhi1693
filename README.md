@@ -65,6 +65,7 @@
 
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/abhimanyu-saharan/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:desk.abhimanyu@gmail.com) 💌 <br>
+  ⦿ Ask me about anything [here](https://github.com/abhi1693/abhi1693/issues) 💬 <br>
 
 <!--
 **abhi1693/abhi1693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
