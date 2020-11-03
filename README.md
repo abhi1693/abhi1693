@@ -1,4 +1,3 @@
-<!-- <img src="https://github.com/abhi1693/abhi1693/blob/master/assets/Hi.gif" alt = "hi" width="40px" height="40px"> -->
 <h1 align="center"> <img src="https://github.com/abhi1693/abhi1693/blob/main/assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/abhimanyu-saharan/">Abhimanyu Saharan</a>. Welcome to my GitHub! 🤗</h1>
 
 <p align="center">
@@ -6,6 +5,11 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi1693" alt="abhi1693"/> </p> 
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/abhi1693/abhi1693/blob/main/assets/coder.gif?raw=true" />
+
+<summary><b>GitHub Stats</b></summary>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=abhi1693&count_private=true&show_icons=true&hide_border=true" /> <br>
+Some Advance Stats about my GitHub Profile - https://gitstats.me/abhi1693<br>
 
 <!--
 **abhi1693/abhi1693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
