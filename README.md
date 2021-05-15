@@ -5,7 +5,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi1693" alt="abhi1693"/> </p> 
 
-<img align="right" alt="Coder GIF" height=250 width=300 src="https://github.com/abhi1693/abhi1693/blob/main/assets/coder.gif?raw=true" />
+<img align="right" alt="Coder GIF" height=250 width=300 src="https://github.com/abhi1693/abhi1693/blob/main/assets/youNme.gif?raw=true" />
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=abhi1693&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <br>
 
