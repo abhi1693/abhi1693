@@ -9,9 +9,6 @@
 <h2>📊 Github Stats</h2>
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1693" alt="abhi1693" /></p>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi1693&show_icons=true&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1693&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
