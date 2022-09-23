@@ -1,13 +1,20 @@
 <h1 align="center"> <img src="https://github.com/abhi1693/abhi1693/blob/main/assets/hello.gif" alt="hello-gif"> <br >I'm <a href="https://www.linkedin.com/in/abhimanyu-saharan/">Abhimanyu Saharan</a>. Welcome to my GitHub! 🤗</h1>
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=abhi1693" alt="abhi1693"/> </p> 
-
 <!--<img align="right" alt="Coder GIF" height=250 width=300 src="https://github.com/abhi1693/abhi1693/blob/main/assets/youNme.gif?raw=true" />-->
 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=abhi1693&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" /> <br>
+<h2>🏆 Github Profile Trophy</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height="180" src="https://github-profile-trophy.vercel.app/?username=abhi1693&column=-1"/>
+</a>
+<h2>📊 Github Stats</h2>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1693" alt="abhi1693" /></p>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi1693&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1693&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## Skills
 
