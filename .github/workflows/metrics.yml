@@ -28,20 +28,11 @@ jobs:
           user: abhi1693
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_display: columns
           config_timezone: Asia/Calcutta
           plugin_followup: yes
           plugin_followup_indepth: yes
           plugin_followup_sections: repositories
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 2000
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
           plugin_lines: yes
           plugin_lines_delay: 30
           plugin_lines_history_limit: 10
