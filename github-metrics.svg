@@ -408,7 +408,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>botpress/botpress</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source hub to build &amp; deploy GPT/LLM Agents ⚡️</div>
@@ -461,7 +461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ibizabroker/slack-hr-gpt</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A generative AI HR slack bot.</div>
@@ -617,7 +617,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2024, 03:40:47 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Mar 2024, 04:41:34 (timezone Asia/Calcutta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
