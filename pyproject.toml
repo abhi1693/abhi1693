@@ -3,7 +3,6 @@ name = "abhi1693"
 version = "0.0.1"
 description = "A Python package for updating my github profile."
 authors = ["Abhimanyu Saharan <desk.abhimanyu@gmail.com>"]
-package-mode = false
 
 [tool.poetry.dependencies]
 python = ">=3.12"
