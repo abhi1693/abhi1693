@@ -27,8 +27,9 @@ This page is for the tinkerers, the automators, the late-night problem solvers w
 I break down real-world systems, simplify complex tech, and share hands-on solutions with zero fluff and maximum nerd
 cred, all documented at https://blog.abhimanyu-saharan.com[blog.abhimanyu-saharan.com].
 
-By supporting me here, you’re not just fueling the content, you’re helping keep it raw, honest, and independent. No
-corporate filters. Just practical insights, deep dives, and the occasional war story.
+By supporting me By supporting me at patreon.com/asaharan[https://www.patreon.com/asaharan], you’re not just fueling 
+the content, you’re helping keep it raw, honest, and independent. No corporate filters. Just practical insights, 
+deep dives, and the occasional war story.
 
 Join the tribe. Let’s build, break, and fix, with purpose.
 
@@ -38,21 +39,21 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 Finally, You Can Drop the Parentheses in Python 3.14 (2025-05-25)::
-Python 3.14 simplifies exception handling with PEP 758, letting you drop parentheses when catching multiple exceptions, cleaner, consistent, and backward-safe.[...]
+Python 3.14 simplifies exception handling with PEP 758, letting you drop parentheses when catching multiple exceptions, cleaner, consistent, and backward-safe.
 +
 https://blog.abhimanyu-saharan.com/posts/finally-you-can-drop-the-parentheses-in-python-3-14[Read further^]
 
 
 
 CPython Performance Evolution: From Specialization to JIT (2025-05-24)::
-Explore how CPython evolved from adaptive bytecode in 3.11 to JIT execution in 3.14, boosting performance without rewriting the interpreter.[...]
+Explore how CPython evolved from adaptive bytecode in 3.11 to JIT execution in 3.14, boosting performance without rewriting the interpreter.
 +
 https://blog.abhimanyu-saharan.com/posts/cpython-performance-evolution-from-specialization-to-jit[Read further^]
 
 
 
 CVE-2025-0426: Unauthenticated Kubelet Checkpoint API Could Lead to Node DoS (2025-05-23)::
-A critical kubelet bug exposes a DoS risk via the unauthenticated /checkpoint API. Learn how to detect, mitigate, and patch CVE-2025-0426.[...]
+A critical kubelet bug exposes a DoS risk via the unauthenticated /checkpoint API. Learn how to detect, mitigate, and patch CVE-2025-0426.
 +
 https://blog.abhimanyu-saharan.com/posts/cve-2025-0426-unauthenticated-kubelet-checkpoint-api-could-lead-to-node-dos[Read further^]
 
