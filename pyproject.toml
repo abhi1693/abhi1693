@@ -1,15 +1,16 @@
-[tool.uv]
+[tool.poetry]
 name = "abhi1693"
 version = "0.0.1"
 description = "A Python package for updating my github profile."
 authors = ["Abhimanyu Saharan <desk.abhimanyu@gmail.com>"]
+package-mode = false
 
-[tool.uv.dependencies]
+[tool.poetry.dependencies]
 python = ">=3.12"
 requests = ">=2.31.0"
 pyyaml = "^6.0.1"
 jinja2 = "^3.1.2"
 
 [build-system]
-requires = ["setuptools", "wheel"]
-build-backend = "setuptools.build_meta"
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
