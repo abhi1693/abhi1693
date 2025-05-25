@@ -33,7 +33,7 @@ def fetch_posts() -> list[Post]:
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
     text_response: str = get(url, headers=headers).content.decode("utf-8")
     root: Element = ElementTree.fromstring(text_response)
-    nodes: list[Element] = root.findall("./channel/item")[:3]
+    nodes: list[Element] = root.findall("./channel/item")[:7]
 
     def text_or_raise(node: Element, tag: str) -> str:
         result: Element | None = node.find(tag)
