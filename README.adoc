@@ -1,0 +1,63 @@
+
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+:figure-caption!:
+
+[NOTE]
+====
+image:https://img.shields.io/badge/last_updated-2025.05.25-blue[]
+ This profile is automatically generated.
+
+If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
+====
+
+
+If you’ve ever debugged at 3 AM, rewritten the same config for the tenth time, or felt the thrill of a green build
+after hours of chaos, you’re one of us.
+
+This page is for the tinkerers, the automators, the late-night problem solvers who’d rather script it than suffer it.
+
+I break down real-world systems, simplify complex tech, and share hands-on solutions with zero fluff and maximum nerd
+cred, all documented at https://blog.abhimanyu-saharan.com[blog.abhimanyu-saharan.com].
+
+By supporting me here, you’re not just fueling the content, you’re helping keep it raw, honest, and independent. No
+corporate filters. Just practical insights, deep dives, and the occasional war story.
+
+Join the tribe. Let’s build, break, and fix, with purpose.
+
+
+## ✍️ Most recent blog posts
+
+
+
+Finally, You Can Drop the Parentheses in Python 3.14 (2025-05-25)::
+Python 3.14 simplifies exception handling with PEP 758, letting you drop parentheses when catching multiple exceptions, cleaner, consistent, and backward-safe.[...]
++
+https://blog.abhimanyu-saharan.com/posts/finally-you-can-drop-the-parentheses-in-python-3-14[Read further^]
+
+
+
+CPython Performance Evolution: From Specialization to JIT (2025-05-24)::
+Explore how CPython evolved from adaptive bytecode in 3.11 to JIT execution in 3.14, boosting performance without rewriting the interpreter.[...]
++
+https://blog.abhimanyu-saharan.com/posts/cpython-performance-evolution-from-specialization-to-jit[Read further^]
+
+
+
+CVE-2025-0426: Unauthenticated Kubelet Checkpoint API Could Lead to Node DoS (2025-05-23)::
+A critical kubelet bug exposes a DoS risk via the unauthenticated /checkpoint API. Learn how to detect, mitigate, and patch CVE-2025-0426.[...]
++
+https://blog.abhimanyu-saharan.com/posts/cve-2025-0426-unauthenticated-kubelet-checkpoint-api-could-lead-to-node-dos[Read further^]
+
+
+
+## 🎥 Latest video recording
+
+image::https://img.youtube.com/vi/mwZ7GMQ11gc/sddefault.jpg[Latest video recording,800,link=https://www.youtube.com/watch?v=mwZ7GMQ11gc,title="Easiest Way to Deploy WordPress on Kubernetes with Rancher | Episode 7"]
