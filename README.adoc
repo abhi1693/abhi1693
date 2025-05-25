@@ -59,6 +59,34 @@ https://blog.abhimanyu-saharan.com/posts/cve-2025-0426-unauthenticated-kubelet-c
 
 
 
+Python 3.13 without GIL: Real-World Threading Finally Works (2025-05-23)::
+Tested Python 3.13's optional GIL. Shared results showing real multithreading gains, install steps, and when it outperforms multiprocessing.
++
+https://blog.abhimanyu-saharan.com/posts/making-the-gil-optional-a-deep-dive-into-pep-703[Read further^]
+
+
+
+Python 3.14 Adds compression.zstd for Zstandard Support (2025-05-22)::
+Python 3.14 adds a native Zstandard module under compression.zstd, unifying high-performance zstd support and existing stdlib compressors under one namespace.
++
+https://blog.abhimanyu-saharan.com/posts/python-3-14-adds-compression-zstd-for-zstandard-support[Read further^]
+
+
+
+Mastering Python Loops with zip() and enumerate() (2025-05-21)::
+Learn how to simplify your Python loops using `zip()` for parallel iteration and `enumerate()` for index tracking. Includes practical, real-world examples.
++
+https://blog.abhimanyu-saharan.com/posts/effective-use-of-zip-and-enumerate-in-iterations[Read further^]
+
+
+
+Template Strings in Python 3.14: Structured Interpolation (2025-05-20)::
+Python 3.14 adds t"" template strings for structured interpolation, enabling safe rendering, inspection, and transformation before output.
++
+https://blog.abhimanyu-saharan.com/posts/template-strings-in-python-3-14-structured-interpolation[Read further^]
+
+
+
 ## 🎥 Latest video recording
 
 image::https://img.youtube.com/vi/mwZ7GMQ11gc/sddefault.jpg[Latest video recording,800,link=https://www.youtube.com/watch?v=mwZ7GMQ11gc,title="Easiest Way to Deploy WordPress on Kubernetes with Rancher | Episode 7"]
