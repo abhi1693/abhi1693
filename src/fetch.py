@@ -19,7 +19,7 @@ This page is for the tinkerers, the automators, the late-night problem solvers w
 I break down real-world systems, simplify complex tech, and share hands-on solutions with zero fluff and maximum nerd
 cred, all documented at https://blog.abhimanyu-saharan.com[blog.abhimanyu-saharan.com].
 
-By supporting me By supporting me at https://www.patreon.com/asaharan[patreon.com/asaharan], you’re not just fueling 
+By supporting me at https://www.patreon.com/asaharan[patreon.com/asaharan], you’re not just fueling 
 the content, you’re helping keep it raw, honest, and independent. No corporate filters. Just practical insights, 
 deep dives, and the occasional war story.
 
