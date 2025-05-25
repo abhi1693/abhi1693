@@ -1,0 +1,36 @@
+{# templates/template.adoc #}
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+:figure-caption!:
+
+[NOTE]
+====
+image:https://img.shields.io/badge/last_updated-{{ updated.strftime('%Y.%m.%d') }}-blue[]
+ This profile is automatically generated.
+
+If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
+====
+
+{{ bio }}
+
+## ✍️ Most recent blog posts
+
+{% for post in posts %}
+
+{{ post.title }} ({{ post.published_date.strftime('%Y-%m-%d') }})::
+{{ post.description }}[...]
++
+{{ post.link }}[Read further^]
+
+{% endfor %}
+
+## 🎥 Latest video recording
+
+image::https://img.youtube.com/vi/{{ video.id }}/sddefault.jpg[Latest video recording,800,link=https://www.youtube.com/watch?v={{ video.id }},title="{{ video.title }}"]
