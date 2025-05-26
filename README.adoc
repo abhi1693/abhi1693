@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.05.25-blue[]
+image:https://img.shields.io/badge/last_updated-2025.05.26-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Kubernetes Introduces /statusz for Debugging Components (2025-05-26)::
+A new /statusz endpoint is coming to Kubernetes. Find out how it boosts debugging and observability without touching your metrics stack.
++
+https://blog.abhimanyu-saharan.com/posts/kubernetes-introduces-statusz-for-debugging-components[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Mastering Python Loops with zip() and enumerate() (2025-05-21)::
 Learn how to simplify your Python loops using `zip()` for parallel iteration and `enumerate()` for index tracking. Includes practical, real-world examples.
 +
 https://blog.abhimanyu-saharan.com/posts/effective-use-of-zip-and-enumerate-in-iterations[Read further^]
-
-
-
-Template Strings in Python 3.14: Structured Interpolation (2025-05-20)::
-Python 3.14 adds t"" template strings for structured interpolation, enabling safe rendering, inspection, and transformation before output.
-+
-https://blog.abhimanyu-saharan.com/posts/template-strings-in-python-3-14-structured-interpolation[Read further^]
 
 
 
