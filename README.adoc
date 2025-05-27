@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.05.26-blue[]
+image:https://img.shields.io/badge/last_updated-2025.05.27-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Detect Deprecated Kubernetes APIs Before Upgrading (2025-05-27)::
+Use Pluto to identify deprecated or removed Kubernetes APIs in your manifests and Helm charts before upgrading, ensuring smooth and predictable cluster upgrade.
++
+https://blog.abhimanyu-saharan.com/posts/detect-deprecated-kubernetes-apis-before-upgrading[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Python 3.14 Adds compression.zstd for Zstandard Support (2025-05-22)::
 Python 3.14 adds a native Zstandard module under compression.zstd, unifying high-performance zstd support and existing stdlib compressors under one namespace.
 +
 https://blog.abhimanyu-saharan.com/posts/python-3-14-adds-compression-zstd-for-zstandard-support[Read further^]
-
-
-
-Mastering Python Loops with zip() and enumerate() (2025-05-21)::
-Learn how to simplify your Python loops using `zip()` for parallel iteration and `enumerate()` for index tracking. Includes practical, real-world examples.
-+
-https://blog.abhimanyu-saharan.com/posts/effective-use-of-zip-and-enumerate-in-iterations[Read further^]
 
 
 
