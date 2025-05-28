@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.05.27-blue[]
+image:https://img.shields.io/badge/last_updated-2025.05.28-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+From Google to Global: The Technical Origins of Kubernetes (2025-05-28)::
+Kubernetes wasn’t built from scratch. Learn how Google’s secret systems shaped its design, and why that origin still matters for developers today.
++
+https://blog.abhimanyu-saharan.com/posts/from-google-to-global-the-technical-origins-of-kubernetes[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Python 3.13 without GIL: Real-World Threading Finally Works (2025-05-23)::
 Tested Python 3.13's optional GIL. Shared results showing real multithreading gains, install steps, and when it outperforms multiprocessing.
 +
 https://blog.abhimanyu-saharan.com/posts/making-the-gil-optional-a-deep-dive-into-pep-703[Read further^]
-
-
-
-Python 3.14 Adds compression.zstd for Zstandard Support (2025-05-22)::
-Python 3.14 adds a native Zstandard module under compression.zstd, unifying high-performance zstd support and existing stdlib compressors under one namespace.
-+
-https://blog.abhimanyu-saharan.com/posts/python-3-14-adds-compression-zstd-for-zstandard-support[Read further^]
 
 
 
