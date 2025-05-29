@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.05.28-blue[]
+image:https://img.shields.io/badge/last_updated-2025.05.29-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Consistent Sizing for Memory Volumes in Kubernetes (2025-05-29)::
+Kubernetes now aligns memory-backed emptyDir volumes with pod memory limits for improved portability and consistency across node types.
++
+https://blog.abhimanyu-saharan.com/posts/consistent-sizing-for-memory-volumes-in-kubernetes[Read further^]
 
 
 
@@ -77,13 +84,6 @@ CVE-2025-0426: Unauthenticated Kubelet Checkpoint API Could Lead to Node DoS (20
 A critical kubelet bug exposes a DoS risk via the unauthenticated /checkpoint API. Learn how to detect, mitigate, and patch CVE-2025-0426.
 +
 https://blog.abhimanyu-saharan.com/posts/cve-2025-0426-unauthenticated-kubelet-checkpoint-api-could-lead-to-node-dos[Read further^]
-
-
-
-Python 3.13 without GIL: Real-World Threading Finally Works (2025-05-23)::
-Tested Python 3.13's optional GIL. Shared results showing real multithreading gains, install steps, and when it outperforms multiprocessing.
-+
-https://blog.abhimanyu-saharan.com/posts/making-the-gil-optional-a-deep-dive-into-pep-703[Read further^]
 
 
 
