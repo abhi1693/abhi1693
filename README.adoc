@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.05.30-blue[]
+image:https://img.shields.io/badge/last_updated-2025.05.31-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Top 10 Trends in the Python Ecosystem (2025-05-31)::
+Explore the top 10 Python trends in 2025, from faster runtimes and type safety to AI, web, data, DevOps, and quantum. Stay ahead in every domain with Python.
++
+https://blog.abhimanyu-saharan.com/posts/top-10-trends-in-the-python-ecosystem[Read further^]
 
 
 
@@ -77,13 +84,6 @@ CPython Performance Evolution: From Specialization to JIT (2025-05-24)::
 Explore how CPython evolved from adaptive bytecode in 3.11 to JIT execution in 3.14, boosting performance without rewriting the interpreter.
 +
 https://blog.abhimanyu-saharan.com/posts/cpython-performance-evolution-from-specialization-to-jit[Read further^]
-
-
-
-CVE-2025-0426: Unauthenticated Kubelet Checkpoint API Could Lead to Node DoS (2025-05-23)::
-A critical kubelet bug exposes a DoS risk via the unauthenticated /checkpoint API. Learn how to detect, mitigate, and patch CVE-2025-0426.
-+
-https://blog.abhimanyu-saharan.com/posts/cve-2025-0426-unauthenticated-kubelet-checkpoint-api-could-lead-to-node-dos[Read further^]
 
 
 
