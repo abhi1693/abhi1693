@@ -1,0 +1,94 @@
+
+
+<!-- GitAds-Verify: LPZDRLEKH6NEEJ9AFFV17A93FUZO37GA -->
+
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+:figure-caption!:
+
+[NOTE]
+====
+image:https://img.shields.io/badge/last_updated-2025.06.07-blue[]
+ This profile is automatically generated.
+
+If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
+====
+
+
+If you’ve ever debugged at 3 AM, rewritten the same config for the tenth time, or felt the thrill of a green build
+after hours of chaos, you’re one of us.
+
+This page is for the tinkerers, the automators, the late-night problem solvers who’d rather script it than suffer it.
+
+I break down real-world systems, simplify complex tech, and share hands-on solutions with zero fluff and maximum nerd
+cred, all documented at https://blog.abhimanyu-saharan.com[blog.abhimanyu-saharan.com].
+
+By supporting me at https://www.patreon.com/asaharan[patreon.com/asaharan], you’re not just fueling 
+the content, you’re helping keep it raw, honest, and independent. No corporate filters. Just practical insights, 
+deep dives, and the occasional war story.
+
+Join the tribe. Let’s build, break, and fix, with purpose.
+
+
+## ✍️ Most recent blog posts
+
+
+
+Async Preemption: A Scheduler Upgrade for Kubernetes (2025-06-04)::
+A Kubernetes pod takes a fast async path, skipping blocking API calls handled in the background, showing the shift from sync to async preemption.
++
+https://blog.abhimanyu-saharan.com/posts/async-preemption-a-scheduler-upgrade-for-kubernetes[Read further^]
+
+
+
+Controlled Swap Support for Kubernetes Nodes (2025-06-01)::
+Kubernetes adds limited swap support for Burstable pods, offering memory flexibility on cgroupsv2 nodes without compromising workload stability.
++
+https://blog.abhimanyu-saharan.com/posts/controlled-swap-support-for-kubernetes-nodes[Read further^]
+
+
+
+Top 10 Trends in the Python Ecosystem (2025-05-31)::
+Explore the top 10 Python trends in 2025, from faster runtimes and type safety to AI, web, data, DevOps, and quantum. Stay ahead in every domain with Python.
++
+https://blog.abhimanyu-saharan.com/posts/top-10-trends-in-the-python-ecosystem[Read further^]
+
+
+
+Consistent Sizing for Memory Volumes in Kubernetes (2025-05-29)::
+Kubernetes now aligns memory-backed emptyDir volumes with pod memory limits for improved portability and consistency across node types.
++
+https://blog.abhimanyu-saharan.com/posts/consistent-sizing-for-memory-volumes-in-kubernetes[Read further^]
+
+
+
+From Google to Global: The Technical Origins of Kubernetes (2025-05-28)::
+Kubernetes wasn’t built from scratch. Learn how Google’s secret systems shaped its design, and why that origin still matters for developers today.
++
+https://blog.abhimanyu-saharan.com/posts/from-google-to-global-the-technical-origins-of-kubernetes[Read further^]
+
+
+
+Detect Deprecated Kubernetes APIs Before Upgrading (2025-05-27)::
+Use Pluto to identify deprecated or removed Kubernetes APIs in your manifests and Helm charts before upgrading, ensuring smooth and predictable cluster upgrade.
++
+https://blog.abhimanyu-saharan.com/posts/detect-deprecated-kubernetes-apis-before-upgrading[Read further^]
+
+
+
+Kubernetes Introduces /statusz for Debugging Components (2025-05-26)::
+A new /statusz endpoint is coming to Kubernetes. Find out how it boosts debugging and observability without touching your metrics stack.
++
+https://blog.abhimanyu-saharan.com/posts/kubernetes-introduces-statusz-for-debugging-components[Read further^]
+
+
+
+## 🎥 Latest video recording
+
+image::https://img.youtube.com/vi/mwZ7GMQ11gc/sddefault.jpg[Latest video recording,800,link=https://www.youtube.com/watch?v=mwZ7GMQ11gc,title="Easiest Way to Deploy WordPress on Kubernetes with Rancher | Episode 7"]
