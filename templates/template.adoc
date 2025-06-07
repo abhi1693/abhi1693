@@ -1,7 +1,5 @@
 {# templates/template.adoc #}
 
-<!-- GitAds-Verify: LPZDRLEKH6NEEJ9AFFV17A93FUZO37GA -->
-
 ifdef::env-github[]
 :tip-caption: :bulb:
 :note-caption: :information_source:
