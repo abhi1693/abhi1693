@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.06.09-blue[]
+image:https://img.shields.io/badge/last_updated-2025.06.10-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Kubernetes Fixes Leaked Volumes with HonorPVReclaimPolicy (2025-06-10)::
+Kubernetes 1.33 ensures PV reclaim policies are honored even if PVs are deleted before PVCs, preventing storage leaks across CSI and in-tree drivers.
++
+https://blog.abhimanyu-saharan.com/posts/kubernetes-fixes-leaked-volumes-with-honorpvreclaimpolicy[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Detect Deprecated Kubernetes APIs Before Upgrading (2025-05-27)::
 Use Pluto to identify deprecated or removed Kubernetes APIs in your manifests and Helm charts before upgrading, ensuring smooth and predictable cluster upgrade.
 +
 https://blog.abhimanyu-saharan.com/posts/detect-deprecated-kubernetes-apis-before-upgrading[Read further^]
-
-
-
-Kubernetes Introduces /statusz for Debugging Components (2025-05-26)::
-A new /statusz endpoint is coming to Kubernetes. Find out how it boosts debugging and observability without touching your metrics stack.
-+
-https://blog.abhimanyu-saharan.com/posts/kubernetes-introduces-statusz-for-debugging-components[Read further^]
 
 
 
