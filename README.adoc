@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.06.13-blue[]
+image:https://img.shields.io/badge/last_updated-2025.06.14-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Pod Topology Spread Now Honors Taints and Affinity (2025-06-13)::
+Pods can now exclude tainted nodes during topology spread calculations, improving placement predictability.
++
+https://blog.abhimanyu-saharan.com/posts/pod-topology-spread-now-honors-taints-and-affinity[Read further^]
 
 
 
@@ -77,13 +84,6 @@ From Google to Global: The Technical Origins of Kubernetes (2025-05-28)::
 Kubernetes wasn’t built from scratch. Learn how Google’s secret systems shaped its design, and why that origin still matters for developers today.
 +
 https://blog.abhimanyu-saharan.com/posts/from-google-to-global-the-technical-origins-of-kubernetes[Read further^]
-
-
-
-Detect Deprecated Kubernetes APIs Before Upgrading (2025-05-27)::
-Use Pluto to identify deprecated or removed Kubernetes APIs in your manifests and Helm charts before upgrading, ensuring smooth and predictable cluster upgrade.
-+
-https://blog.abhimanyu-saharan.com/posts/detect-deprecated-kubernetes-apis-before-upgrading[Read further^]
 
 
 
