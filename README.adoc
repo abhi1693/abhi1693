@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.06.19-blue[]
+image:https://img.shields.io/badge/last_updated-2025.06.20-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Smarter Pod Scheduling with MatchLabelKeys in Pod Affinity (2025-06-20)::
+Enhance Kubernetes pod scheduling with dynamic affinity using matchLabelKeys and mismatchLabelKeys for safer rollouts and tenant isolation.
++
+https://blog.abhimanyu-saharan.com/posts/smarter-pod-scheduling-with-matchlabelkeys-in-pod-affinity[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Consistent Sizing for Memory Volumes in Kubernetes (2025-05-29)::
 Kubernetes now aligns memory-backed emptyDir volumes with pod memory limits for improved portability and consistency across node types.
 +
 https://blog.abhimanyu-saharan.com/posts/consistent-sizing-for-memory-volumes-in-kubernetes[Read further^]
-
-
-
-From Google to Global: The Technical Origins of Kubernetes (2025-05-28)::
-Kubernetes wasn’t built from scratch. Learn how Google’s secret systems shaped its design, and why that origin still matters for developers today.
-+
-https://blog.abhimanyu-saharan.com/posts/from-google-to-global-the-technical-origins-of-kubernetes[Read further^]
 
 
 
