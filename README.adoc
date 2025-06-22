@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.06.21-blue[]
+image:https://img.shields.io/badge/last_updated-2025.06.22-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+OpenAI in 2025: Key Product, Research &amp; Ecosystem Trends (2025-06-21)::
+Explore OpenAI's major 2025 updates including new GPT models, research breakthroughs, multimodal tools, and how the community is shaping the AI ecosystem.
++
+https://blog.abhimanyu-saharan.com/posts/openai-in-2025-key-product-research-and-ecosystem-trends[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Top 10 Trends in the Python Ecosystem (2025-05-31)::
 Explore the top 10 Python trends in 2025, from faster runtimes and type safety to AI, web, data, DevOps, and quantum. Stay ahead in every domain with Python.
 +
 https://blog.abhimanyu-saharan.com/posts/top-10-trends-in-the-python-ecosystem[Read further^]
-
-
-
-Consistent Sizing for Memory Volumes in Kubernetes (2025-05-29)::
-Kubernetes now aligns memory-backed emptyDir volumes with pod memory limits for improved portability and consistency across node types.
-+
-https://blog.abhimanyu-saharan.com/posts/consistent-sizing-for-memory-volumes-in-kubernetes[Read further^]
 
 
 
