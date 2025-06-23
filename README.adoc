@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.06.22-blue[]
+image:https://img.shields.io/badge/last_updated-2025.06.23-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,20 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+A Persistent Security Hole in Kubernetes Finally Addressed (2025-06-23)::
+CVE-2025-1767 exposes root-level access on nodes via a deprecated volume plugin; Kubernetes 1.33 will disable it by default
++
+https://blog.abhimanyu-saharan.com/posts/a-persistent-security-hole-in-kubernetes-finally-addressed[Read further^]
+
+
+
+A Decade of Cloud Native: The CNCF’s 10-Year Journey (2025-06-22)::
+Explore the 10-year journey of CNCF, its major milestones, community growth, and impact on cloud-native technologies in this detailed, analytical post.
++
+https://blog.abhimanyu-saharan.com/posts/a-decade-of-cloud-native-the-cncf-s-10-year-journey[Read further^]
 
 
 
@@ -70,20 +84,6 @@ Async Preemption: A Scheduler Upgrade for Kubernetes (2025-06-04)::
 A Kubernetes pod takes a fast async path, skipping blocking API calls handled in the background, showing the shift from sync to async preemption.
 +
 https://blog.abhimanyu-saharan.com/posts/async-preemption-a-scheduler-upgrade-for-kubernetes[Read further^]
-
-
-
-Controlled Swap Support for Kubernetes Nodes (2025-06-01)::
-Kubernetes adds limited swap support for Burstable pods, offering memory flexibility on cgroupsv2 nodes without compromising workload stability.
-+
-https://blog.abhimanyu-saharan.com/posts/controlled-swap-support-for-kubernetes-nodes[Read further^]
-
-
-
-Top 10 Trends in the Python Ecosystem (2025-05-31)::
-Explore the top 10 Python trends in 2025, from faster runtimes and type safety to AI, web, data, DevOps, and quantum. Stay ahead in every domain with Python.
-+
-https://blog.abhimanyu-saharan.com/posts/top-10-trends-in-the-python-ecosystem[Read further^]
 
 
 
