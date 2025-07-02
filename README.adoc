@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.07.01-blue[]
+image:https://img.shields.io/badge/last_updated-2025.07.02-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Understanding SLAs, SLOs, and SLIs in Service Reliability (2025-07-02)::
+Learn the difference between SLA, SLO, and SLI with real-world examples. Master key service reliability metrics for uptime, latency, and performance monitoring.
++
+https://blog.abhimanyu-saharan.com/posts/understanding-slas-slos-and-slis-in-service-reliability[Read further^]
 
 
 
@@ -77,13 +84,6 @@ OpenAI in 2025: Key Product, Research &amp; Ecosystem Trends (2025-06-21)::
 Explore OpenAI's major 2025 updates including new GPT models, research breakthroughs, multimodal tools, and how the community is shaping the AI ecosystem.
 +
 https://blog.abhimanyu-saharan.com/posts/openai-in-2025-key-product-research-and-ecosystem-trends[Read further^]
-
-
-
-Smarter Pod Scheduling with MatchLabelKeys in Pod Affinity (2025-06-20)::
-Enhance Kubernetes pod scheduling with dynamic affinity using matchLabelKeys and mismatchLabelKeys for safer rollouts and tenant isolation.
-+
-https://blog.abhimanyu-saharan.com/posts/smarter-pod-scheduling-with-matchlabelkeys-in-pod-affinity[Read further^]
 
 
 
