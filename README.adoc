@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.07.02-blue[]
+image:https://img.shields.io/badge/last_updated-2025.07.03-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Kickstart Your Dev Journey with Python, React &amp; OSS Guide (2025-07-03)::
+Learn which Python and React frameworks to master, what projects to build, and how to make your first open source contribution with real project examples.
++
+https://blog.abhimanyu-saharan.com/posts/kickstart-your-dev-journey-with-python-react-and-oss-guide[Read further^]
 
 
 
@@ -77,13 +84,6 @@ A Decade of Cloud Native: The CNCF’s 10-Year Journey (2025-06-22)::
 Explore the 10-year journey of CNCF, its major milestones, community growth, and impact on cloud-native technologies in this detailed, analytical post.
 +
 https://blog.abhimanyu-saharan.com/posts/a-decade-of-cloud-native-the-cncf-s-10-year-journey[Read further^]
-
-
-
-OpenAI in 2025: Key Product, Research &amp; Ecosystem Trends (2025-06-21)::
-Explore OpenAI's major 2025 updates including new GPT models, research breakthroughs, multimodal tools, and how the community is shaping the AI ecosystem.
-+
-https://blog.abhimanyu-saharan.com/posts/openai-in-2025-key-product-research-and-ecosystem-trends[Read further^]
 
 
 
