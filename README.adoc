@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.07.19-blue[]
+image:https://img.shields.io/badge/last_updated-2025.07.20-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Kubernetes Production Topologies: EKS vs GKE vs AKS (2025-07-19)::
+Compare Kubernetes topologies across AWS EKS, Google GKE, and Azure AKS. Learn how to design resilient, production-grade clusters the right way.
++
+https://blog.abhimanyu-saharan.com/posts/kubernetes-production-topologies-eks-vs-gke-vs-aks[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Native Subresource Support in Kubectl (2025-06-29)::
 Interact with Kubernetes subresources like `status` and `scale` using `kubectl` natively with the new `--subresource` flag, no more raw HTTP calls.
 +
 https://blog.abhimanyu-saharan.com/posts/native-subresource-support-in-kubectl[Read further^]
-
-
-
-A Persistent Security Hole in Kubernetes Finally Addressed (2025-06-23)::
-CVE-2025-1767 exposes root-level access on nodes via a deprecated volume plugin; Kubernetes 1.33 will disable it by default
-+
-https://blog.abhimanyu-saharan.com/posts/a-persistent-security-hole-in-kubernetes-finally-addressed[Read further^]
 
 
 
