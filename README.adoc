@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.08.01-blue[]
+image:https://img.shields.io/badge/last_updated-2025.08.02-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+CVE-2025-54313: Prettier Config Package Hijacked (2025-07-29)::
+A high-severity CVE exposed eslint-config-prettier to a supply chain attack via a phishing compromise. Learn what happened, who’s affected, and how to fix it.
++
+https://blog.abhimanyu-saharan.com/posts/cve-2025-54313-prettier-config-package-hijacked[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Optimizing Core Web Vitals (LCP, FID, CLS) in Next.js (2025-07-01)::
 Learn how to optimize Core Web Vitals (LCP, FID, CLS) in Next.js with in-depth strategies, best practices, and testing tools for better SEO and user experience.
 +
 https://blog.abhimanyu-saharan.com/posts/optimizing-core-web-vitals-lcp-fid-cls-in-next-js[Read further^]
-
-
-
-Stripping Strings in Python? You Might Be Doing It Wrong (2025-06-30)::
-Learn the key differences between `removesuffix()` and `rstrip()` in Python. Avoid common pitfalls and choose the right method for precise string manipulation.
-+
-https://blog.abhimanyu-saharan.com/posts/stripping-strings-in-python-you-might-be-doing-it-wrong[Read further^]
 
 
 
