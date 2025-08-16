@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.08.15-blue[]
+image:https://img.shields.io/badge/last_updated-2025.08.16-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+From Foundations to DevOps: A Smarter Career Path (2025-08-15)::
+Discover how building strong technical foundations first can set you up for lasting success in a DevOps career.
++
+https://blog.abhimanyu-saharan.com/posts/from-foundations-to-devops-a-smarter-career-path[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Understanding SLAs, SLOs, and SLIs in Service Reliability (2025-07-02)::
 Learn the difference between SLA, SLO, and SLI with real-world examples. Master key service reliability metrics for uptime, latency, and performance monitoring.
 +
 https://blog.abhimanyu-saharan.com/posts/understanding-slas-slos-and-slis-in-service-reliability[Read further^]
-
-
-
-Optimizing Core Web Vitals (LCP, FID, CLS) in Next.js (2025-07-01)::
-Learn how to optimize Core Web Vitals (LCP, FID, CLS) in Next.js with in-depth strategies, best practices, and testing tools for better SEO and user experience.
-+
-https://blog.abhimanyu-saharan.com/posts/optimizing-core-web-vitals-lcp-fid-cls-in-next-js[Read further^]
 
 
 
