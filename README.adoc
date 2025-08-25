@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2025.08.24-blue[]
+image:https://img.shields.io/badge/last_updated-2025.08.25-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Optimize Docker Images: Faster Builds, Smaller Size (2025-08-24)::
+Learn how to reduce Docker image size and speed up builds with smart caching, cache busting, multi-stage builds, and BuildKit best practices.
++
+https://blog.abhimanyu-saharan.com/posts/optimize-docker-images-faster-builds-smaller-size[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Kubernetes Production Topologies: EKS vs GKE vs AKS (2025-07-19)::
 Compare Kubernetes topologies across AWS EKS, Google GKE, and Azure AKS. Learn how to design resilient, production-grade clusters the right way.
 +
 https://blog.abhimanyu-saharan.com/posts/kubernetes-production-topologies-eks-vs-gke-vs-aks[Read further^]
-
-
-
-Inside PostgreSQL: Architecture for HA, Speed &amp; Reliability (2025-07-06)::
-Explore PostgreSQL’s architecture with a focus on high availability, data integrity, resilience, and performance; ideal for developers, DBAs, and tech leads.
-+
-https://blog.abhimanyu-saharan.com/posts/inside-postgresql-architecture-for-ha-speed-and-reliability[Read further^]
 
 
 
