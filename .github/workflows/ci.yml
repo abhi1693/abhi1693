@@ -23,7 +23,7 @@ jobs:
           poetry-version: 2.2.1
 
       - name: Install dependencies
-        run: poetry install
+        run: poetry install --no-root
 
       - name: Update GitHub profile
         env:
