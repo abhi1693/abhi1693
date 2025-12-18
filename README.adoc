@@ -38,6 +38,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 
+GitHub Actions 2026 Pricing: A Lesson in Breaking Trust (2025-12-18)::
+GitHub cut hosted runner prices but planned fees for self-hosted Actions, triggering backlash. The change was paused. Here’s what happened and what to expect.
++
+https://blog.abhimanyu-saharan.com/posts/github-actions-2026-pricing-changes-what-happened-and-what-it-means-for-self-hosted-runners[Read further^]
+
+
+
 What’s New in Kubernetes 1.34 (2025-09-07)::
 Kubernetes 1.34 brings GA features, scheduler speedups, kubelet and networking updates, plus security and performance boosts for production clusters.
 +
@@ -77,13 +84,6 @@ Helm Upgrade Failure: When Managed Fields Bite Back (2025-08-20)::
 Helm upgrade failed due to Kubernetes managedFields conflict. Learn why spec looked fine, yet patching caused errors, and how to fix it.
 +
 https://blog.abhimanyu-saharan.com/posts/helm-upgrade-failure-when-managed-fields-bite-back[Read further^]
-
-
-
-From Foundations to DevOps: A Smarter Career Path (2025-08-15)::
-Discover how building strong technical foundations first can set you up for lasting success in a DevOps career.
-+
-https://blog.abhimanyu-saharan.com/posts/from-foundations-to-devops-a-smarter-career-path[Read further^]
 
 
 
