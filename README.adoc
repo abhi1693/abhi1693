@@ -38,6 +38,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 
+Why Most Homelabs Never Become Real Infrastructure (2026-05-27)::
+Why most homelabs stay as hardware collections, and what it takes to build real infrastructure around reliability, recovery, observability, and failure.
++
+https://blog.abhimanyu-saharan.com/posts/why-most-homelabs-never-become-real-infrastructure[Read further^]
+
+
+
 GitHub Actions 2026 Pricing: A Lesson in Breaking Trust (2025-12-18)::
 GitHub cut hosted runner prices but planned fees for self-hosted Actions, triggering backlash. The change was paused. Here’s what happened and what to expect.
 +
@@ -77,13 +84,6 @@ Run and Test Kubernetes CronJobs Instantly Without Waiting (2025-08-20)::
 Stop waiting for schedules to debug CronJobs. Learn how to trigger them immediately, validate specs, and streamline testing in Kubernetes.
 +
 https://blog.abhimanyu-saharan.com/posts/run-and-test-kubernetes-cronjobs-instantly-without-waiting[Read further^]
-
-
-
-Helm Upgrade Failure: When Managed Fields Bite Back (2025-08-20)::
-Helm upgrade failed due to Kubernetes managedFields conflict. Learn why spec looked fine, yet patching caused errors, and how to fix it.
-+
-https://blog.abhimanyu-saharan.com/posts/helm-upgrade-failure-when-managed-fields-bite-back[Read further^]
 
 
 
