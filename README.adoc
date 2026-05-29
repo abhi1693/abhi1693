@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2026.05.28-blue[]
+image:https://img.shields.io/badge/last_updated-2026.05.29-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -35,6 +35,13 @@ Join the tribe. Let’s build, break, and fix, with purpose.
 
 
 ## ✍️ Most recent blog posts
+
+
+
+Running a Homelab Made Me Rethink My Network (2026-05-28)::
+Running Kubernetes, backups, media servers, and public services from home exposed the limitations of consumer broadband and why WAN failover alone is not enough
++
+https://blog.abhimanyu-saharan.com/posts/running-a-homelab-made-me-rethink-my-network[Read further^]
 
 
 
@@ -77,13 +84,6 @@ Optimize Docker Images: Faster Builds, Smaller Size (2025-08-24)::
 Learn how to reduce Docker image size and speed up builds with smart caching, cache busting, multi-stage builds, and BuildKit best practices.
 +
 https://blog.abhimanyu-saharan.com/posts/optimize-docker-images-faster-builds-smaller-size[Read further^]
-
-
-
-Run and Test Kubernetes CronJobs Instantly Without Waiting (2025-08-20)::
-Stop waiting for schedules to debug CronJobs. Learn how to trigger them immediately, validate specs, and streamline testing in Kubernetes.
-+
-https://blog.abhimanyu-saharan.com/posts/run-and-test-kubernetes-cronjobs-instantly-without-waiting[Read further^]
 
 
 
