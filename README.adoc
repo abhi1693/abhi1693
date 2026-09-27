@@ -12,7 +12,7 @@ endif::[]
 
 [NOTE]
 ====
-image:https://img.shields.io/badge/last_updated-2026.09.26-blue[]
+image:https://img.shields.io/badge/last_updated-2026.09.27-blue[]
  This profile is automatically generated.
 
 If you're interested in knowing more, please check https://github.com/abhi1693/abhi1693[the code^].
@@ -32,8 +32,6 @@ the content, you’re helping keep it raw, honest, and independent. No corporate
 deep dives, and the occasional war story.
 
 Join the tribe. Let’s build, break, and fix, with purpose.
-
-image::https://devfeed.tech/api/v1/users/asaharan/card.svg[DevFeed card,link=https://devfeed.tech/users/asaharan]
 
 
 ## ✍️ Most recent blog posts
