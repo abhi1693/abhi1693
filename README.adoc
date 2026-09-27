@@ -33,6 +33,8 @@ deep dives, and the occasional war story.
 
 Join the tribe. Let’s build, break, and fix, with purpose.
 
+image::https://devfeed.tech/api/v1/users/asaharan/card.svg[DevFeed card,link=https://devfeed.tech/users/asaharan]
+
 
 ## ✍️ Most recent blog posts
 

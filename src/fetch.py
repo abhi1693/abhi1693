@@ -27,6 +27,8 @@ the content, you’re helping keep it raw, honest, and independent. No corporate
 deep dives, and the occasional war story.
 
 Join the tribe. Let’s build, break, and fix, with purpose.
+
+image::https://devfeed.tech/api/v1/users/asaharan/card.svg[DevFeed card,link=https://devfeed.tech/users/asaharan]
 """
 
 _CONTENT_ENCODED_TAG = "{http://purl.org/rss/1.0/modules/content/}encoded"
