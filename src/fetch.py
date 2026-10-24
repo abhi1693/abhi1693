@@ -1,140 +1,101 @@
-from datetime import datetime, date
+"""Fetch five recent English articles through DevFeed's public MCP."""
+
+import json
+import re
+from datetime import datetime
 from html import unescape
 from html.parser import HTMLParser
-from os import getenv
-import re
-from typing import Mapping
-from xml.etree import ElementTree
-from xml.etree.ElementTree import Element
+from urllib.parse import urlsplit
 
-from requests import get
+from requests import Session
 
-from model import Post, Video
-
-__all__ = ['fetch_posts', 'fetch_video', 'BIO']
-
-BIO = """
-If you’ve ever debugged at 3 AM, rewritten the same config for the tenth time, or felt the thrill of a green build
-after hours of chaos, you’re one of us.
-
-This page is for the tinkerers, the automators, the late-night problem solvers who’d rather script it than suffer it.
-
-I break down real-world systems, simplify complex tech, and share hands-on solutions with zero fluff and maximum nerd
-cred, all documented at https://blog.abhimanyu-saharan.com[blog.abhimanyu-saharan.com].
-
-By supporting me at https://www.patreon.com/asaharan[patreon.com/asaharan], you’re not just fueling 
-the content, you’re helping keep it raw, honest, and independent. No corporate filters. Just practical insights, 
-deep dives, and the occasional war story.
-
-Join the tribe. Let’s build, break, and fix, with purpose.
-
-image::https://devfeed.tech/api/v1/users/asaharan/card.svg[DevFeed card,link=https://devfeed.tech/users/asaharan]
-"""
-
-_CONTENT_ENCODED_TAG = "{http://purl.org/rss/1.0/modules/content/}encoded"
+MCP_URL = 'https://mcp.devfeed.tech/mcp'
+ARTICLE_LIMIT = 5
 
 
-class _HTMLTextExtractor(HTMLParser):
+def _rpc(session: Session, request_id: int, method: str, params: dict) -> dict:
+    response = session.post(
+        MCP_URL,
+        json={'jsonrpc': '2.0', 'id': request_id, 'method': method, 'params': params},
+        timeout=30,
+    )
+    response.raise_for_status()
+    payload = response.json()
+    if 'error' in payload:
+        raise RuntimeError(f"DevFeed MCP request failed: {payload['error']}")
+    return payload['result']
+
+
+def markdown_text(value: str) -> str:
+    text = ' '.join(unescape(value).split())
+    return ''.join(f'&#{ord(char)};' if char in '&[]{}<>*_`\\' else char for char in text)
+
+
+class _PreviewText(HTMLParser):
     def __init__(self) -> None:
         super().__init__()
-        self._parts: list[str] = []
+        self.parts: list[str] = []
 
     def handle_data(self, data: str) -> None:
-        if data:
-            self._parts.append(data)
-
-    def get_text(self) -> str:
-        return " ".join(self._parts)
+        self.parts.append(data)
 
 
-def _html_to_text(raw_html: str) -> str:
-    parser = _HTMLTextExtractor()
-    parser.feed(raw_html)
+def article_preview(value: str) -> str:
+    parser = _PreviewText()
+    parser.feed(value)
     parser.close()
-    text = re.sub(r"\s+", " ", unescape(parser.get_text())).strip()
-    return re.sub(r"\s+([.,!?;:])", r"\1", text)
+    words = ' '.join(parser.parts).split()
+    preview = ' '.join(words[:45])
+    if len(words) > 45:
+        sentences = list(re.finditer(r'[.!?](?=\s|$)', preview))
+        end = sentences[-1].end() if sentences else 0
+        if len(preview[:end].split()) >= 15:
+            preview = preview[:end]
+        else:
+            preview = preview.rstrip('.,;:') + '…'
+    return markdown_text(preview)
 
 
-def _summarize(text: str, *, max_words: int = 40) -> str:
-    words = text.split()
-    if len(words) <= max_words:
-        return text
-    return " ".join(words[:max_words]).rstrip() + "…"
-
-
-def fetch_posts() -> list[Post]:
-    url = "https://blog.abhimanyu-saharan.com/posts/rss.xml"
-    headers: Mapping[str, str | bytes] | None = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'}
-    text_response: str = get(url, headers=headers).content.decode("utf-8")
-    root: Element = ElementTree.fromstring(text_response)
-    nodes: list[Element] = root.findall("./channel/item")[:7]
-
-    def text_or_none(node: Element, tag: str) -> str | None:
-        result: Element | None = node.find(tag)
-        if result is None or result.text is None:
-            return None
-        text = result.text.strip()
-        return text or None
-
-    def text_or_raise(node: Element, tag: str) -> str:
-        text = text_or_none(node, tag)
-        if text is None:
-            raise ValueError(f"Tag '{tag}' not found in node {node.tag}")
-        return text
-
-    def description_for(node: Element) -> str:
-        description = text_or_none(node, "description")
-        if description is not None:
-            return description
-
-        encoded = text_or_none(node, _CONTENT_ENCODED_TAG)
-        if encoded is None:
-            return ""
-        return _summarize(_html_to_text(encoded))
-
-    return [
-        Post(
-            title=text_or_raise(node, "title"),
-            link=text_or_raise(node, "link"),
-            description=description_for(node),
-            published_date=datetime.strptime(text_or_raise(node, "pubDate"), "%a, %d %b %Y %H:%M:%S %Z"),
-        )
-        for node in nodes
-    ]
-
-
-def fetch_video() -> Video:
-    playlist_id = "PLgyhMyHrtzDhX6RqKdy30NSs_hKqzAjM1"
-    api_key = getenv("YOUTUBE_API_KEY")
-
-    if api_key:
-        url = (
-            "https://www.googleapis.com/youtube/v3/playlistItems"
-            f"?part=snippet&maxResults=1&playlistId={playlist_id}&key={api_key}"
-        )
-        response = get(url).json()
-        try:
-            snippet = response["items"][0]["snippet"]
-            return Video(snippet["resourceId"]["videoId"], snippet["title"])
-        except (KeyError, IndexError, TypeError):
-            pass
-
-    url = f"https://www.youtube.com/feeds/videos.xml?playlist_id={playlist_id}"
-    headers: Mapping[str, str | bytes] = {"User-Agent": "Mozilla/5.0"}
-    text_response: str = get(url, headers=headers).content.decode("utf-8")
-    root: Element = ElementTree.fromstring(text_response)
-    namespaces = {
-        "atom": "http://www.w3.org/2005/Atom",
-        "yt": "http://www.youtube.com/xml/schemas/2015",
-    }
-
-    entry = root.find("atom:entry", namespaces)
-    if entry is None:
-        raise ValueError("No video entries found in YouTube RSS feed")
-
-    video_id = entry.findtext("yt:videoId", namespaces=namespaces)
-    title = entry.findtext("atom:title", namespaces=namespaces)
-    if not video_id or not title:
-        raise ValueError("Missing video id/title in YouTube RSS feed")
-    return Video(video_id.strip(), title.strip())
+def fetch_articles() -> list[dict[str, str]]:
+    with Session() as session:
+        session.headers.update({'Accept': 'application/json, text/event-stream'})
+        initialized = _rpc(session, 1, 'initialize', {
+            'protocolVersion': '2025-11-25',
+            'capabilities': {},
+            'clientInfo': {'name': 'abhi1693-profile', 'version': '1.0.0'},
+        })
+        session.headers['Mcp-Protocol-Version'] = initialized['protocolVersion']
+        response = session.post(MCP_URL, json={
+            'jsonrpc': '2.0', 'method': 'notifications/initialized',
+        }, timeout=30)
+        response.raise_for_status()
+        result = _rpc(session, 2, 'tools/call', {
+            'name': 'get_feed', 'arguments': {'limit': ARTICLE_LIMIT, 'languages': ['en']},
+        })
+    if result.get('isError'):
+        raise RuntimeError('DevFeed MCP get_feed returned an error')
+    data = result.get('structuredContent')
+    if data is None:
+        data = json.loads(next(block['text'] for block in result['content'] if block['type'] == 'text'))
+    items = data['items'][:ARTICLE_LIMIT]
+    if len(items) != ARTICLE_LIMIT:
+        raise ValueError('DevFeed returned fewer than five articles; keeping the existing README')
+    articles = []
+    for item in items:
+        url = item['canonical_url']
+        if not url.startswith('https://') or any(char.isspace() or char in '[]<>"' for char in url):
+            raise ValueError('DevFeed returned an invalid publisher URL')
+        publishers = [source['name'] for source in item.get('sources', [])
+                      if source.get('source_type') == 'publisher']
+        source = publishers[0] if publishers else urlsplit(url).hostname
+        published = item.get('published_at')
+        date = datetime.fromisoformat(published.replace('Z', '+00:00')).strftime('%b %d, %Y') if published else ''
+        articles.append({
+            'title': markdown_text(item['title']),
+            'url': url,
+            'source': markdown_text(source or ''),
+            'date': date,
+            'kind': markdown_text(item.get('content_type', 'article').title()),
+            'preview': article_preview(item.get('ai_summary') or item.get('summary') or ''),
+        })
+    return articles
