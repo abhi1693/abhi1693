@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [PowerToys adds smarter mouse controls and more Windows customization](<https://www.techspot.com/downloads/7185-microsoft-powertoys.html>)
+### 1. [Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support](<https://www.phoronix.com/news/Linux-7.4-Block>)
 
-**TechSpot** · Release · Oct 24, 2026
+**Phoronix** · News · Oct 25, 2026
 
-PowerToys 0.102 adds controls for common input and workflow tasks. Mouse Button Lock lets a long press keep a mouse button active for dragging or selecting until another click; CursorHide hides the pointer during typing or inactivity and restores it on mouse movement.
+Linux 7.4’s merged block updates include fixes spanning legacy floppy hardware and newer Apple storage. The floppy driver received a stack out-of-bounds fix, correction of a regression affecting drive-structure flags, and fixes for data races identified by unspecified tools.
 
-[Read article →](<https://www.techspot.com/downloads/7185-microsoft-powertoys.html>)
-
----
-
-### 2. [The last 24 hours in PHP land, as observed by a monitoring service](<https://freek.dev/3207-the-last-24-hours-in-php-land-as-observed-by-a-monitoring-service>)
-
-**Freek** · News · Oct 24, 2026
-
-Oh Dear reports that site outages peaked at 18.8% during the recent critical PHP vulnerabilities, while down alerts rose to 25 times their normal level.
-
-[Read article →](<https://freek.dev/3207-the-last-24-hours-in-php-land-as-observed-by-a-monitoring-service>)
+[Read article →](<https://www.phoronix.com/news/Linux-7.4-Block>)
 
 ---
 
-### 3. [CVE-2026-116011 - Crow before 1.3.4 Denial of Service via Deeply Nested JSON in crow::json::load()](<https://cvefeed.io/vuln/detail/CVE-2026-116011>)
+### 2. [This AI Assistant Looks Like a Tiny Monitor but Actually Operates Your Computer](<https://www.yankodesign.com/2026/10/24/this-ai-assistant-looks-like-a-tiny-monitor-but-actually-operates-your-computer/>)
 
-**Latest High/Critical Vulnerabilitiy Feed** · News · Oct 24, 2026
+**Yanko Design** · Article · Oct 24, 2026
 
-Crow versions before 1.3.4 have an uncontrolled recursion flaw in &#96;crow::json::load()&#96;. A remote unauthenticated attacker can send a request body containing thousands of nested JSON objects, exhaust the worker thread stack, crash the server process, and drop all connections.
+Bvio’s Violoop is a plug-in AI operator that uses screen understanding and keyboard and mouse controls to carry out repetitive tasks in existing apps, such as moving details from WhatsApp into a CRM, preparing spreadsheet entries, organizing files, and drafting email replies.
 
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-116011>)
-
----
-
-### 4. [Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers](<https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/>)
-
-**MarkTechPost** · Article · Oct 24, 2026
-
-Anthropic’s open-source sandbox-runtime (srt) wraps processes in OS-level file and network restrictions, including their subprocesses, without containers. It can run as a CLI or TypeScript library for agents, MCP servers, and other commands.
-
-[Read article →](<https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/>)
+[Read article →](<https://www.yankodesign.com/2026/10/24/this-ai-assistant-looks-like-a-tiny-monitor-but-actually-operates-your-computer/>)
 
 ---
 
-### 5. [systemd Merges Support For Rust Programs](<https://www.phoronix.com/news/systemd-Merges-Rust-Programs>)
+### 3. [2026 Retrocomputing Challenge: I Would Do Anything For Serial Data](<https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/>)
 
-**Phoronix** · News · Oct 24, 2026
+**Hackaday** · News · Oct 24, 2026
 
-systemd has merged optional Rust support for leaf programs, while core systemd code such as the systemd library still lacks Rust support pending resolution of blockers. Rust components are built with Meson without Cargo, and C linkage is required.
+Meatloaf uses an ESP32 connected to a Commodore computer’s IEC serial port to deliver files from local storage or active URLs. A dedicated service points to files regardless of where they are stored; the device retrieves them and sends them over the serial link.
 
-[Read article →](<https://www.phoronix.com/news/systemd-Merges-Rust-Programs>)
+[Read article →](<https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/>)
+
+---
+
+### 4. [CVE-2026-114820 - Vulnerability in the Oracle Java SE, Oracle GraalV](<https://cvefeed.io/vuln/detail/CVE-2026-114820>)
+
+**Latest High/Critical Vulnerabilitiy Feed** · Article · Oct 24, 2026
+
+CVE-2026-114820 affects the JSSE component in listed Oracle Java SE versions (8u511-b32, 8u511-perf-b32, 11.0.33.0.2, 17.0.21.0.2, 21.0.13.0.2, 25.0.5.0.2, 27.0.1.0.2), Oracle GraalVM for JDK 17.0.21.0.2 and 21.0.13.0.2, and GraalVM Enterprise Edition 21.3.20.0.2.
+
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-114820>)
+
+---
+
+### 5. [The AI graveyard: a running list of projects and startups that didn’t make it](<https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>)
+
+**TechCrunch | AI News &#38; Artificial Intelligence** · News · Oct 24, 2026
+
+The excerpt shows that AI projects can lose their footing for different reasons: Relay and Huxe faced competition from larger platforms adding similar features; Yupp lacked product-market fit, while Figgs AI said the cost of keeping its service free was unsustainable.
+
+[Read article →](<https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>)
 
 
 ---
 
-Updated 2026-10-24 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-10-25 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
