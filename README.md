@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support](<https://www.phoronix.com/news/Linux-7.4-Block>)
+### 1. [Redox OS Landed Nice Performance Improvements In September](<https://www.phoronix.com/news/Redox-OS-September-2026>)
 
-**Phoronix** · News · Oct 25, 2026
+**Phoronix** · News · Oct 26, 2026
 
-Linux 7.4’s merged block updates include fixes spanning legacy floppy hardware and newer Apple storage. The floppy driver received a stack out-of-bounds fix, correction of a regression affecting drive-structure flags, and fixes for data races identified by unspecified tools.
+Redox OS’s September 2026 update reports performance gains from several kernel changes. Direct context switching bypasses the scheduler for system service calls, avoiding an expensive BTreeMap path; the excerpt reports 24% lower IPC latency and about 5% better I/O performance with small buffers.
 
-[Read article →](<https://www.phoronix.com/news/Linux-7.4-Block>)
-
----
-
-### 2. [This AI Assistant Looks Like a Tiny Monitor but Actually Operates Your Computer](<https://www.yankodesign.com/2026/10/24/this-ai-assistant-looks-like-a-tiny-monitor-but-actually-operates-your-computer/>)
-
-**Yanko Design** · Article · Oct 24, 2026
-
-Bvio’s Violoop is a plug-in AI operator that uses screen understanding and keyboard and mouse controls to carry out repetitive tasks in existing apps, such as moving details from WhatsApp into a CRM, preparing spreadsheet entries, organizing files, and drafting email replies.
-
-[Read article →](<https://www.yankodesign.com/2026/10/24/this-ai-assistant-looks-like-a-tiny-monitor-but-actually-operates-your-computer/>)
+[Read article →](<https://www.phoronix.com/news/Redox-OS-September-2026>)
 
 ---
 
-### 3. [2026 Retrocomputing Challenge: I Would Do Anything For Serial Data](<https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/>)
+### 2. [OpenSSL 4.1.0: What’s new, what’s removed, and what’s still broken](<https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/>)
 
-**Hackaday** · News · Oct 24, 2026
+**Help Net Security** · Release · Oct 25, 2026
 
-Meatloaf uses an ESP32 connected to a Commodore computer’s IEC serial port to deliver files from local storage or active URLs. A dedicated service points to files regardless of where they are stored; the device retrieves them and sends them over the serial link.
+OpenSSL 4.1.0 adds DTLS 1.3 but ships with four known DTLS bugs. Listener errors can be misreported as SSL&#95;ERROR&#95;WANT&#95;READ, and retryable writes as SSL&#95;ERROR&#95;SYSCALL; a server handshake may abort after packet loss, and KeyUpdate can discard a lost NewSessionTicket instead of retransmitting it.
 
-[Read article →](<https://hackaday.com/2026/10/24/2026-retrocomputing-challenge-i-would-do-anything-for-serial-data/>)
-
----
-
-### 4. [CVE-2026-114820 - Vulnerability in the Oracle Java SE, Oracle GraalV](<https://cvefeed.io/vuln/detail/CVE-2026-114820>)
-
-**Latest High/Critical Vulnerabilitiy Feed** · Article · Oct 24, 2026
-
-CVE-2026-114820 affects the JSSE component in listed Oracle Java SE versions (8u511-b32, 8u511-perf-b32, 11.0.33.0.2, 17.0.21.0.2, 21.0.13.0.2, 25.0.5.0.2, 27.0.1.0.2), Oracle GraalVM for JDK 17.0.21.0.2 and 21.0.13.0.2, and GraalVM Enterprise Edition 21.3.20.0.2.
-
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-114820>)
+[Read article →](<https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/>)
 
 ---
 
-### 5. [The AI graveyard: a running list of projects and startups that didn’t make it](<https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>)
+### 3. [Hackaday Links: October 25, 2026](<https://hackaday.com/2026/10/25/hackaday-links-october-25-2026/>)
 
-**TechCrunch | AI News &#38; Artificial Intelligence** · News · Oct 24, 2026
+**Hackaday** · News · Oct 25, 2026
 
-The excerpt shows that AI projects can lose their footing for different reasons: Relay and Huxe faced competition from larger platforms adding similar features; Yupp lacked product-market fit, while Figgs AI said the cost of keeping its service free was unsustainable.
+Denmark’s trial of Collabora reportedly ran into collaboration problems when its users exchanged documents with peers using Microsoft Office, and was quietly abandoned.
 
-[Read article →](<https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/>)
+[Read article →](<https://hackaday.com/2026/10/25/hackaday-links-october-25-2026/>)
+
+---
+
+### 4. [Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model](<https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/>)
+
+**MarkTechPost** · Release · Oct 25, 2026
+
+Nanbeige4.3-33B is a 33B dense Apache 2.0 model for agentic coding and office tasks, with a 524,288-token context; the lab also released a Base version for custom post-training.
+
+[Read article →](<https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/>)
+
+---
+
+### 5. [Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)](<https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/>)
+
+**Semiconductor Engineering** · News · Oct 25, 2026
+
+Researchers from Institute of Science Tokyo, Yokohama National University, AIST, and PETRA report a silicon photonic crystal waveguide slow-light modulator with a built-in electro-optic equalizer. The paper title identifies a 200G/λ low-voltage design intended to reduce digital signal processing.
+
+[Read article →](<https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/>)
 
 
 ---
 
-Updated 2026-10-25 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-10-26 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
