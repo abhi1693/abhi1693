@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Redox OS Landed Nice Performance Improvements In September](<https://www.phoronix.com/news/Redox-OS-September-2026>)
+### 1. [Autonomous excavator startup Bedrock Robotics picks up $600M in funding](<https://siliconangle.com/2026/10/26/autonomous-excavator-startup-bedrock-robotics-picks-up-600m-in-funding/>)
 
-**Phoronix** · News · Oct 26, 2026
+**SiliconANGLE** · News · Oct 26, 2026
 
-Redox OS’s September 2026 update reports performance gains from several kernel changes. Direct context switching bypasses the scheduler for system service calls, avoiding an expensive BTreeMap path; the excerpt reports 24% lower IPC latency and about 5% better I/O performance with small buffers.
+Bedrock Robotics raised $600 million in a Series C led by CapitalG and Emergence Capital, with Nvidia, Bessemer and other investors participating; the company says it is valued at nearly $1 billion.
 
-[Read article →](<https://www.phoronix.com/news/Redox-OS-September-2026>)
-
----
-
-### 2. [OpenSSL 4.1.0: What’s new, what’s removed, and what’s still broken](<https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/>)
-
-**Help Net Security** · Release · Oct 25, 2026
-
-OpenSSL 4.1.0 adds DTLS 1.3 but ships with four known DTLS bugs. Listener errors can be misreported as SSL&#95;ERROR&#95;WANT&#95;READ, and retryable writes as SSL&#95;ERROR&#95;SYSCALL; a server handshake may abort after packet loss, and KeyUpdate can discard a lost NewSessionTicket instead of retransmitting it.
-
-[Read article →](<https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/>)
+[Read article →](<https://siliconangle.com/2026/10/26/autonomous-excavator-startup-bedrock-robotics-picks-up-600m-in-funding/>)
 
 ---
 
-### 3. [Hackaday Links: October 25, 2026](<https://hackaday.com/2026/10/25/hackaday-links-october-25-2026/>)
+### 2. [AI, Meet App: Enable or Disable Android AppFunctions at runtime](<https://proandroiddev.com/ai-meet-app-enable-or-disable-android-appfunctions-at-runtime-77e18ca3ec95?source=rss----c72404660798---4>)
 
-**Hackaday** · News · Oct 25, 2026
+**ProAndroidDev** · Tutorial · Oct 26, 2026
 
-Denmark’s trial of Collabora reportedly ran into collaboration problems when its users exchanged documents with peers using Microsoft Office, and was quietly abandoned.
+Android AppFunctions can be disabled by default and enabled selectively when conditions are met, such as user consent, a paid feature, or a feature toggle. Set &#96;isEnabled = false&#96; in &#96;@AppFunctionDeclaration&#96;, then use &#96;AppFunctionManager.setAppFunctionEnabled&#96; with each function’s identifier to enable or disable it as needed.
 
-[Read article →](<https://hackaday.com/2026/10/25/hackaday-links-october-25-2026/>)
-
----
-
-### 4. [Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model](<https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/>)
-
-**MarkTechPost** · Release · Oct 25, 2026
-
-Nanbeige4.3-33B is a 33B dense Apache 2.0 model for agentic coding and office tasks, with a 524,288-token context; the lab also released a Base version for custom post-training.
-
-[Read article →](<https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/>)
+[Read article →](<https://proandroiddev.com/ai-meet-app-enable-or-disable-android-appfunctions-at-runtime-77e18ca3ec95?source=rss----c72404660798---4>)
 
 ---
 
-### 5. [Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Tokyo, Yokohama, AIST, PETRA)](<https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/>)
+### 3. [Material You: Dynamic Theming and Color in Modern Android Apps](<https://proandroiddev.com/material-you-dynamic-theming-and-color-in-modern-android-apps-6381606977bf?source=rss----c72404660798---4>)
 
-**Semiconductor Engineering** · News · Oct 25, 2026
+**ProAndroidDev** · Tutorial · Oct 26, 2026
 
-Researchers from Institute of Science Tokyo, Yokohama National University, AIST, and PETRA report a silicon photonic crystal waveguide slow-light modulator with a built-in electro-optic equalizer. The paper title identifies a 200G/λ low-voltage design intended to reduce digital signal processing.
+Material 3 dynamic color derives tonal palettes from the user’s wallpaper and maps them to semantic color roles that apps consume. The supplied article says full dynamic color support is available on Android 12+ (API 31+); Android 11 and below use static Material 3 schemes.
 
-[Read article →](<https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/>)
+[Read article →](<https://proandroiddev.com/material-you-dynamic-theming-and-color-in-modern-android-apps-6381606977bf?source=rss----c72404660798---4>)
+
+---
+
+### 4. [Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive](<https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/>)
+
+**Google Developers Blog** · Release
+
+Google Docs now supports viewing, editing, and collaborating on Markdown files without converting them, preserving the underlying format for developer tools and Git repositories. Google Drive can show rendered previews for formatting review.
+
+[Read article →](<https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/>)
+
+---
+
+### 5. [University of Copenhagen data breach exposes data of 525,000 people](<https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/>)
+
+**BleepingComputer** · News · Oct 26, 2026
+
+Hackers accessed a University of Copenhagen test environment containing personal data of 525,000 people; a later update added 20,000 staff and students whose PIN codes were exposed. The university says it contained the attack and blocked access.
+
+[Read article →](<https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/>)
 
 
 ---
 
-Updated 2026-10-26 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-10-27 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
