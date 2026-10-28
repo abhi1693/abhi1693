@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Autonomous excavator startup Bedrock Robotics picks up $600M in funding](<https://siliconangle.com/2026/10/26/autonomous-excavator-startup-bedrock-robotics-picks-up-600m-in-funding/>)
+### 1. [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](<https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/>)
 
-**SiliconANGLE** · News · Oct 26, 2026
+**TechCrunch | AI News &#38; Artificial Intelligence** · News · Oct 28, 2026
 
-Bedrock Robotics raised $600 million in a Series C led by CapitalG and Emergence Capital, with Nvidia, Bessemer and other investors participating; the company says it is valued at nearly $1 billion.
+Anthropic’s S-1 excerpt suggests Amazon may be a larger IPO beneficiary than any single venture firm: Amazon’s $6.2 billion in outstanding convertible-note principal was valued in its own filings at $97.9 billion, and the notes could convert into up to 1.84 billion shares, subject to…
 
-[Read article →](<https://siliconangle.com/2026/10/26/autonomous-excavator-startup-bedrock-robotics-picks-up-600m-in-funding/>)
-
----
-
-### 2. [AI, Meet App: Enable or Disable Android AppFunctions at runtime](<https://proandroiddev.com/ai-meet-app-enable-or-disable-android-appfunctions-at-runtime-77e18ca3ec95?source=rss----c72404660798---4>)
-
-**ProAndroidDev** · Tutorial · Oct 26, 2026
-
-Android AppFunctions can be disabled by default and enabled selectively when conditions are met, such as user consent, a paid feature, or a feature toggle. Set &#96;isEnabled = false&#96; in &#96;@AppFunctionDeclaration&#96;, then use &#96;AppFunctionManager.setAppFunctionEnabled&#96; with each function’s identifier to enable or disable it as needed.
-
-[Read article →](<https://proandroiddev.com/ai-meet-app-enable-or-disable-android-appfunctions-at-runtime-77e18ca3ec95?source=rss----c72404660798---4>)
+[Read article →](<https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/>)
 
 ---
 
-### 3. [Material You: Dynamic Theming and Color in Modern Android Apps](<https://proandroiddev.com/material-you-dynamic-theming-and-color-in-modern-android-apps-6381606977bf?source=rss----c72404660798---4>)
+### 2. [Google introduces cutting-edge Genie 4 world model](<https://siliconangle.com/2026/10/27/google-introduces-cutting-edge-genie-4-world-model/>)
 
-**ProAndroidDev** · Tutorial · Oct 26, 2026
+**SiliconANGLE** · News · Oct 28, 2026
 
-Material 3 dynamic color derives tonal palettes from the user’s wallpaper and maps them to semantic color roles that apps consume. The supplied article says full dynamic color support is available on Android 12+ (API 31+); Android 11 and below use static Material 3 schemes.
+Google previewed Genie 4, a world model that generates navigable 3D environments from natural-language prompts. Users can steer scenes with follow-up prompts or keyboard camera controls; the excerpt says edits such as changing weather or adding objects can preserve photorealism and consistency.
 
-[Read article →](<https://proandroiddev.com/material-you-dynamic-theming-and-color-in-modern-android-apps-6381606977bf?source=rss----c72404660798---4>)
-
----
-
-### 4. [Preview, edit, and collaborate on markdown (.md) files natively in Google Docs and Drive](<https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/>)
-
-**Google Developers Blog** · Release
-
-Google Docs now supports viewing, editing, and collaborating on Markdown files without converting them, preserving the underlying format for developer tools and Git repositories. Google Drive can show rendered previews for formatting review.
-
-[Read article →](<https://developers.googleblog.com/preview-edit-and-collaborate-on-markdown-md-files-natively-in-google-docs-and-drive/>)
+[Read article →](<https://siliconangle.com/2026/10/27/google-introduces-cutting-edge-genie-4-world-model/>)
 
 ---
 
-### 5. [University of Copenhagen data breach exposes data of 525,000 people](<https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/>)
+### 3. [Red Hat brings OpenShell security to enterprise AI agents](<https://siliconangle.com/2026/10/27/red-hat-openclaw-agents-kubeconna/>)
 
-**BleepingComputer** · News · Oct 26, 2026
+**SiliconANGLE** · News · Oct 28, 2026
 
-Hackers accessed a University of Copenhagen test environment containing personal data of 525,000 people; a later update added 20,000 staff and students whose PIN codes were exposed. The university says it contained the attack and blocked access.
+Red Hat is integrating Nvidia-developed OpenShell into its AI platform to help secure and govern OpenClaw agents in enterprise settings. OpenShell places agents in isolated sandboxes and monitors access to potentially vulnerable information.
 
-[Read article →](<https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/>)
+[Read article →](<https://siliconangle.com/2026/10/27/red-hat-openclaw-agents-kubeconna/>)
+
+---
+
+### 4. [Introducing Route 53 Resolved IP Validation for AWS Network Firewall](<https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/>)
+
+**AWS Security Blog** · Release · Oct 27, 2026
+
+Route 53 Resolved IP Validation lets AWS Network Firewall check each new outbound connection against addresses returned by Route 53 Resolver, enabling domain-based filtering for protocols such as SFTP and SSH and helping prevent SNI spoofing without TLS inspection.
+
+[Read article →](<https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/>)
+
+---
+
+### 5. [Japan's GMO urges customers to shut down PCs amid ransomware threat](<https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/>)
+
+**BleepingComputer** · News · Oct 27, 2026
+
+GMO urged Onamae Desktop Cloud customers to disconnect and shut down PCs after an attacker threatened to activate ransomware planted during an intrusion.
+
+[Read article →](<https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/>)
 
 
 ---
 
-Updated 2026-10-27 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-10-28 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
