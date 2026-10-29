@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more](<https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/>)
+### 1. [Smaller apps and faster GPU inference with LiteRT in Google Play services](<https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/>)
 
-**TechCrunch | AI News &#38; Artificial Intelligence** · News · Oct 28, 2026
+**Google Developers Blog** · Release
 
-Anthropic’s S-1 excerpt suggests Amazon may be a larger IPO beneficiary than any single venture firm: Amazon’s $6.2 billion in outstanding convertible-note principal was valued in its own filings at $97.9 billion, and the notes could convert into up to 1.84 billion shares, subject to…
+LiteRT in Google Play services adds GPU inference through the CompiledModel API, which the source says ran about 1.4× faster than the legacy GPU delegate in its testing.
 
-[Read article →](<https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/>)
-
----
-
-### 2. [Google introduces cutting-edge Genie 4 world model](<https://siliconangle.com/2026/10/27/google-introduces-cutting-edge-genie-4-world-model/>)
-
-**SiliconANGLE** · News · Oct 28, 2026
-
-Google previewed Genie 4, a world model that generates navigable 3D environments from natural-language prompts. Users can steer scenes with follow-up prompts or keyboard camera controls; the excerpt says edits such as changing weather or adding objects can preserve photorealism and consistency.
-
-[Read article →](<https://siliconangle.com/2026/10/27/google-introduces-cutting-edge-genie-4-world-model/>)
+[Read article →](<https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/>)
 
 ---
 
-### 3. [Red Hat brings OpenShell security to enterprise AI agents](<https://siliconangle.com/2026/10/27/red-hat-openclaw-agents-kubeconna/>)
+### 2. [Hill-Climbing Agent Quality with Agents CLI Evaluation](<https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/>)
 
-**SiliconANGLE** · News · Oct 28, 2026
+**Google Developers Blog** · Tutorial
 
-Red Hat is integrating Nvidia-developed OpenShell into its AI platform to help secure and govern OpenClaw agents in enterprise settings. OpenShell places agents in isolated sandboxes and monitors access to potentially vulnerable information.
+Agents CLI supports an evaluation loop that runs agent cases, grades traces, compares results per case, and analyzes failures; ADK projects can also use eval optimize to propose prompt variants.
 
-[Read article →](<https://siliconangle.com/2026/10/27/red-hat-openclaw-agents-kubeconna/>)
-
----
-
-### 4. [Introducing Route 53 Resolved IP Validation for AWS Network Firewall](<https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/>)
-
-**AWS Security Blog** · Release · Oct 27, 2026
-
-Route 53 Resolved IP Validation lets AWS Network Firewall check each new outbound connection against addresses returned by Route 53 Resolver, enabling domain-based filtering for protocols such as SFTP and SSH and helping prevent SNI spoofing without TLS inspection.
-
-[Read article →](<https://aws.amazon.com/blogs/security/introducing-route-53-resolved-ip-validation-for-aws-network-firewall/>)
+[Read article →](<https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/>)
 
 ---
 
-### 5. [Japan's GMO urges customers to shut down PCs amid ransomware threat](<https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/>)
+### 3. [Energy-efficient inference chip developer FuriosaAI raises $620M to solve the data center power bottleneck](<https://siliconangle.com/2026/10/28/energy-efficient-inference-chip-developer-furiosaai-raises-620m-to-solve-the-data-center-power-bottleneck/>)
 
-**BleepingComputer** · News · Oct 27, 2026
+**SiliconANGLE** · News · Oct 29, 2026
 
-GMO urged Onamae Desktop Cloud customers to disconnect and shut down PCs after an attacker threatened to activate ransomware planted during an intrusion.
+FuriosaAI raised $620 million at a reported $2.9 billion valuation to scale production of its energy-efficient inference chips.
 
-[Read article →](<https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/>)
+[Read article →](<https://siliconangle.com/2026/10/28/energy-efficient-inference-chip-developer-furiosaai-raises-620m-to-solve-the-data-center-power-bottleneck/>)
+
+---
+
+### 4. [Microsoft’s stock rises on solid earnings and revenue beat, with Azure growing 48%](<https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/>)
+
+**SiliconANGLE** · News · Oct 29, 2026
+
+Microsoft beat fiscal 2027 first-quarter expectations, with revenue up 19% to $92.28 billion and net income rising to $36.63 billion. Azure revenue grew more than 48% to $33.17 billion, above forecasts, despite delays from some third-party providers.
+
+[Read article →](<https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/>)
+
+---
+
+### 5. [Visual Studio Code 1.145 (Insiders)](<https://code.visualstudio.com/updates/v1_145>)
+
+**Visual Studio Code** · Release
+
+VS Code 1.145 Insiders adds Agents window improvements and experimental workflow options. Bulk worktree cleanup now shows progress, keeps completed results visible, and allows failed cleanups to be retried; cleanup size estimates can appear sooner for unchanged idle sessions.
+
+[Read article →](<https://code.visualstudio.com/updates/v1_145>)
 
 
 ---
 
-Updated 2026-10-28 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-10-29 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
