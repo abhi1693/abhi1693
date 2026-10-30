@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Smaller apps and faster GPU inference with LiteRT in Google Play services](<https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/>)
+### 1. [The AI buildout's carbon bill could undo 15 years of power sector emissions cuts](<https://www.techspot.com/news/114385-ai-buildout-carbon-bill-could-undo-15-years.html>)
 
-**Google Developers Blog** · Release
+**TechSpot** · News · Oct 30, 2026
 
-LiteRT in Google Play services adds GPU inference through the CompiledModel API, which the source says ran about 1.4× faster than the legacy GPU delegate in its testing.
+The Sierra Club estimates that planned US AI data centers could add 618 million metric tons of power-sector CO₂ emissions from 2025 to 2030, a 42% increase that would bring 2030 emissions to 2.1 billion metric tons and reverse 15 years of electricity-sector cuts.
 
-[Read article →](<https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/>)
-
----
-
-### 2. [Hill-Climbing Agent Quality with Agents CLI Evaluation](<https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/>)
-
-**Google Developers Blog** · Tutorial
-
-Agents CLI supports an evaluation loop that runs agent cases, grades traces, compares results per case, and analyzes failures; ADK projects can also use eval optimize to propose prompt variants.
-
-[Read article →](<https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/>)
+[Read article →](<https://www.techspot.com/news/114385-ai-buildout-carbon-bill-could-undo-15-years.html>)
 
 ---
 
-### 3. [Energy-efficient inference chip developer FuriosaAI raises $620M to solve the data center power bottleneck](<https://siliconangle.com/2026/10/28/energy-efficient-inference-chip-developer-furiosaai-raises-620m-to-solve-the-data-center-power-bottleneck/>)
+### 2. [Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss](<https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/>)
+
+**SiliconANGLE** · News · Oct 30, 2026
+
+Amazon shares fell more than 7% after third-quarter earnings per share ($1.89) and revenue ($201.94 billion) missed analyst estimates.
+
+[Read article →](<https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/>)
+
+---
+
+### 3. [Report: Nvidia CEO Jensen Huang was targeted by a Chinese spy](<https://siliconangle.com/2026/10/29/report-nvidia-ceo-jensen-huang-was-targeted-by-a-chinese-spy/>)
 
 **SiliconANGLE** · News · Oct 29, 2026
 
-FuriosaAI raised $620 million at a reported $2.9 billion valuation to scale production of its energy-efficient inference chips.
+The New York Times reported that U.S. authorities suspected Megaspeed executive Alice Huang of gathering information for China through her relationship with Nvidia CEO Jensen Huang; Nvidia said their interactions were ordinary customer meetings and that he did not share sensitive trade secrets.
 
-[Read article →](<https://siliconangle.com/2026/10/28/energy-efficient-inference-chip-developer-furiosaai-raises-620m-to-solve-the-data-center-power-bottleneck/>)
-
----
-
-### 4. [Microsoft’s stock rises on solid earnings and revenue beat, with Azure growing 48%](<https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/>)
-
-**SiliconANGLE** · News · Oct 29, 2026
-
-Microsoft beat fiscal 2027 first-quarter expectations, with revenue up 19% to $92.28 billion and net income rising to $36.63 billion. Azure revenue grew more than 48% to $33.17 billion, above forecasts, despite delays from some third-party providers.
-
-[Read article →](<https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/>)
+[Read article →](<https://siliconangle.com/2026/10/29/report-nvidia-ceo-jensen-huang-was-targeted-by-a-chinese-spy/>)
 
 ---
 
-### 5. [Visual Studio Code 1.145 (Insiders)](<https://code.visualstudio.com/updates/v1_145>)
+### 4. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/>)
 
-**Visual Studio Code** · Release
+**BleepingComputer** · News · Oct 29, 2026
 
-VS Code 1.145 Insiders adds Agents window improvements and experimental workflow options. Bulk worktree cleanup now shows progress, keeps completed results visible, and allows failed cleanups to be retried; cleanup size estimates can appear sooner for unchanged idle sessions.
+After customer feedback, OpenAI reversed a planned usage cut for existing $200 ChatGPT Pro subscribers and says limits will not be reduced for Pro plans priced at $100, $200, or $500, or Business Premium.
 
-[Read article →](<https://code.visualstudio.com/updates/v1_145>)
+[Read article →](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/>)
+
+---
+
+### 5. [API credits benefit for eligible ChatGPT subscriptions](<https://simonwillison.net/2026/Oct/29/api-credits/>)
+
+**Simon Willison's Weblog** · News · Oct 29, 2026
+
+OpenAI’s stated benefit gives subscribers on $100, $200, or $500 monthly plans an equal amount in API credits to apply to one of their API organizations. The excerpt says this closely matches Anthropic’s earlier offer for its Max and Team subscribers, whose credits expire.
+
+[Read article →](<https://simonwillison.net/2026/Oct/29/api-credits/>)
 
 
 ---
 
-Updated 2026-10-29 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-10-30 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
