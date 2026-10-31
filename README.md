@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [The AI buildout's carbon bill could undo 15 years of power sector emissions cuts](<https://www.techspot.com/news/114385-ai-buildout-carbon-bill-could-undo-15-years.html>)
+### 1. [Claude Code extension poisoned with persistent SSH backdoor](<https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/>)
 
-**TechSpot** · News · Oct 30, 2026
+**Help Net Security** · News · Oct 30, 2026
 
-The Sierra Club estimates that planned US AI data centers could add 618 million metric tons of power-sector CO₂ emissions from 2025 to 2030, a 42% increase that would bring 2030 emissions to 2.1 billion metric tons and reverse 15 years of electricity-sector cuts.
+The Open VSX build of Claude Code extension 2.1.313 injected code that ran as soon as the extension loaded. It added an attacker’s SSH key, opened a retrying outbound tunnel, and installed reboot persistence on macOS, Linux, and Windows.
 
-[Read article →](<https://www.techspot.com/news/114385-ai-buildout-carbon-bill-could-undo-15-years.html>)
-
----
-
-### 2. [Despite cloud boom, Amazon’s stock falls on disappointing earnings and revenue miss](<https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/>)
-
-**SiliconANGLE** · News · Oct 30, 2026
-
-Amazon shares fell more than 7% after third-quarter earnings per share ($1.89) and revenue ($201.94 billion) missed analyst estimates.
-
-[Read article →](<https://siliconangle.com/2026/10/29/despite-cloud-boom-amazons-stock-falls-disappointing-earnings-and-revenue-miss/>)
+[Read article →](<https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/>)
 
 ---
 
-### 3. [Report: Nvidia CEO Jensen Huang was targeted by a Chinese spy](<https://siliconangle.com/2026/10/29/report-nvidia-ceo-jensen-huang-was-targeted-by-a-chinese-spy/>)
+### 2. [After 50 years of playing video games, I’m finally starring in one](<https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one>)
 
-**SiliconANGLE** · News · Oct 29, 2026
+**The Guardian | Technology** · Article · Oct 30, 2026
 
-The New York Times reported that U.S. authorities suspected Megaspeed executive Alice Huang of gathering information for China through her relationship with Nvidia CEO Jensen Huang; Nvidia said their interactions were ordinary customer meetings and that he did not share sensitive trade secrets.
+After five decades of playing games, the author voices Draga, the protagonist of Black Tides Draga’s Wake, a survival horror game set aboard a decaying 1900s steamship.
 
-[Read article →](<https://siliconangle.com/2026/10/29/report-nvidia-ceo-jensen-huang-was-targeted-by-a-chinese-spy/>)
-
----
-
-### 4. [OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/>)
-
-**BleepingComputer** · News · Oct 29, 2026
-
-After customer feedback, OpenAI reversed a planned usage cut for existing $200 ChatGPT Pro subscribers and says limits will not be reduced for Pro plans priced at $100, $200, or $500, or Business Premium.
-
-[Read article →](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/>)
+[Read article →](<https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one>)
 
 ---
 
-### 5. [API credits benefit for eligible ChatGPT subscriptions](<https://simonwillison.net/2026/Oct/29/api-credits/>)
+### 3. [CVE-2026-14467 - Display of information in the Forocoches comments editor](<https://cvefeed.io/vuln/detail/CVE-2026-14467>)
 
-**Simon Willison's Weblog** · News · Oct 29, 2026
+**Latest High/Critical Vulnerabilitiy Feed** · News · Oct 30, 2026
 
-OpenAI’s stated benefit gives subscribers on $100, $200, or $500 monthly plans an equal amount in API credits to apply to one of their API organizations. The excerpt says this closely matches Anthropic’s earlier offer for its Max and Team subscribers, whose credits expire.
+CVE-2026-14467 is described as an information disclosure flaw in the Forocoches comments editor. An attacker can add a comment image that points to a malicious external URL; when a user views the thread, the browser sends a request to the attacker’s server.
 
-[Read article →](<https://simonwillison.net/2026/Oct/29/api-credits/>)
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-14467>)
+
+---
+
+### 4. [Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs](<https://www.phoronix.com/news/Linux-Patches-Intel-macsmc>)
+
+**Phoronix** · News · Oct 30, 2026
+
+A proposed Linux kernel RFC would extend the Apple Silicon-oriented macsmc driver to support older Intel-powered Macs, potentially replacing the older applesmc driver.
+
+[Read article →](<https://www.phoronix.com/news/Linux-Patches-Intel-macsmc>)
+
+---
+
+### 5. [How CIOs can overcome the AI trust gap](<https://www.cio.com/article/4242239/how-cios-can-overcome-the-ai-trust-gap.html>)
+
+**CIO** · Article · Oct 30, 2026
+
+The article argues that CIOs can build trust in enterprise AI by pairing business returns with controls, even as CEOs press for results. Before launch, require high-quality data and models plus metrics tied to specific business outcomes.
+
+[Read article →](<https://www.cio.com/article/4242239/how-cios-can-overcome-the-ai-trust-gap.html>)
 
 
 ---
 
-Updated 2026-10-30 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-10-31 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
