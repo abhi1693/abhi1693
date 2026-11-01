@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Claude Code extension poisoned with persistent SSH backdoor](<https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/>)
+### 1. [French Lawmakers Back Per-Gigabyte Internet Traffic Tax](<https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax>)
 
-**Help Net Security** · News · Oct 30, 2026
+**Slashdot** · News
 
-The Open VSX build of Claude Code extension 2.1.313 injected code that ran as soon as the extension loaded. It added an attacker’s SSH key, opened a retrying outbound tunnel, and installed reboot persistence on macOS, Linux, and Windows.
+French lawmakers backed a proposed levy of €0.055 per gigabyte of content delivered to French users, but it still needs to clear further stages of the budget process.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/>)
-
----
-
-### 2. [After 50 years of playing video games, I’m finally starring in one](<https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one>)
-
-**The Guardian | Technology** · Article · Oct 30, 2026
-
-After five decades of playing games, the author voices Draga, the protagonist of Black Tides Draga’s Wake, a survival horror game set aboard a decaying 1900s steamship.
-
-[Read article →](<https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one>)
+[Read article →](<https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax>)
 
 ---
 
-### 3. [CVE-2026-14467 - Display of information in the Forocoches comments editor](<https://cvefeed.io/vuln/detail/CVE-2026-14467>)
+### 2. [Northflank security breach leads to abuse of customers' AI API keys](<https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/>)
 
-**Latest High/Critical Vulnerabilitiy Feed** · News · Oct 30, 2026
+**BleepingComputer** · News · Oct 31, 2026
 
-CVE-2026-14467 is described as an information disclosure flaw in the Forocoches comments editor. An attacker can add a comment image that points to a malicious external URL; when a user views the thread, the browser sends a request to the attacker’s server.
+Northflank urged customers to rotate secrets after a security breach that led to reports of unauthorized use of AI API keys stored on the platform.
 
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-14467>)
-
----
-
-### 4. [Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs](<https://www.phoronix.com/news/Linux-Patches-Intel-macsmc>)
-
-**Phoronix** · News · Oct 30, 2026
-
-A proposed Linux kernel RFC would extend the Apple Silicon-oriented macsmc driver to support older Intel-powered Macs, potentially replacing the older applesmc driver.
-
-[Read article →](<https://www.phoronix.com/news/Linux-Patches-Intel-macsmc>)
+[Read article →](<https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/>)
 
 ---
 
-### 5. [How CIOs can overcome the AI trust gap](<https://www.cio.com/article/4242239/how-cios-can-overcome-the-ai-trust-gap.html>)
+### 3. [Microsoft's DirectX update could slash ray tracing memory by up to 90 percent](<https://www.techspot.com/news/114400-microsoft-directx-update-could-slash-ray-tracing-memory.html>)
 
-**CIO** · Article · Oct 30, 2026
+**TechSpot** · News · Oct 31, 2026
 
-The article argues that CIOs can build trust in enterprise AI by pairing business returns with controls, even as CEOs press for results. Before launch, require high-quality data and models plus metrics tied to specific business outcomes.
+DirectX’s preview Clustered Geometry feature reuses model chunks of up to 256 triangles, while Partitioned TLAS updates only scene regions where objects moved.
 
-[Read article →](<https://www.cio.com/article/4242239/how-cios-can-overcome-the-ai-trust-gap.html>)
+[Read article →](<https://www.techspot.com/news/114400-microsoft-directx-update-could-slash-ray-tracing-memory.html>)
+
+---
+
+### 4. [CVE-2026-120209 - AJ-Report through 1.7.1 Authentication Bypass leading to RCE via Share-Token](<https://cvefeed.io/vuln/detail/CVE-2026-120209>)
+
+**Latest High/Critical Vulnerabilitiy Feed** · News · Oct 31, 2026
+
+AJ-Report through 1.7.1 reportedly uses a hard-coded JWT secret to sign share tokens, allowing attackers to forge valid tokens offline. A forged token with reportCode 'dataSet' can access the testTransform endpoint, which sends scripts to GroovyClassLoader and enables unauthenticated remote code execution.
+
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-120209>)
+
+---
+
+### 5. [Binance Lost $6.3 Billion to Its Own Signing Machine](<https://hackernoon.com/binance-lost-$63-billion-to-its-own-signing-machine?source=rss>)
+
+**HackerNoon** · News · Oct 31, 2026
+
+The article reports that an attacker moved about $6.36 billion from Binance wallets across ten blockchains while Binance said it found no evidence of a private-key leak.
+
+[Read article →](<https://hackernoon.com/binance-lost-$63-billion-to-its-own-signing-machine?source=rss>)
 
 
 ---
 
-Updated 2026-10-31 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-01 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
