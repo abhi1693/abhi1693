@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [French Lawmakers Back Per-Gigabyte Internet Traffic Tax](<https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax>)
+### 1. [CVE-2026-120317 - http4k 4.9.10.0 before 6.60.0.0 Digest auth-int Missing Body Integrity](<https://cvefeed.io/vuln/detail/CVE-2026-120317>)
+
+**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 02, 2026
+
+http4k versions 4.9.10.0 up to but not including 6.60.0.0 have a missing integrity check in DigestEncoder: the auth-int digest is computed without hashing the request body.
+
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-120317>)
+
+---
+
+### 2. [Experts Expect 'Security Reckoning' As AI Tools Find And Exploit Software Bugs](<https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs>)
 
 **Slashdot** · News
 
-French lawmakers backed a proposed levy of €0.055 per gigabyte of content delivered to French users, but it still needs to clear further stages of the budget process.
+CrowdStrike attributed attacks exposing financial data at nine or more South Korean banks to an alleged amateur who used AI chatbots.
 
-[Read article →](<https://tech.slashdot.org/story/26/10/31/1857243/french-lawmakers-back-per-gigabyte-internet-traffic-tax>)
-
----
-
-### 2. [Northflank security breach leads to abuse of customers' AI API keys](<https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/>)
-
-**BleepingComputer** · News · Oct 31, 2026
-
-Northflank urged customers to rotate secrets after a security breach that led to reports of unauthorized use of AI API keys stored on the platform.
-
-[Read article →](<https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/>)
+[Read article →](<https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs>)
 
 ---
 
-### 3. [Microsoft's DirectX update could slash ray tracing memory by up to 90 percent](<https://www.techspot.com/news/114400-microsoft-directx-update-could-slash-ray-tracing-memory.html>)
+### 3. [CVE-2026-120277 - WAVLINK WN536AX6-A WireGuard CLI Group ioos sub&#95;41a1d8 os command injection](<https://cvefeed.io/vuln/detail/CVE-2026-120277>)
 
-**TechSpot** · News · Oct 31, 2026
+**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 02, 2026
 
-DirectX’s preview Clustered Geometry feature reuses model chunks of up to 256 triangles, while Partitioned TLAS updates only scene regions where objects moved.
+CVE-2026-120277 is rated critical (10.0) and affects WAVLINK WN536AX6-A running V260507&#95;2.0.0. The issue is in sub&#95;41a1d8 in /bin/ioos, part of the WireGuard CLI Group Handler: manipulating the group&#95;name argument can cause OS command injection.
 
-[Read article →](<https://www.techspot.com/news/114400-microsoft-directx-update-could-slash-ray-tracing-memory.html>)
-
----
-
-### 4. [CVE-2026-120209 - AJ-Report through 1.7.1 Authentication Bypass leading to RCE via Share-Token](<https://cvefeed.io/vuln/detail/CVE-2026-120209>)
-
-**Latest High/Critical Vulnerabilitiy Feed** · News · Oct 31, 2026
-
-AJ-Report through 1.7.1 reportedly uses a hard-coded JWT secret to sign share tokens, allowing attackers to forge valid tokens offline. A forged token with reportCode 'dataSet' can access the testTransform endpoint, which sends scripts to GroovyClassLoader and enables unauthenticated remote code execution.
-
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-120209>)
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-120277>)
 
 ---
 
-### 5. [Binance Lost $6.3 Billion to Its Own Signing Machine](<https://hackernoon.com/binance-lost-$63-billion-to-its-own-signing-machine?source=rss>)
+### 4. [WiCi One Wants to Put a Wireless GPU in Your Homelab](<https://noted.lol/wici-one-wireless-gpu-homelab/>)
 
-**HackerNoon** · News · Oct 31, 2026
+**Noted** · Article · Nov 02, 2026
 
-The article reports that an attacker moved about $6.36 billion from Binance wallets across ten blockchains while Binance said it found no evidence of a private-key leak.
+WiCi One is a standalone computer that shares its NVIDIA GPU with nearby devices over Wi-Fi 7, either through virtual GPU support in compatible applications or an OpenAI-compatible API.
 
-[Read article →](<https://hackernoon.com/binance-lost-$63-billion-to-its-own-signing-machine?source=rss>)
+[Read article →](<https://noted.lol/wici-one-wireless-gpu-homelab/>)
+
+---
+
+### 5. [Cheap FPGA Board Becomes Retro-Style Computer](<https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/>)
+
+**Hackaday** · News · Nov 02, 2026
+
+The roughly $15 Tang Nano 9K, built around a Gowin GW1NR-9C FPGA with 8,640 LUTs, can run a 36 MHz RISC-V CPU with 8 MB RAM, HDMI, stereo audio, USB, and SD card support.
+
+[Read article →](<https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/>)
 
 
 ---
 
-Updated 2026-11-01 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-02 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
