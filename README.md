@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [CVE-2026-120317 - http4k 4.9.10.0 before 6.60.0.0 Digest auth-int Missing Body Integrity](<https://cvefeed.io/vuln/detail/CVE-2026-120317>)
-
-**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 02, 2026
-
-http4k versions 4.9.10.0 up to but not including 6.60.0.0 have a missing integrity check in DigestEncoder: the auth-int digest is computed without hashing the request body.
-
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-120317>)
-
----
-
-### 2. [Experts Expect 'Security Reckoning' As AI Tools Find And Exploit Software Bugs](<https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs>)
-
-**Slashdot** · News
-
-CrowdStrike attributed attacks exposing financial data at nine or more South Korean banks to an alleged amateur who used AI chatbots.
-
-[Read article →](<https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs>)
-
----
-
-### 3. [CVE-2026-120277 - WAVLINK WN536AX6-A WireGuard CLI Group ioos sub&#95;41a1d8 os command injection](<https://cvefeed.io/vuln/detail/CVE-2026-120277>)
-
-**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 02, 2026
-
-CVE-2026-120277 is rated critical (10.0) and affects WAVLINK WN536AX6-A running V260507&#95;2.0.0. The issue is in sub&#95;41a1d8 in /bin/ioos, part of the WireGuard CLI Group Handler: manipulating the group&#95;name argument can cause OS command injection.
-
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-120277>)
-
----
-
-### 4. [WiCi One Wants to Put a Wireless GPU in Your Homelab](<https://noted.lol/wici-one-wireless-gpu-homelab/>)
+### 1. [Someone Packed 930,000 Wikipedia Articles and Local AI Into an Offline Survival Library](<https://noted.lol/survival-llm-offline-ai-library/>)
 
 **Noted** · Article · Nov 02, 2026
 
-WiCi One is a standalone computer that shares its NVIDIA GPU with nearby devices over Wi-Fi 7, either through virtual GPU support in compatible applications or an OpenAI-compatible API.
+Survival LLM is a free, MIT-licensed offline reference library that pairs about 1.5 million articles and references with a locally running AI assistant using Ollama.
 
-[Read article →](<https://noted.lol/wici-one-wireless-gpu-homelab/>)
-
----
-
-### 5. [Cheap FPGA Board Becomes Retro-Style Computer](<https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/>)
-
-**Hackaday** · News · Nov 02, 2026
-
-The roughly $15 Tang Nano 9K, built around a Gowin GW1NR-9C FPGA with 8,640 LUTs, can run a 36 MHz RISC-V CPU with 8 MB RAM, HDMI, stereo audio, USB, and SD card support.
-
-[Read article →](<https://hackaday.com/2026/11/01/cheap-fpga-board-becomes-retro-style-computer/>)
-
+[Read article →](<https://noted.lol/survival-llm-offline-ai-library/>)
 
 ---
 
-Updated 2026-11-02 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+### 2. [Rack-scale AI: How Dell and AMD are building infrastructure](<https://siliconangle.com/2026/11/02/rack-scale-ai-platforms-amd-dell-dellaidataplatform/>)
+
+**SiliconANGLE** · Article · Nov 02, 2026
+
+Dell and AMD are assembling enterprise AI infrastructure around server consolidation, modular expansion and a range of GPU deployments. Dell says AMD-powered PowerEdge systems can deliver 70% generational performance gains and consolidate up to 13 prior-generation servers into one.
+
+[Read article →](<https://siliconangle.com/2026/11/02/rack-scale-ai-platforms-amd-dell-dellaidataplatform/>)
+
+---
+
+### 3. [Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO](<https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/>)
+
+**SiliconANGLE** · News · Nov 02, 2026
+
+Anthropic reported $17 billion in revenue for the three months ended Sept. 30, over 11 times the year-earlier figure, while quarterly growth slowed to 47% from 144%.
+
+[Read article →](<https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/>)
+
+---
+
+### 4. [42AI launches with $62.5M to predict how traders act when markets turn volatile](<https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/>)
+
+**SiliconANGLE** · News · Nov 02, 2026
+
+42AI says its behavioral world model estimates the probabilities of individual traders’ choices, helping brokerages anticipate each client’s likely instrument, direction and volume over the next 24 hours and hedge shared exposures.
+
+[Read article →](<https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/>)
+
+---
+
+### 5. [The Partner-N64PC dev kit for Nintendo 64](<https://blog.adafruit.com/2026/11/02/the-partner-n64pc-dev-kit-for-nintendo-64/>)
+
+**Adafruit Industries** · Article · Nov 02, 2026
+
+The Partner-N64PC is a Nintendo 64 development kit that connects a cartridge to a Windows 95/98 PC through a ribbon cable and an ISA or PCI card.
+
+[Read article →](<https://blog.adafruit.com/2026/11/02/the-partner-n64pc-dev-kit-for-nintendo-64/>)
+
+
+---
+
+Updated 2026-11-03 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
