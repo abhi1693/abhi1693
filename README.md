@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Someone Packed 930,000 Wikipedia Articles and Local AI Into an Offline Survival Library](<https://noted.lol/survival-llm-offline-ai-library/>)
+### 1. [CrowdStrike Secures AI Agents Inside Claude Cowork](<https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/>)
 
-**Noted** · Article · Nov 02, 2026
+**Crowdstrike** · Release
 
-Survival LLM is a free, MIT-licensed offline reference library that pairs about 1.5 million articles and references with a locally running AI assistant using Ollama.
+Claude Cowork’s isolated VM hides the agent’s processes, installed packages, and network connections from host endpoint sensors, even when mounted folders expose host data.
 
-[Read article →](<https://noted.lol/survival-llm-offline-ai-library/>)
-
----
-
-### 2. [Rack-scale AI: How Dell and AMD are building infrastructure](<https://siliconangle.com/2026/11/02/rack-scale-ai-platforms-amd-dell-dellaidataplatform/>)
-
-**SiliconANGLE** · Article · Nov 02, 2026
-
-Dell and AMD are assembling enterprise AI infrastructure around server consolidation, modular expansion and a range of GPU deployments. Dell says AMD-powered PowerEdge systems can deliver 70% generational performance gains and consolidate up to 13 prior-generation servers into one.
-
-[Read article →](<https://siliconangle.com/2026/11/02/rack-scale-ai-platforms-amd-dell-dellaidataplatform/>)
+[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/>)
 
 ---
 
-### 3. [Anthropic’s quarterly revenue jumps to $17B, losses grow ahead of IPO](<https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/>)
+### 2. [Working collaboratively to fight scams in Asia Pacific](<https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/>)
 
-**SiliconANGLE** · News · Nov 02, 2026
+**Google Safety &#38; Security** · News
 
-Anthropic reported $17 billion in revenue for the three months ended Sept. 30, over 11 times the year-earlier figure, while quarterly growth slowed to 47% from 144%.
+Google describes a three-part approach to scams in Asia Pacific: product protections, coordinated defenses, and community resilience.
 
-[Read article →](<https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/>)
-
----
-
-### 4. [42AI launches with $62.5M to predict how traders act when markets turn volatile](<https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/>)
-
-**SiliconANGLE** · News · Nov 02, 2026
-
-42AI says its behavioral world model estimates the probabilities of individual traders’ choices, helping brokerages anticipate each client’s likely instrument, direction and volume over the next 24 hours and hedge shared exposures.
-
-[Read article →](<https://siliconangle.com/2026/11/02/42ai-launches-with-62-5m-to-predict-how-traders-act-when-markets-turn-volatile/>)
+[Read article →](<https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/>)
 
 ---
 
-### 5. [The Partner-N64PC dev kit for Nintendo 64](<https://blog.adafruit.com/2026/11/02/the-partner-n64pc-dev-kit-for-nintendo-64/>)
+### 3. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](<https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/>)
 
-**Adafruit Industries** · Article · Nov 02, 2026
+**Crowdstrike** · Release
 
-The Partner-N64PC is a Nintendo 64 development kit that connects a cartridge to a Windows 95/98 PC through a ribbon cable and an ISA or PCI card.
+CrowdStrike’s AI Kill Switch lets security teams use Falcon Guardian to direct connected AI gateways to block agents’ access to the models driving their decisions and actions. Teams can use Falcon AI Gateway, generally available in Falcon Guardian, or an existing third-party gateway.
 
-[Read article →](<https://blog.adafruit.com/2026/11/02/the-partner-n64pc-dev-kit-for-nintendo-64/>)
+[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/>)
+
+---
+
+### 4. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/>)
+
+**Crowdstrike** · Release
+
+CrowdStrike says its planned acquisition of Fiddler will add pre-deployment evaluation and ongoing monitoring and explainability for AI agents to the Falcon platform as Falcon Observe, with general availability stated for Q4 FY27.
+
+[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/>)
+
+---
+
+### 5. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/>)
+
+**Crowdstrike** · Release
+
+CrowdStrike says its planned acquisition of Dreadnode will add automated predeployment security testing for AI systems to Falcon, with general availability planned for Q4 FY27.
+
+[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/>)
 
 
 ---
 
-Updated 2026-11-03 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-04 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
