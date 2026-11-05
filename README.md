@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [CrowdStrike Secures AI Agents Inside Claude Cowork](<https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/>)
+### 1. [Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers](<https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/>)
 
-**Crowdstrike** · Release
+**SecurityWeek** · News · Nov 04, 2026
 
-Claude Cowork’s isolated VM hides the agent’s processes, installed packages, and network connections from host endpoint sensors, even when mounted folders expose host data.
+Prosecutors allege Ryan James Roach and Mathiew James Stubbings compromised university systems in four U.S. states from 2016 to 2019, using stolen credentials, malware, and multi-country virtual servers to conceal their activity and mine Electroneum on hijacked university hardware.
 
-[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-secures-ai-agents-inside-claude-cowork/>)
-
----
-
-### 2. [Working collaboratively to fight scams in Asia Pacific](<https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/>)
-
-**Google Safety &#38; Security** · News
-
-Google describes a three-part approach to scams in Asia Pacific: product protections, coordinated defenses, and community resilience.
-
-[Read article →](<https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/>)
+[Read article →](<https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/>)
 
 ---
 
-### 3. [Introducing AI Kill Switch: Taking Control When AI Agents Go Rogue](<https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/>)
+### 2. [Poisoned cPGuard update hits thousands of web hosting servers](<https://www.helpnetsecurity.com/2026/11/04/cpguard-update-supply-chain-compromised/>)
 
-**Crowdstrike** · Release
+**Help Net Security** · News · Nov 04, 2026
 
-CrowdStrike’s AI Kill Switch lets security teams use Falcon Guardian to direct connected AI gateways to block agents’ access to the models driving their decisions and actions. Teams can use Falcon AI Gateway, generally available in Falcon Guardian, or an existing third-party gateway.
+A compromised cPGuard update channel delivered malicious versions 5.88.12–5.88.19 to about 2,950 servers, where agents ran the script as root. It exfiltrated sensitive files, including password hashes, SSH keys, database credentials, shell history, and cloud keys, and left a hidden root shell and scheduled task.
 
-[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-introduces-ai-kill-switch/>)
-
----
-
-### 4. [CrowdStrike to Acquire Fiddler to Deliver Falcon Observe for AI Agent Observability](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/>)
-
-**Crowdstrike** · Release
-
-CrowdStrike says its planned acquisition of Fiddler will add pre-deployment evaluation and ongoing monitoring and explainability for AI agents to the Falcon platform as Falcon Observe, with general availability stated for Q4 FY27.
-
-[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-fiddler/>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/04/cpguard-update-supply-chain-compromised/>)
 
 ---
 
-### 5. [CrowdStrike to Acquire Dreadnode to Bring Automated AI Security Testing to the Falcon Platform](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/>)
+### 3. [Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver](<https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>)
 
-**Crowdstrike** · Release
+**Phoronix** · News · Nov 04, 2026
 
-CrowdStrike says its planned acquisition of Dreadnode will add automated predeployment security testing for AI systems to Falcon, with general availability planned for Q4 FY27.
+An experimental, clean-room Rust driver for modern DisplayLink hardware called Vino is no longer publicly available after Synaptics reportedly sent its developer a cease-and-desist notice alleging patent infringement.
 
-[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-to-acquire-dreadnode/>)
+[Read article →](<https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>)
+
+---
+
+### 4. ["AMD Loves Omarchy" Linux With More Collaboration Coming](<https://www.phoronix.com/news/AMD-Loves-Omarchy>)
+
+**Phoronix** · News · Nov 04, 2026
+
+AMD VP of AI Software Anush Elangovan has praised Omarchy and met its lead, David Heinemeier Hansson, at the Fireworks Forge event, where he supplied him with an AMD-powered HP ZBook. Elangovan said “AMD ❤️ Omarchy.
+
+[Read article →](<https://www.phoronix.com/news/AMD-Loves-Omarchy>)
+
+---
+
+### 5. [Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical](<https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/>)
+
+**SecurityWeek** · News · Nov 04, 2026
+
+Chrome 157 fixes 213 vulnerabilities, including seven critical memory-safety flaws and 77 high-severity issues. The critical bugs include a Dawn buffer overflow ($10,000 bounty), an ANGLE memory-corruption flaw ($1,000), four use-after-free defects, and another buffer overflow.
+
+[Read article →](<https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/>)
 
 
 ---
 
-Updated 2026-11-04 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-05 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
