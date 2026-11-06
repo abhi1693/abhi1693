@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers](<https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/>)
+### 1. [ACEMAGIC Kron Mini K5 Review – Part 3: Ubuntu 26.04 on an entry-level Wildcat Lake mini PC](<https://www.cnx-software.com/2026/11/05/acemagic-kron-mini-k5-review-part-3-ubuntu-26-04-on-an-entry-level-wildcat-lake-mini-pc/>)
 
-**SecurityWeek** · News · Nov 04, 2026
+**CNX Software – Embedded Systems News** · Article · Nov 05, 2026
 
-Prosecutors allege Ryan James Roach and Mathiew James Stubbings compromised university systems in four U.S. states from 2016 to 2019, using stolen credentials, malware, and multi-country virtual servers to conceal their activity and mine Electroneum on hijacked university hardware.
+The ACEMAGIC Kron Mini K5 runs Ubuntu 26.04.1 alongside Windows 11 after the reviewers disabled Secure Boot to resolve an installation error.
 
-[Read article →](<https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/>)
-
----
-
-### 2. [Poisoned cPGuard update hits thousands of web hosting servers](<https://www.helpnetsecurity.com/2026/11/04/cpguard-update-supply-chain-compromised/>)
-
-**Help Net Security** · News · Nov 04, 2026
-
-A compromised cPGuard update channel delivered malicious versions 5.88.12–5.88.19 to about 2,950 servers, where agents ran the script as root. It exfiltrated sensitive files, including password hashes, SSH keys, database credentials, shell history, and cloud keys, and left a hidden root shell and scheduled task.
-
-[Read article →](<https://www.helpnetsecurity.com/2026/11/04/cpguard-update-supply-chain-compromised/>)
+[Read article →](<https://www.cnx-software.com/2026/11/05/acemagic-kron-mini-k5-review-part-3-ubuntu-26-04-on-an-entry-level-wildcat-lake-mini-pc/>)
 
 ---
 
-### 3. [Synaptics Appears To Use Legal Threats To Block Open-Source DisplayLink Driver](<https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>)
+### 2. [What Makes a Quantum Company Valuable?](<https://www.eetimes.com/what-makes-a-quantum-company-valuable/>)
 
-**Phoronix** · News · Nov 04, 2026
+**EE Times** · News · Nov 05, 2026
 
-An experimental, clean-room Rust driver for modern DisplayLink hardware called Vino is no longer publicly available after Synaptics reportedly sent its developer a cease-and-desist notice alleging patent infringement.
+Quantum companies need a credible path from technical progress to customer value, investors say. Qubits Ventures’ Nardo Manaloto looks for intermediate products that solve real problems and can earn revenue while advancing the long-term roadmap.
 
-[Read article →](<https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver>)
-
----
-
-### 4. ["AMD Loves Omarchy" Linux With More Collaboration Coming](<https://www.phoronix.com/news/AMD-Loves-Omarchy>)
-
-**Phoronix** · News · Nov 04, 2026
-
-AMD VP of AI Software Anush Elangovan has praised Omarchy and met its lead, David Heinemeier Hansson, at the Fireworks Forge event, where he supplied him with an AMD-powered HP ZBook. Elangovan said “AMD ❤️ Omarchy.
-
-[Read article →](<https://www.phoronix.com/news/AMD-Loves-Omarchy>)
+[Read article →](<https://www.eetimes.com/what-makes-a-quantum-company-valuable/>)
 
 ---
 
-### 5. [Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical](<https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/>)
+### 3. [CVE-2026-123033 - TrueNAS SCALE middlewared Authentication Bypass](<https://cvefeed.io/vuln/detail/CVE-2026-123033>)
 
-**SecurityWeek** · News · Nov 04, 2026
+**Latest High/Critical Vulnerabilitiy Feed** · Article · Nov 05, 2026
 
-Chrome 157 fixes 213 vulnerabilities, including seven critical memory-safety flaws and 77 high-severity issues. The critical bugs include a Dawn buffer overflow ($10,000 bounty), an ANGLE memory-corruption flaw ($1,000), four use-after-free defects, and another buffer overflow.
+Before TrueNAS SCALE 25.10.8 (or the corresponding fixes in other release trains), middlewared’s HA peer-authentication hook could grant unauthenticated full-administrator API access, including root command execution, to a connection from the same layer-2 network segment.
 
-[Read article →](<https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/>)
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-123033>)
+
+---
+
+### 4. [Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers](<https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/>)
+
+**MarkTechPost** · Article · Nov 05, 2026
+
+Agile Deliberation helps users define subjective image categories by reviewing borderline examples and turning disagreements into revised classifier definitions. It first breaks a concept into up to three units with candidate positive and negative subconcepts.
+
+[Read article →](<https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/>)
+
+---
+
+### 5. [Companies are spending more on AI governance and getting less control](<https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/>)
+
+**Help Net Security** · News · Nov 05, 2026
+
+The excerpt reports a gap between AI governance spending and practical oversight. In DNSFilter’s survey, 40.3% named AI security and governance as the next priority for added security spending, yet 61.5% could not confirm all security tools were properly configured and 61.8% could not confirm…
+
+[Read article →](<https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/>)
 
 
 ---
 
-Updated 2026-11-05 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-06 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
