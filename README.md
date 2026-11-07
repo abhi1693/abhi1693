@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [ACEMAGIC Kron Mini K5 Review – Part 3: Ubuntu 26.04 on an entry-level Wildcat Lake mini PC](<https://www.cnx-software.com/2026/11/05/acemagic-kron-mini-k5-review-part-3-ubuntu-26-04-on-an-entry-level-wildcat-lake-mini-pc/>)
+### 1. [November 2026 Patch Tuesday forecast: Old software continues to bite](<https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/>)
 
-**CNX Software – Embedded Systems News** · Article · Nov 05, 2026
+**Help Net Security** · News · Nov 06, 2026
 
-The ACEMAGIC Kron Mini K5 runs Ubuntu 26.04.1 alongside Windows 11 after the reviewers disabled Secure Boot to resolve an installation error.
+The article’s practical takeaway is to patch actively exploited flaws promptly and keep removing obsolete software: even final-patched or abandoned apps can remain network-connected and expose systems.
 
-[Read article →](<https://www.cnx-software.com/2026/11/05/acemagic-kron-mini-k5-review-part-3-ubuntu-26-04-on-an-entry-level-wildcat-lake-mini-pc/>)
-
----
-
-### 2. [What Makes a Quantum Company Valuable?](<https://www.eetimes.com/what-makes-a-quantum-company-valuable/>)
-
-**EE Times** · News · Nov 05, 2026
-
-Quantum companies need a credible path from technical progress to customer value, investors say. Qubits Ventures’ Nardo Manaloto looks for intermediate products that solve real problems and can earn revenue while advancing the long-term roadmap.
-
-[Read article →](<https://www.eetimes.com/what-makes-a-quantum-company-valuable/>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/>)
 
 ---
 
-### 3. [CVE-2026-123033 - TrueNAS SCALE middlewared Authentication Bypass](<https://cvefeed.io/vuln/detail/CVE-2026-123033>)
+### 2. [Security certification is a snapshot, and buyers read too much into it](<https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/>)
 
-**Latest High/Critical Vulnerabilitiy Feed** · Article · Nov 05, 2026
+**Help Net Security** · Opinion · Nov 06, 2026
 
-Before TrueNAS SCALE 25.10.8 (or the corresponding fixes in other release trains), middlewared’s HA peer-authentication hook could grant unauthenticated full-administrator API access, including root command execution, to a connection from the same layer-2 network segment.
+Common Criteria and FIPS 140 certificates document evaluation within a defined scope; they do not promise that a whole product is secure or free of vulnerabilities.
 
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-123033>)
-
----
-
-### 4. [Google AI Research Releases Agile Deliberation Framework for Gray-Area Image Classifiers](<https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/>)
-
-**MarkTechPost** · Article · Nov 05, 2026
-
-Agile Deliberation helps users define subjective image categories by reviewing borderline examples and turning disagreements into revised classifier definitions. It first breaks a concept into up to three units with candidate positive and negative subconcepts.
-
-[Read article →](<https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/>)
 
 ---
 
-### 5. [Companies are spending more on AI governance and getting less control](<https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/>)
+### 3. [87% say their AI controls need to work better](<https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/>)
 
-**Help Net Security** · News · Nov 05, 2026
+**Help Net Security** · News · Nov 06, 2026
 
-The excerpt reports a gap between AI governance spending and practical oversight. In DNSFilter’s survey, 40.3% named AI security and governance as the next priority for added security spending, yet 61.5% could not confirm all security tools were properly configured and 61.8% could not confirm…
+Among surveyed business decision-makers at companies with more than $500 million in annual revenue, over half say their teams’ AI can act within defined rules without routine review or complete processes without human approval; reported autonomy ranges from 54% for standalone generative tools to 59%…
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/>)
+
+---
+
+### 4. [99% of repository access tokens never expire](<https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/>)
+
+**Help Net Security** · News · Nov 06, 2026
+
+BlueFlag Security’s 2026 report finds that repository credentials and developer access often outlast their purpose: 99% of measured repository access tokens had no expiration, 84% allowed code changes, and 47% had gone unused for over 90 days without revocation.
+
+[Read article →](<https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/>)
+
+---
+
+### 5. [Rental phishing sites use live chat to win over hesitant travelers](<https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/>)
+
+**Help Net Security** · News · Nov 06, 2026
+
+Fake rental-booking sites copied familiar platform branding, property listings and reservation details, then used urgent claims about unconfirmed bookings, failed payments or cancellations to push travelers toward verification and payment.
+
+[Read article →](<https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/>)
 
 
 ---
 
-Updated 2026-11-06 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-07 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
