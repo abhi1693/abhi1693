@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [November 2026 Patch Tuesday forecast: Old software continues to bite](<https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/>)
+### 1. [ASRock Rack DMRD16-2L+ Spotted with 16 DDR5 Slots for Diamond Rapids](<https://www.servethehome.com/asrock-rack-dmrd16-2l-plus-diamond-rapids-ocp-summit-2026/>)
 
-**Help Net Security** · News · Nov 06, 2026
+**ServeTheHome** · News · Nov 07, 2026
 
-The article’s practical takeaway is to patch actively exploited flaws promptly and keep removing obsolete software: even final-patched or abandoned apps can remain network-connected and expose systems.
+Shown at OCP Summit 2026, ASRock Rack’s single-socket DMRD16-2L+ is an EEB board for Intel Diamond Rapids Xeons, with sixteen memory channels and one DIMM slot per channel.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/06/november-2026-patch-tuesday-forecast/>)
-
----
-
-### 2. [Security certification is a snapshot, and buyers read too much into it](<https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/>)
-
-**Help Net Security** · Opinion · Nov 06, 2026
-
-Common Criteria and FIPS 140 certificates document evaluation within a defined scope; they do not promise that a whole product is secure or free of vulnerabilities.
-
-[Read article →](<https://www.helpnetsecurity.com/2026/11/06/mariia-bakhtina-masaryk-university-security-certification/>)
+[Read article →](<https://www.servethehome.com/asrock-rack-dmrd16-2l-plus-diamond-rapids-ocp-summit-2026/>)
 
 ---
 
-### 3. [87% say their AI controls need to work better](<https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/>)
+### 2. [After buying EA, Silver Lake and PIF reportedly offer $25 billion for Unity](<https://www.techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html>)
 
-**Help Net Security** · News · Nov 06, 2026
+**TechSpot** · News · Nov 07, 2026
 
-Among surveyed business decision-makers at companies with more than $500 million in annual revenue, over half say their teams’ AI can act within defined rules without routine review or complete processes without human approval; reported autonomy ranges from 54% for standalone generative tools to 59%…
+Silver Lake and Saudi Arabia’s Public Investment Fund (PIF) reportedly offered about $25 billion to acquire Unity Software.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/>)
-
----
-
-### 4. [99% of repository access tokens never expire](<https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/>)
-
-**Help Net Security** · News · Nov 06, 2026
-
-BlueFlag Security’s 2026 report finds that repository credentials and developer access often outlast their purpose: 99% of measured repository access tokens had no expiration, 84% allowed code changes, and 47% had gone unused for over 90 days without revocation.
-
-[Read article →](<https://www.helpnetsecurity.com/2026/11/06/blueflag-ai-agents-access-risks-report/>)
+[Read article →](<https://www.techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html>)
 
 ---
 
-### 5. [Rental phishing sites use live chat to win over hesitant travelers](<https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/>)
+### 3. [Hackers pull off $133 million French bank heist via service provider](<https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/>)
 
-**Help Net Security** · News · Nov 06, 2026
+**BleepingComputer** · News · Nov 07, 2026
 
-Fake rental-booking sites copied familiar platform branding, property listings and reservation details, then used urgent claims about unconfirmed bookings, failed payments or cancellations to push travelers toward verification and payment.
+Crédit Mutuel Arkéa said an attacker entered its network through a service provider’s platform, then used the bank’s own account to make transactions with other banking organizations and convert funds into cryptocurrency.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/06/holiday-rental-platform-phishing-travelers/>)
+[Read article →](<https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/>)
+
+---
+
+### 4. [Find Your Stage on the Way to JavaScript Architect](<https://thetshaped.dev/p/find-your-stage-on-the-way-to-javascript>)
+
+**The T-Shaped Dev** · Tutorial · Nov 07, 2026
+
+The roadmap’s practical takeaway is to identify the first stage with an unchecked skill, then complete that stage’s work project before moving on.
+
+[Read article →](<https://thetshaped.dev/p/find-your-stage-on-the-way-to-javascript>)
+
+---
+
+### 5. [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](<https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/>)
+
+**BleepingComputer** · News · Nov 07, 2026
+
+CTM360 reports more than 1,000 incidents in a modular fake gift card campaign impersonating brands such as PlayStation, Sephora, SHEIN, Walmart, and Amazon. Social ads and fabricated celebrity endorsements lead users to reward portals that simulate card generation, then route them through repeated “verification” offers.
+
+[Read article →](<https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/>)
 
 
 ---
 
-Updated 2026-11-07 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-08 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
