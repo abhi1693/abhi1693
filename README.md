@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [ASRock Rack DMRD16-2L+ Spotted with 16 DDR5 Slots for Diamond Rapids](<https://www.servethehome.com/asrock-rack-dmrd16-2l-plus-diamond-rapids-ocp-summit-2026/>)
+### 1. [Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement](<https://www.phoronix.com/news/Linux-7.4-rc2-Released>)
 
-**ServeTheHome** · News · Nov 07, 2026
+**Phoronix** · News · Nov 09, 2026
 
-Shown at OCP Summit 2026, ASRock Rack’s single-socket DMRD16-2L+ is an EEB board for Intel Diamond Rapids Xeons, with sixteen memory channels and one DIMM slot per channel.
+Linux 7.4-rc2 includes fixes and updates across several kernel areas: a FAT32 improvement that is especially notable with synchronous mounts, AMDGPU fixes for HDMI 2.2 FRL, adjustments to AMD PerfOpt for Radeon iGPU performance, a correction to BHI mitigation selection for some configurations, and fixes…
 
-[Read article →](<https://www.servethehome.com/asrock-rack-dmrd16-2l-plus-diamond-rapids-ocp-summit-2026/>)
-
----
-
-### 2. [After buying EA, Silver Lake and PIF reportedly offer $25 billion for Unity](<https://www.techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html>)
-
-**TechSpot** · News · Nov 07, 2026
-
-Silver Lake and Saudi Arabia’s Public Investment Fund (PIF) reportedly offered about $25 billion to acquire Unity Software.
-
-[Read article →](<https://www.techspot.com/news/114479-after-buying-ea-silver-lake-pif-reportedly-offer.html>)
+[Read article →](<https://www.phoronix.com/news/Linux-7.4-rc2-Released>)
 
 ---
 
-### 3. [Hackers pull off $133 million French bank heist via service provider](<https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/>)
+### 2. [Compose Multiplatform: Why You Shouldn’t Build Your Whole iOS App in Compose](<https://proandroiddev.com/compose-multiplatform-why-you-shouldnt-build-your-whole-ios-app-in-compose-9e1e8c978a5b?source=rss----c72404660798---4>)
 
-**BleepingComputer** · News · Nov 07, 2026
+**ProAndroidDev** · Article · Nov 09, 2026
 
-Crédit Mutuel Arkéa said an attacker entered its network through a service provider’s platform, then used the bank’s own account to make transactions with other banking organizations and convert funds into cryptocurrency.
+The article’s ClariMeal example keeps product screens and business logic shared in Kotlin and Compose while UIKit owns iOS navigation and system controls.
 
-[Read article →](<https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/>)
-
----
-
-### 4. [Find Your Stage on the Way to JavaScript Architect](<https://thetshaped.dev/p/find-your-stage-on-the-way-to-javascript>)
-
-**The T-Shaped Dev** · Tutorial · Nov 07, 2026
-
-The roadmap’s practical takeaway is to identify the first stage with an unchecked skill, then complete that stage’s work project before moving on.
-
-[Read article →](<https://thetshaped.dev/p/find-your-stage-on-the-way-to-javascript>)
+[Read article →](<https://proandroiddev.com/compose-multiplatform-why-you-shouldnt-build-your-whole-ios-app-in-compose-9e1e8c978a5b?source=rss----c72404660798---4>)
 
 ---
 
-### 5. [CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands](<https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/>)
+### 3. [Space Invaders on a VFD](<https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/>)
 
-**BleepingComputer** · News · Nov 07, 2026
+**Hackaday** · News · Nov 09, 2026
 
-CTM360 reports more than 1,000 incidents in a modular fake gift card campaign impersonating brands such as PlayStation, Sephora, SHEIN, Walmart, and Amazon. Social ads and fabricated celebrity endorsements lead users to reward portals that simulate card generation, then route them through repeated “verification” offers.
+José Luis Monteiro and his father adapted a salvaged vacuum fluorescent display to play Space Invaders. Its limited vertical resolution constrains the gameplay, while the sprites suit the display’s retro look.
 
-[Read article →](<https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/>)
+[Read article →](<https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/>)
+
+---
+
+### 4. [Nvidia CEO Jensen Huang admits to having extramarital affair with suspected Chinese spy](<https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/>)
+
+**SiliconANGLE** · News · Nov 08, 2026
+
+Nvidia’s board says it has launched an independent investigation into reports that CEO Jensen Huang was targeted by a Chinese intelligence operation, while stating it has no reason to believe company secrets or U.S. national security were compromised. The excerpt reports that U.S.
+
+[Read article →](<https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/>)
+
+---
+
+### 5. [Week Notes 26#45](<https://www.jvt.me/week-notes/2026/45/>)
+
+**Jamie Tanna** · Article · Nov 08, 2026
+
+The author made further tweaks to their website and wrote posts about setting up Pushover with Amp and &#96;/copy&#96; changes, though a longer post about the site updates remains unfinished.
+
+[Read article →](<https://www.jvt.me/week-notes/2026/45/>)
 
 
 ---
 
-Updated 2026-11-08 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-09 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
