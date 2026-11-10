@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Linux 7.4-rc2 Released With FAT32 Optimization, AMDGPU HDMI 2.2 Improvement](<https://www.phoronix.com/news/Linux-7.4-rc2-Released>)
+### 1. [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](<https://www.phoronix.com/news/Firefox-160-Released>)
 
-**Phoronix** · News · Nov 09, 2026
+**Phoronix** · Release · Nov 09, 2026
 
-Linux 7.4-rc2 includes fixes and updates across several kernel areas: a FAT32 improvement that is especially notable with synchronous mounts, AMDGPU fixes for HDMI 2.2 FRL, adjustments to AMD PerfOpt for Radeon iGPU performance, a correction to BHI mitigation selection for some configurations, and fixes…
+Firefox 160 adds playback support for Matroska (MKV) files with FLAC, MP3, or PCM audio, including MP3 support despite an earlier request noting it was not on the feature plans due to low usage.
 
-[Read article →](<https://www.phoronix.com/news/Linux-7.4-rc2-Released>)
-
----
-
-### 2. [Compose Multiplatform: Why You Shouldn’t Build Your Whole iOS App in Compose](<https://proandroiddev.com/compose-multiplatform-why-you-shouldnt-build-your-whole-ios-app-in-compose-9e1e8c978a5b?source=rss----c72404660798---4>)
-
-**ProAndroidDev** · Article · Nov 09, 2026
-
-The article’s ClariMeal example keeps product screens and business logic shared in Kotlin and Compose while UIKit owns iOS navigation and system controls.
-
-[Read article →](<https://proandroiddev.com/compose-multiplatform-why-you-shouldnt-build-your-whole-ios-app-in-compose-9e1e8c978a5b?source=rss----c72404660798---4>)
+[Read article →](<https://www.phoronix.com/news/Firefox-160-Released>)
 
 ---
 
-### 3. [Space Invaders on a VFD](<https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/>)
+### 2. [5 useful Python automation scripts for beginners](<https://blog.adafruit.com/2026/11/09/5-useful-python-automation-scripts-for-beginners/>)
 
-**Hackaday** · News · Nov 09, 2026
+**Adafruit Industries** · Tutorial · Nov 09, 2026
 
-José Luis Monteiro and his father adapted a salvaged vacuum fluorescent display to play Space Invaders. Its limited vertical resolution constrains the gameplay, while the sprites suit the display’s retro look.
+The excerpt describes five compact Python scripts for everyday automation: a Pillow image resizer that preserves aspect ratio, adds a text watermark, and saves results separately; a pathlib bulk renamer with several naming options, a default dry run, and a check against duplicate destination names…
 
-[Read article →](<https://hackaday.com/2026/11/08/space-invaders-on-a-vfd/>)
-
----
-
-### 4. [Nvidia CEO Jensen Huang admits to having extramarital affair with suspected Chinese spy](<https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/>)
-
-**SiliconANGLE** · News · Nov 08, 2026
-
-Nvidia’s board says it has launched an independent investigation into reports that CEO Jensen Huang was targeted by a Chinese intelligence operation, while stating it has no reason to believe company secrets or U.S. national security were compromised. The excerpt reports that U.S.
-
-[Read article →](<https://siliconangle.com/2026/11/08/nvidia-ceo-jensen-huang-admits-to-having-extramarital-affair-with-suspected-chinese-spy/>)
+[Read article →](<https://blog.adafruit.com/2026/11/09/5-useful-python-automation-scripts-for-beginners/>)
 
 ---
 
-### 5. [Week Notes 26#45](<https://www.jvt.me/week-notes/2026/45/>)
+### 3. [Googlebooks get their first big update, freeing up 3GB to 6GB of RAM](<https://www.techspot.com/news/114498-googlebooks-get-their-first-big-update-freeing-up.html>)
 
-**Jamie Tanna** · Article · Nov 08, 2026
+**TechSpot** · News · Nov 09, 2026
 
-The author made further tweaks to their website and wrote posts about setting up Pushover with Amp and &#96;/copy&#96; changes, though a longer post about the site updates remains unfinished.
+Google’s November Googlebook update frees 3–6GB of RAM on the Acer Googlebook 14, Asus Googlebook 14, and Lenovo Googlebook 15 by updating the NPU driver and revising memory management for on-device AI.
 
-[Read article →](<https://www.jvt.me/week-notes/2026/45/>)
+[Read article →](<https://www.techspot.com/news/114498-googlebooks-get-their-first-big-update-freeing-up.html>)
+
+---
+
+### 4. [SEGA newsletter data breach exposes 2.2 million email addresses](<https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/>)
+
+**BleepingComputer** · News · Nov 09, 2026
+
+A breach at newsletter provider ARARA exposed email addresses for 2.2 million SEGA newsletter subscribers across 11 newsletters; 92,300 records also contain information whose contents remain undetermined.
+
+[Read article →](<https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/>)
+
+---
+
+### 5. [Claude claims it can now design electronic prototypes from start to finish](<https://blog.adafruit.com/2026/11/09/claude-claims-it-can-now-design-electronic-prototypes-from-start-to-finish/>)
+
+**Adafruit Industries** · News · Nov 09, 2026
+
+Anthropic says Claude Fable 5.2 designed three electronic prototypes from short prompts, producing specifications, schematics, PCB layouts and routing, 3D-printable enclosures, firmware, and parts lists.
+
+[Read article →](<https://blog.adafruit.com/2026/11/09/claude-claims-it-can-now-design-electronic-prototypes-from-start-to-finish/>)
 
 
 ---
 
-Updated 2026-11-09 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-10 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
