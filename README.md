@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Firefox 160 Available With Speech-To-Text, MKV Files With FLAC / MP3 / PCM Audio](<https://www.phoronix.com/news/Firefox-160-Released>)
+### 1. [Anthropic unveils Claude Fable 5.2, Mythos 5.2 with coding gains and lower prices](<https://www.infoworld.com/article/4246681/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices.html>)
 
-**Phoronix** · Release · Nov 09, 2026
+**InfoWorld** · News · Nov 10, 2026
 
-Firefox 160 adds playback support for Matroska (MKV) files with FLAC, MP3, or PCM audio, including MP3 support despite an earlier request noting it was not on the feature plans due to low usage.
+Anthropic says Claude Fable 5.2 and Mythos 5.2 use the same underlying model with different safeguards: Fable is broadly available, while direct Mythos access is limited to vetted cybersecurity and life sciences organizations.
 
-[Read article →](<https://www.phoronix.com/news/Firefox-160-Released>)
-
----
-
-### 2. [5 useful Python automation scripts for beginners](<https://blog.adafruit.com/2026/11/09/5-useful-python-automation-scripts-for-beginners/>)
-
-**Adafruit Industries** · Tutorial · Nov 09, 2026
-
-The excerpt describes five compact Python scripts for everyday automation: a Pillow image resizer that preserves aspect ratio, adds a text watermark, and saves results separately; a pathlib bulk renamer with several naming options, a default dry run, and a check against duplicate destination names…
-
-[Read article →](<https://blog.adafruit.com/2026/11/09/5-useful-python-automation-scripts-for-beginners/>)
+[Read article →](<https://www.infoworld.com/article/4246681/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices.html>)
 
 ---
 
-### 3. [Googlebooks get their first big update, freeing up 3GB to 6GB of RAM](<https://www.techspot.com/news/114498-googlebooks-get-their-first-big-update-freeing-up.html>)
+### 2. [What kind of management style is needed in the age of AI?](<https://www.cio.com/article/4246421/what-kind-of-management-style-is-needed-in-the-age-of-ai.html>)
 
-**TechSpot** · News · Nov 09, 2026
+**CIO** · Article · Nov 10, 2026
 
-Google’s November Googlebook update frees 3–6GB of RAM on the Acer Googlebook 14, Asus Googlebook 14, and Lenovo Googlebook 15 by updating the NPU driver and revising memory management for on-device AI.
+The article argues that as AI handles routine work, companies will stand out through their culture, judgment, and tacit knowledge.
 
-[Read article →](<https://www.techspot.com/news/114498-googlebooks-get-their-first-big-update-freeing-up.html>)
-
----
-
-### 4. [SEGA newsletter data breach exposes 2.2 million email addresses](<https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/>)
-
-**BleepingComputer** · News · Nov 09, 2026
-
-A breach at newsletter provider ARARA exposed email addresses for 2.2 million SEGA newsletter subscribers across 11 newsletters; 92,300 records also contain information whose contents remain undetermined.
-
-[Read article →](<https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/>)
+[Read article →](<https://www.cio.com/article/4246421/what-kind-of-management-style-is-needed-in-the-age-of-ai.html>)
 
 ---
 
-### 5. [Claude claims it can now design electronic prototypes from start to finish](<https://blog.adafruit.com/2026/11/09/claude-claims-it-can-now-design-electronic-prototypes-from-start-to-finish/>)
+### 3. [Anthropic and OpenAI are coming for the development workflow](<https://www.infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html>)
 
-**Adafruit Industries** · News · Nov 09, 2026
+**InfoWorld** · Opinion · Nov 10, 2026
 
-Anthropic says Claude Fable 5.2 designed three electronic prototypes from short prompts, producing specifications, schematics, PCB layouts and routing, 3D-printable enclosures, firmware, and parts lists.
+The article argues that the cost of repeatedly training frontier models is pushing Anthropic and OpenAI to capture more of developers’ workflows, which could make customers harder to retain.
 
-[Read article →](<https://blog.adafruit.com/2026/11/09/claude-claims-it-can-now-design-electronic-prototypes-from-start-to-finish/>)
+[Read article →](<https://www.infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html>)
+
+---
+
+### 4. [Google patches eighth Chrome zero-day exploited in attacks this year](<https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/>)
+
+**BleepingComputer** · News · Nov 10, 2026
+
+Google patched CVE-2026-125350, a high-severity use-after-free flaw in Chrome’s XML component that it says attackers are exploiting in the wild.
+
+[Read article →](<https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/>)
+
+---
+
+### 5. [Fireworks AI discloses new breach after cloud provider hack](<https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/>)
+
+**BleepingComputer** · News · Nov 10, 2026
+
+Fireworks said attackers reached its development machines through a breach at a third-party cloud provider, then ran an unauthorized workload that exposed additional customer data. The accessed information included resource metadata, billing and account details, and incomplete model weights and datasets for some customers.
+
+[Read article →](<https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/>)
 
 
 ---
 
-Updated 2026-11-10 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-11 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
