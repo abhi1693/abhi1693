@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Anthropic unveils Claude Fable 5.2, Mythos 5.2 with coding gains and lower prices](<https://www.infoworld.com/article/4246681/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices.html>)
+### 1. [Quiz: Python HTTPX: Making HTTP Requests With HTTPX2](<https://realpython.com/quizzes/python-httpx/>)
 
-**InfoWorld** · News · Nov 10, 2026
+**Real Python** · Article
 
-Anthropic says Claude Fable 5.2 and Mythos 5.2 use the same underlying model with different safeguards: Fable is broadly available, while direct Mythos access is limited to vetted cybersecurity and life sciences organizations.
+This 10-question, untimed quiz checks practical use of HTTPX2, Pydantic’s fork of HTTPX with a Requests-style API. Topics include reusing connections with &#96;Client&#96;, concurrent requests with &#96;AsyncClient&#96;, timeouts and errors, streaming large responses, and enabling HTTP/2.
 
-[Read article →](<https://www.infoworld.com/article/4246681/anthropic-unveils-claude-fable-5-2-mythos-5-2-with-coding-gains-and-lower-prices.html>)
-
----
-
-### 2. [What kind of management style is needed in the age of AI?](<https://www.cio.com/article/4246421/what-kind-of-management-style-is-needed-in-the-age-of-ai.html>)
-
-**CIO** · Article · Nov 10, 2026
-
-The article argues that as AI handles routine work, companies will stand out through their culture, judgment, and tacit knowledge.
-
-[Read article →](<https://www.cio.com/article/4246421/what-kind-of-management-style-is-needed-in-the-age-of-ai.html>)
+[Read article →](<https://realpython.com/quizzes/python-httpx/>)
 
 ---
 
-### 3. [Anthropic and OpenAI are coming for the development workflow](<https://www.infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html>)
+### 2. [FreeBSD Working To Establish An AI Policy After Polling Developers](<https://www.phoronix.com/news/FreeBSD-Q3-2026-Report>)
 
-**InfoWorld** · Opinion · Nov 10, 2026
+**Phoronix** · News · Nov 11, 2026
 
-The article argues that the cost of repeatedly training frontier models is pushing Anthropic and OpenAI to capture more of developers’ workflows, which could make customers harder to retain.
+In a developer poll, 88% favored a FreeBSD AI policy. Views on code varied: 35% wanted AI-assisted code disclosed, 22% wanted it treated like other contributions, and 16% wanted generated code rejected. For documentation, 65% favored AI-generated material with human review.
 
-[Read article →](<https://www.infoworld.com/article/4246055/anthropic-and-openai-are-coming-for-the-development-workflow.html>)
-
----
-
-### 4. [Google patches eighth Chrome zero-day exploited in attacks this year](<https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/>)
-
-**BleepingComputer** · News · Nov 10, 2026
-
-Google patched CVE-2026-125350, a high-severity use-after-free flaw in Chrome’s XML component that it says attackers are exploiting in the wild.
-
-[Read article →](<https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/>)
+[Read article →](<https://www.phoronix.com/news/FreeBSD-Q3-2026-Report>)
 
 ---
 
-### 5. [Fireworks AI discloses new breach after cloud provider hack](<https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/>)
+### 3. [Bay Raises $50 Million to Control What Enterprise AI Agents Can Do](<https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/>)
 
-**BleepingComputer** · News · Nov 10, 2026
+**SecurityWeek** · News · Nov 11, 2026
 
-Fireworks said attackers reached its development machines through a breach at a third-party cloud provider, then ran an unauthorized workload that exposed additional customer data. The accessed information included resource metadata, billing and account details, and incomplete model weights and datasets for some customers.
+Bay describes an enterprise control plane that tracks AI agent activity and evaluates each proposed action in the context of its full session.
 
-[Read article →](<https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/>)
+[Read article →](<https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/>)
+
+---
+
+### 4. [Microsoft fixes audio issues caused by September security updates](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/>)
+
+**BleepingComputer** · News · Nov 11, 2026
+
+Microsoft says security updates released November 10, 2026 (KB5132061) and later resolve USB Audio Class 1.0 failures introduced by updates released since September.
+
+[Read article →](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/>)
+
+---
+
+### 5. [Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks](<https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/>)
+
+**SecurityWeek** · News · Nov 11, 2026
+
+Dreeze raised $33 million in seed funding to develop and expand sales of Application Revival, a platform intended to restore whole cloud applications after cyberattacks or mistakes by AI agents.
+
+[Read article →](<https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/>)
 
 
 ---
 
-Updated 2026-11-11 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-12 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
