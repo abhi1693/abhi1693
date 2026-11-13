@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Quiz: Python HTTPX: Making HTTP Requests With HTTPX2](<https://realpython.com/quizzes/python-httpx/>)
+### 1. [Check a subagent's OpenShell policy against a boundary](<https://nirmata.com/2026/11/12/openshell-policy-ceilings-and-least-privilege-delegation/>)
 
-**Real Python** · Article
+**Nirmata** · Tutorial
 
-This 10-question, untimed quiz checks practical use of HTTPX2, Pydantic’s fork of HTTPX with a Requests-style API. Topics include reusing connections with &#96;Client&#96;, concurrent requests with &#96;AsyncClient&#96;, timeouts and errors, streaming large responses, and enabling HTTP/2.
+OpenShell’s Policy Prover checks offline whether a candidate policy stays within a maximum-access boundary; only &#96;within&#95;boundary&#96; passes, and the check does not apply or enforce the policy.
 
-[Read article →](<https://realpython.com/quizzes/python-httpx/>)
-
----
-
-### 2. [FreeBSD Working To Establish An AI Policy After Polling Developers](<https://www.phoronix.com/news/FreeBSD-Q3-2026-Report>)
-
-**Phoronix** · News · Nov 11, 2026
-
-In a developer poll, 88% favored a FreeBSD AI policy. Views on code varied: 35% wanted AI-assisted code disclosed, 22% wanted it treated like other contributions, and 16% wanted generated code rejected. For documentation, 65% favored AI-generated material with human review.
-
-[Read article →](<https://www.phoronix.com/news/FreeBSD-Q3-2026-Report>)
+[Read article →](<https://nirmata.com/2026/11/12/openshell-policy-ceilings-and-least-privilege-delegation/>)
 
 ---
 
-### 3. [Bay Raises $50 Million to Control What Enterprise AI Agents Can Do](<https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/>)
+### 2. [A decade in, KubeVirt pushes virtual machines into the AI agent era](<https://siliconangle.com/2026/11/11/confidential-computing-ai-agents-push-kubevirt-vms-forward-kubeconna/>)
 
-**SecurityWeek** · News · Nov 11, 2026
+**SiliconANGLE** · News · Nov 12, 2026
 
-Bay describes an enterprise control plane that tracks AI agent activity and evaluates each proposed action in the context of its full session.
+KubeVirt, which runs virtual machines alongside containers on Kubernetes, has graduated from the Cloud Native Computing Foundation and is being positioned for AI workload isolation. Its maintainers describe VMs as providing larger isolation and heavy compute, with pods offering scaling for cache applications.
 
-[Read article →](<https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/>)
-
----
-
-### 4. [Microsoft fixes audio issues caused by September security updates](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/>)
-
-**BleepingComputer** · News · Nov 11, 2026
-
-Microsoft says security updates released November 10, 2026 (KB5132061) and later resolve USB Audio Class 1.0 failures introduced by updates released since September.
-
-[Read article →](<https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/>)
+[Read article →](<https://siliconangle.com/2026/11/11/confidential-computing-ai-agents-push-kubevirt-vms-forward-kubeconna/>)
 
 ---
 
-### 5. [Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks](<https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/>)
+### 3. [Announcing the Relate by Neo4j Hackathon 2026: Build AI Agents on an Embedded Graph Database](<https://neo4j.com/blog/graph-database/announcing-the-relate-by-neo4j-hackathon-2026-build-ai-agents-on-an-embedded-graph-database/>)
 
-**SecurityWeek** · News · Nov 11, 2026
+**Neo4j** · News · Nov 12, 2026
 
-Dreeze raised $33 million in seed funding to develop and expand sales of Application Revival, a platform intended to restore whole cloud applications after cyberattacks or mistakes by AI agents.
+Relate by Neo4j is an open-source embedded graph database for AI agents, offered as a library inside an application without a server or signup. Graphs can be kept in memory, a directory, or a single file; local relationship and vector lookups avoid network calls.
 
-[Read article →](<https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/>)
+[Read article →](<https://neo4j.com/blog/graph-database/announcing-the-relate-by-neo4j-hackathon-2026-build-ai-agents-on-an-embedded-graph-database/>)
+
+---
+
+### 4. [Nvidia’s board reportedly preparing to oust CEO Jensen Huang after reports of a second affair](<https://siliconangle.com/2026/11/11/nvidias-board-reportedly-preparing-to-oust-jensen-huang-after-reports-of-a-second-affair/>)
+
+**SiliconANGLE** · News · Nov 12, 2026
+
+Reports in the New York Times and Wall Street Journal describe two separate issues facing Nvidia CEO Jensen Huang: an alleged relationship with Healthcare Vice President Kimberly Powell, and his reported admission of an affair with Alice Huang, a former data-center supplier CEO suspected of…
+
+[Read article →](<https://siliconangle.com/2026/11/11/nvidias-board-reportedly-preparing-to-oust-jensen-huang-after-reports-of-a-second-affair/>)
+
+---
+
+### 5. [Google enters decision model market with Gemini Decisions API](<https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/>)
+
+**SiliconANGLE** · Release · Nov 12, 2026
+
+Gemini Decision 1 is a decision model for yes/no, multiple-choice, and rating questions, returning concise answers with confidence scores. Google says it costs nearly five times less than Gemini 3.5 Flash-Lite; the API charges $0.10 per million input tokens and no output-token fees.
+
+[Read article →](<https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/>)
 
 
 ---
 
-Updated 2026-11-12 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-13 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
