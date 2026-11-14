@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Check a subagent's OpenShell policy against a boundary](<https://nirmata.com/2026/11/12/openshell-policy-ceilings-and-least-privilege-delegation/>)
+### 1. [How Agent Anomaly Detection scores on benchmarks we didn't write](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)
 
-**Nirmata** · Tutorial
+**Google Developers Blog** · News
 
-OpenShell’s Policy Prover checks offline whether a candidate policy stays within a maximum-access boundary; only &#96;within&#95;boundary&#96; passes, and the check does not apply or enforce the policy.
+In five public benchmarks totaling 1,774 sessions, Agent Anomaly Detection (AAD) flagged 87% of harmful instructions that agents carried out, analyzing traces and logs asynchronously without adding runtime latency.
 
-[Read article →](<https://nirmata.com/2026/11/12/openshell-policy-ceilings-and-least-privilege-delegation/>)
-
----
-
-### 2. [A decade in, KubeVirt pushes virtual machines into the AI agent era](<https://siliconangle.com/2026/11/11/confidential-computing-ai-agents-push-kubevirt-vms-forward-kubeconna/>)
-
-**SiliconANGLE** · News · Nov 12, 2026
-
-KubeVirt, which runs virtual machines alongside containers on Kubernetes, has graduated from the Cloud Native Computing Foundation and is being positioned for AI workload isolation. Its maintainers describe VMs as providing larger isolation and heavy compute, with pods offering scaling for cache applications.
-
-[Read article →](<https://siliconangle.com/2026/11/11/confidential-computing-ai-agents-push-kubevirt-vms-forward-kubeconna/>)
+[Read article →](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)
 
 ---
 
-### 3. [Announcing the Relate by Neo4j Hackathon 2026: Build AI Agents on an Embedded Graph Database](<https://neo4j.com/blog/graph-database/announcing-the-relate-by-neo4j-hackathon-2026-build-ai-agents-on-an-embedded-graph-database/>)
+### 2. [How attackers turned a Teams meeting booking into a device code phishing trap](<https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/>)
 
-**Neo4j** · News · Nov 12, 2026
+**Help Net Security** · News · Nov 13, 2026
 
-Relate by Neo4j is an open-source embedded graph database for AI agents, offered as a library inside an application without a server or signup. Graphs can be kept in memory, a directory, or a single file; local relationship and vector lookups avoid network calls.
+A fake Teams meeting scheduler turned the meeting “booking reference” into a Microsoft device code, leading an employee to approve the attacker’s sign-in and grant access tokens.
 
-[Read article →](<https://neo4j.com/blog/graph-database/announcing-the-relate-by-neo4j-hackathon-2026-build-ai-agents-on-an-embedded-graph-database/>)
-
----
-
-### 4. [Nvidia’s board reportedly preparing to oust CEO Jensen Huang after reports of a second affair](<https://siliconangle.com/2026/11/11/nvidias-board-reportedly-preparing-to-oust-jensen-huang-after-reports-of-a-second-affair/>)
-
-**SiliconANGLE** · News · Nov 12, 2026
-
-Reports in the New York Times and Wall Street Journal describe two separate issues facing Nvidia CEO Jensen Huang: an alleged relationship with Healthcare Vice President Kimberly Powell, and his reported admission of an affair with Alice Huang, a former data-center supplier CEO suspected of…
-
-[Read article →](<https://siliconangle.com/2026/11/11/nvidias-board-reportedly-preparing-to-oust-jensen-huang-after-reports-of-a-second-affair/>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/>)
 
 ---
 
-### 5. [Google enters decision model market with Gemini Decisions API](<https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/>)
+### 3. [Best Tools for AI Concierge for Employee Support Automation in 2026](<https://www.lyzr.ai/blog/best-tools-for-ai-concierge-for-employee-support-automation/>)
 
-**SiliconANGLE** · Release · Nov 12, 2026
+**Lyzr.ai** · Comparison · Nov 13, 2026
 
-Gemini Decision 1 is a decision model for yes/no, multiple-choice, and rating questions, returning concise answers with confidence scores. Google says it costs nearly five times less than Gemini 3.5 Flash-Lite; the API charges $0.10 per million input tokens and no output-token fees.
+An employee support concierge is most useful when it can retrieve information and execute requests across connected systems, with access controls and escalation for complex cases.
 
-[Read article →](<https://siliconangle.com/2026/11/11/google-enters-the-decision-model-market-with-gemini-decisions-api/>)
+[Read article →](<https://www.lyzr.ai/blog/best-tools-for-ai-concierge-for-employee-support-automation/>)
+
+---
+
+### 4. [A Desktop OS for the ESP32-P4](<https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/>)
+
+**Hackaday** · News · Nov 13, 2026
+
+BMDS is a desktop-style OS for the ESP32-P4, targeting an Olimex board. It uses FreeRTOS as its kernel and adds a minimally intrusive, single-user environment described as DOS-like. It runs ELF binaries, offers some POSIX compliance, and includes a BusyBox port.
+
+[Read article →](<https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/>)
+
+---
+
+### 5. [Your pinned MCP server may not be as pinned as you think](<https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/>)
+
+**Help Net Security** · News · Nov 13, 2026
+
+A fixed MCP server release did not keep its dependencies fixed: over five weeks, an administrator’s workstation built 15 dependency sets without configuration changes, and 23 of 69 packages changed versions.
+
+[Read article →](<https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/>)
 
 
 ---
 
-Updated 2026-11-13 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-14 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
