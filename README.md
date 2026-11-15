@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [How Agent Anomaly Detection scores on benchmarks we didn't write](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)
+### 1. [Windows 0-Day Dropped By Disgruntled Researcher Hands Hackers System Rights](<https://it.slashdot.org/story/26/11/14/020218/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights>)
 
-**Google Developers Blog** · News
+**Slashdot** · News
 
-In five public benchmarks totaling 1,774 sessions, Agent Anomaly Detection (AAD) flagged 87% of harmful instructions that agents carried out, analyzing traces and logs asynchronously without adding runtime latency.
+SignDrop is a reported Windows Common Log File System vulnerability that can let an ordinary local user gain System rights by inducing a privileged process, such as Windows Defender, to open a crafted CLFS container.
 
-[Read article →](<https://developers.googleblog.com/how-agent-anomaly-detection-scores-on-benchmarks-we-didnt-write/>)
-
----
-
-### 2. [How attackers turned a Teams meeting booking into a device code phishing trap](<https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/>)
-
-**Help Net Security** · News · Nov 13, 2026
-
-A fake Teams meeting scheduler turned the meeting “booking reference” into a Microsoft device code, leading an employee to approve the attacker’s sign-in and grant access tokens.
-
-[Read article →](<https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/>)
+[Read article →](<https://it.slashdot.org/story/26/11/14/020218/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights>)
 
 ---
 
-### 3. [Best Tools for AI Concierge for Employee Support Automation in 2026](<https://www.lyzr.ai/blog/best-tools-for-ai-concierge-for-employee-support-automation/>)
+### 2. [How to classify MCP tools by risk (read, edit, delete)](<https://nirmata.com/2026/11/16/classifying-mcp-tools-by-risk/>)
 
-**Lyzr.ai** · Comparison · Nov 13, 2026
+**Nirmata** · Article
 
-An employee support concierge is most useful when it can retrieve information and execute requests across connected systems, with access controls and escalation for complex cases.
+Classify MCP tools by reviewed behavior: read tools change nothing, edit tools add or update state, and delete tools may destroy or overwrite it.
 
-[Read article →](<https://www.lyzr.ai/blog/best-tools-for-ai-concierge-for-employee-support-automation/>)
-
----
-
-### 4. [A Desktop OS for the ESP32-P4](<https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/>)
-
-**Hackaday** · News · Nov 13, 2026
-
-BMDS is a desktop-style OS for the ESP32-P4, targeting an Olimex board. It uses FreeRTOS as its kernel and adds a minimally intrusive, single-user environment described as DOS-like. It runs ELF binaries, offers some POSIX compliance, and includes a BusyBox port.
-
-[Read article →](<https://hackaday.com/2026/11/12/a-desktop-os-for-the-esp32-p4/>)
+[Read article →](<https://nirmata.com/2026/11/16/classifying-mcp-tools-by-risk/>)
 
 ---
 
-### 5. [Your pinned MCP server may not be as pinned as you think](<https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/>)
+### 3. [Borland C++ 2.0 Compiler Source Reconstructed](<https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/>)
 
-**Help Net Security** · News · Nov 13, 2026
+**Hackaday** · News · Nov 14, 2026
 
-A fixed MCP server release did not keep its dependencies fixed: over five weeks, an administrator’s workstation built 15 dependency sets without configuration changes, and 23 of 69 packages changed versions.
+Borland C++ 2.0’s source has been reconstructed from the original toolchain binaries. The project claims the recreated source is byte-perfect in the practical sense that it produces binaries identical to those from the original compiler.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/>)
+[Read article →](<https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/>)
+
+---
+
+### 4. [Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)](<https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/>)
+
+**CNX Software – Embedded Systems News** · News · Nov 14, 2026
+
+Sylphide OS and Bare Metal, Do Stuff (BMDS) bring desktop environments to microcontroller boards, with both projects targeting the Olimex ESP32-P4-PC. Sylphide uses FreeRTOS and offers a monochrome Macintosh-like interface, window manager, hardware drivers, and configuration framework.
+
+[Read article →](<https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/>)
+
+---
+
+### 5. [Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers](<https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect>)
+
+**Cyber Newsroom** · News · Nov 14, 2026
+
+Huntress found 2,223 unauthorized crypto-themed guest sessions on 118 ScreenConnect servers across 109 organizations, added between Nov. 3 and 13, 2026. The sessions were repeatedly kept online, but investigators observed no malicious guest activity.
+
+[Read article →](<https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect>)
 
 
 ---
 
-Updated 2026-11-14 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-15 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
