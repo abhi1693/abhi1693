@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Windows 0-Day Dropped By Disgruntled Researcher Hands Hackers System Rights](<https://it.slashdot.org/story/26/11/14/020218/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights>)
+### 1. [Cloudflare Introduces Private Origins for Application Services](<https://www.infoq.com/news/2026/11/cloudflare-private-origins/>)
+
+**InfoQ** · News · Nov 15, 2026
+
+Cloudflare Private Origins lets public traffic reach applications on private networks without exposing their IP addresses or opening inbound firewall ports.
+
+[Read article →](<https://www.infoq.com/news/2026/11/cloudflare-private-origins/>)
+
+---
+
+### 2. [Bringing a Cloud Based Monitor Home](<https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/>)
+
+**Hackaday** · News · Nov 15, 2026
+
+The Bluelab Guardian monitor requires an internet connection, so Joziti modified it to keep its readings on the local network.
+
+[Read article →](<https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/>)
+
+---
+
+### 3. [Did Alice Huang's Megaspeed Bypass America's Controls on Exporting Nvidia Chip to China?](<https://hardware.slashdot.org/story/26/11/15/0510225/did-alice-huangs-megaspeed-bypass-americas-controls-on-exporting-nvidia-chip-to-china>)
 
 **Slashdot** · News
 
-SignDrop is a reported Windows Common Log File System vulnerability that can let an ordinary local user gain System rights by inducing a privileged process, such as Windows Defender, to open a crafted CLFS container.
+Megaspeed International became a major Nvidia chip buyer, and US and Singapore authorities have scrutinized whether it diverted chips to unauthorized buyers in China.
 
-[Read article →](<https://it.slashdot.org/story/26/11/14/020218/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights>)
-
----
-
-### 2. [How to classify MCP tools by risk (read, edit, delete)](<https://nirmata.com/2026/11/16/classifying-mcp-tools-by-risk/>)
-
-**Nirmata** · Article
-
-Classify MCP tools by reviewed behavior: read tools change nothing, edit tools add or update state, and delete tools may destroy or overwrite it.
-
-[Read article →](<https://nirmata.com/2026/11/16/classifying-mcp-tools-by-risk/>)
+[Read article →](<https://hardware.slashdot.org/story/26/11/15/0510225/did-alice-huangs-megaspeed-bypass-americas-controls-on-exporting-nvidia-chip-to-china>)
 
 ---
 
-### 3. [Borland C++ 2.0 Compiler Source Reconstructed](<https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/>)
+### 4. [Meta Fined €805 Million by Italian Regulator Over 'Blanket Permission' for Photo Access; Granularity of Consent at Issue](<https://joho-todai.com/en/meta-italy-fine-photo-access-consent/>)
 
-**Hackaday** · News · Nov 14, 2026
+**Joho no Todai** · News · Nov 15, 2026
 
-Borland C++ 2.0’s source has been reconstructed from the original toolchain binaries. The project claims the recreated source is byte-perfect in the practical sense that it produces binaries identical to those from the original compiler.
+Italy’s data protection authority fined Meta €805 million over Facebook’s Android photo-suggestion feature. It found that one broad device permission, described only as enabling “other features,” did not clearly inform users that their gallery would be used to suggest posts; the feature was on by…
 
-[Read article →](<https://hackaday.com/2026/11/13/borland-c-2-0-compiler-source-reconstructed/>)
-
----
-
-### 4. [Desktop operating systems for ESP32-P4-based “PCs” – Meet Sylphide OS and Bare Metal, Do Stuff (BMDS)](<https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/>)
-
-**CNX Software – Embedded Systems News** · News · Nov 14, 2026
-
-Sylphide OS and Bare Metal, Do Stuff (BMDS) bring desktop environments to microcontroller boards, with both projects targeting the Olimex ESP32-P4-PC. Sylphide uses FreeRTOS and offers a monochrome Macintosh-like interface, window manager, hardware drivers, and configuration framework.
-
-[Read article →](<https://www.cnx-software.com/2026/11/14/desktop-operating-systems-for-esp32-p4-based-pcs-meet-sylphide-os-and-bare-metal-do-stuff-bmds/>)
+[Read article →](<https://joho-todai.com/en/meta-italy-fine-photo-access-consent/>)
 
 ---
 
-### 5. [Attackers use Crypto Exchange Names to Disguise Unauthorized Sessions on 100+ ScreenConnect Servers](<https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect>)
+### 5. [Windows 11 Setup Cannot Proceed on IPv6-Only Networks; Issue Reproduced in Insider Builds](<https://joho-todai.com/en/windows-11-ipv6-network-setup-issue/>)
 
-**Cyber Newsroom** · News · Nov 14, 2026
+**Joho no Todai** · News · Nov 15, 2026
 
-Huntress found 2,223 unauthorized crypto-themed guest sessions on 118 ScreenConnect servers across 109 organizations, added between Nov. 3 and 13, 2026. The sessions were repeatedly kept online, but investigators observed no malicious guest activity.
+Windows 11 OOBE can block setup on an IPv6-only network even when internet access works: it displays “Connected” but then reports “connection lost.” The report says the behavior was reproduced in a stable release and the latest Insider build; a successful IPv6 ping to microsoft.com…
 
-[Read article →](<https://www.huntress.com/blog/fake-crypto-exchange-sessions-screenconnect>)
+[Read article →](<https://joho-todai.com/en/windows-11-ipv6-network-setup-issue/>)
 
 
 ---
 
-Updated 2026-11-15 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-16 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
