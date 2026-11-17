@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Cloudflare Introduces Private Origins for Application Services](<https://www.infoq.com/news/2026/11/cloudflare-private-origins/>)
+### 1. [On-Demand Development Boards With Remote Access Methods](<https://hackaday.com/2026/11/16/on-demand-development-boards-with-remote-access-methods/>)
 
-**InfoQ** · News · Nov 15, 2026
+**Hackaday** · Article · Nov 16, 2026
 
-Cloudflare Private Origins lets public traffic reach applications on private networks without exposing their IP addresses or opening inbound firewall ports.
+Remote development boards can be made accessible over the internet through a debug server such as &#96;gdbserver&#96;, which lets a remote developer use GDB and, with suitable configuration, tools like OpenOCD to program flash.
 
-[Read article →](<https://www.infoq.com/news/2026/11/cloudflare-private-origins/>)
-
----
-
-### 2. [Bringing a Cloud Based Monitor Home](<https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/>)
-
-**Hackaday** · News · Nov 15, 2026
-
-The Bluelab Guardian monitor requires an internet connection, so Joziti modified it to keep its readings on the local network.
-
-[Read article →](<https://hackaday.com/2026/11/14/bringing-a-cloud-based-monitor-home/>)
+[Read article →](<https://hackaday.com/2026/11/16/on-demand-development-boards-with-remote-access-methods/>)
 
 ---
 
-### 3. [Did Alice Huang's Megaspeed Bypass America's Controls on Exporting Nvidia Chip to China?](<https://hardware.slashdot.org/story/26/11/15/0510225/did-alice-huangs-megaspeed-bypass-americas-controls-on-exporting-nvidia-chip-to-china>)
+### 2. [Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG](<https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/>)
 
-**Slashdot** · News
+**InfoQ** · News · Nov 16, 2026
 
-Megaspeed International became a major Nvidia chip buyer, and US and Singapore authorities have scrutinized whether it diverted chips to unauthorized buyers in China.
+Uber’s Legal Redlining Agent reports reducing average contract review time by more than 20%, with 91% accuracy in AI-generated decisions; lawyers still review and approve its recommendations.
 
-[Read article →](<https://hardware.slashdot.org/story/26/11/15/0510225/did-alice-huangs-megaspeed-bypass-americas-controls-on-exporting-nvidia-chip-to-china>)
-
----
-
-### 4. [Meta Fined €805 Million by Italian Regulator Over 'Blanket Permission' for Photo Access; Granularity of Consent at Issue](<https://joho-todai.com/en/meta-italy-fine-photo-access-consent/>)
-
-**Joho no Todai** · News · Nov 15, 2026
-
-Italy’s data protection authority fined Meta €805 million over Facebook’s Android photo-suggestion feature. It found that one broad device permission, described only as enabling “other features,” did not clearly inform users that their gallery would be used to suggest posts; the feature was on by…
-
-[Read article →](<https://joho-todai.com/en/meta-italy-fine-photo-access-consent/>)
+[Read article →](<https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/>)
 
 ---
 
-### 5. [Windows 11 Setup Cannot Proceed on IPv6-Only Networks; Issue Reproduced in Insider Builds](<https://joho-todai.com/en/windows-11-ipv6-network-setup-issue/>)
+### 3. [How one malfunctioning router in Arkansas grounded every flight in America last week](<https://www.techspot.com/news/114567-how-one-malfunctioning-router-arkansas-grounded-every-flight.html>)
 
-**Joho no Todai** · News · Nov 15, 2026
+**TechSpot** · News · Nov 16, 2026
 
-Windows 11 OOBE can block setup on an IPv6-only network even when internet access works: it displays “Connected” but then reports “connection lost.” The report says the behavior was reproduced in a stable release and the latest Insider build; a successful IPv6 ping to microsoft.com…
+A router upgrade at an FAA radio site in El Dorado, Arkansas, flooded the agency’s private network with connection requests that older equipment could not handle.
 
-[Read article →](<https://joho-todai.com/en/windows-11-ipv6-network-setup-issue/>)
+[Read article →](<https://www.techspot.com/news/114567-how-one-malfunctioning-router-arkansas-grounded-every-flight.html>)
+
+---
+
+### 4. [LLVM's Old AMD R600 Compiler Backend Slated For Removal](<https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire>)
+
+**Phoronix** · News · Nov 16, 2026
+
+AMD has proposed removing LLVM’s R600 back-end, which supports Radeon HD 2000–6000 GPUs. Its former Mesa R600 Gallium3D and Clover OpenCL uses have ended: Mesa’s R600g driver moved to NIR, and Clover was replaced by Rusticl.
+
+[Read article →](<https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire>)
+
+---
+
+### 5. [Criminal marketplace sells infostealer logs with AI-written profiles of their owners](<https://www.helpnetsecurity.com/2026/11/16/ai-powered-infostealer-marketplace-victim-profiles/>)
+
+**Help Net Security** · News · Nov 16, 2026
+
+Hudson Rock reports that an unnamed criminal marketplace sells infostealer logs with AI-written profiles describing likely machine owners, workplaces, and potentially valuable accounts.
+
+[Read article →](<https://www.helpnetsecurity.com/2026/11/16/ai-powered-infostealer-marketplace-victim-profiles/>)
 
 
 ---
 
-Updated 2026-11-16 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-17 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
