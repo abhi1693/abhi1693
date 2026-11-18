@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [On-Demand Development Boards With Remote Access Methods](<https://hackaday.com/2026/11/16/on-demand-development-boards-with-remote-access-methods/>)
+### 1. [CVE-2026-125275 - A device certificate whose CA isn't registered can keep a TLS handshake running forever](<https://cvefeed.io/vuln/detail/CVE-2026-125275>)
 
-**Hackaday** · Article · Nov 16, 2026
+**Latest High/Critical Vulnerabilitiy Feed** · Article · Nov 17, 2026
 
-Remote development boards can be made accessible over the internet through a debug server such as &#96;gdbserver&#96;, which lets a remote developer use GDB and, with suitable configuration, tools like OpenOCD to program flash.
+In NervesHub versions 1.0.0 through before 2.5.4, an unauthenticated remote attacker can cause denial of service by presenting a TLS client certificate whose chain reaches a root trusted by the device endpoint but contains no CA registered in NervesHub.
 
-[Read article →](<https://hackaday.com/2026/11/16/on-demand-development-boards-with-remote-access-methods/>)
-
----
-
-### 2. [Uber’s Legal AI Agent Cuts Contract Review Time by 20% with Rules and RAG](<https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/>)
-
-**InfoQ** · News · Nov 16, 2026
-
-Uber’s Legal Redlining Agent reports reducing average contract review time by more than 20%, with 91% accuracy in AI-generated decisions; lawyers still review and approve its recommendations.
-
-[Read article →](<https://www.infoq.com/news/2026/11/uber-legal-redlining-agent/>)
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-125275>)
 
 ---
 
-### 3. [How one malfunctioning router in Arkansas grounded every flight in America last week](<https://www.techspot.com/news/114567-how-one-malfunctioning-router-arkansas-grounded-every-flight.html>)
+### 2. [CVE-2026-107902 - FUJI ELECTRIC TELLUS Use-After-Free Vulnerability](<https://cvefeed.io/vuln/detail/CVE-2026-107902>)
 
-**TechSpot** · News · Nov 16, 2026
+**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 17, 2026
 
-A router upgrade at an FAA radio site in El Dorado, Arkansas, flooded the agency’s private network with connection requests that older equipment could not handle.
+FUJI ELECTRIC’s TELLUS and TELLUS Lite contain a use-after-free vulnerability. Opening a specially crafted V9 file may cause information exposure or arbitrary code execution on an affected product.
 
-[Read article →](<https://www.techspot.com/news/114567-how-one-malfunctioning-router-arkansas-grounded-every-flight.html>)
-
----
-
-### 4. [LLVM's Old AMD R600 Compiler Backend Slated For Removal](<https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire>)
-
-**Phoronix** · News · Nov 16, 2026
-
-AMD has proposed removing LLVM’s R600 back-end, which supports Radeon HD 2000–6000 GPUs. Its former Mesa R600 Gallium3D and Clover OpenCL uses have ended: Mesa’s R600g driver moved to NIR, and Clover was replaced by Rusticl.
-
-[Read article →](<https://www.phoronix.com/news/LLVM-R600-Backend-To-Retire>)
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-107902>)
 
 ---
 
-### 5. [Criminal marketplace sells infostealer logs with AI-written profiles of their owners](<https://www.helpnetsecurity.com/2026/11/16/ai-powered-infostealer-marketplace-victim-profiles/>)
+### 3. [IBM, RIKEN, and NVIDIA Improve Iron-Sulfur Cluster Quantum-Calculation Accuracy 79-Fold: The Key Was the Starting Point, Not the Quantum Circuit](<https://joho-todai.com/en/ibm-riken-nvidia-quantum-accuracy-iron-sulfur-cluster/>)
 
-**Help Net Security** · News · Nov 16, 2026
+**Joho no Todai** · Article · Nov 17, 2026
 
-Hudson Rock reports that an unnamed criminal marketplace sells infostealer logs with AI-written profiles describing likely machine owners, workplaces, and potentially valuable accounts.
+Changing SQD’s classical reference state from restricted Hartree-Fock (RHF), which cannot represent the iron atoms’ opposing spins, to broken-symmetry unrestricted Hartree-Fock (BS-UHF) with a Noodleman initial guess improved the reference energy by about 534 mHa.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/16/ai-powered-infostealer-marketplace-victim-profiles/>)
+[Read article →](<https://joho-todai.com/en/ibm-riken-nvidia-quantum-accuracy-iron-sulfur-cluster/>)
+
+---
+
+### 4. [At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries](<https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/>)
+
+**SiliconANGLE** · News · Nov 17, 2026
+
+Nvidia announced a science-focused hardware and software lineup at SC26. Its planned Rubin HPC GPU, due in 2028, will have more than 50,000 CUDA cores, a new NVLink iteration, and sparse-data acceleration; the current Rubin GPU has over 28,000 CUDA cores.
+
+[Read article →](<https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/>)
+
+---
+
+### 5. [AMD ROCm HRX's Loom 0.2 Expands C++ Support, Improved Targeting](<https://www.phoronix.com/news/HRX-Loom-0.2>)
+
+**Phoronix** · Release · Nov 17, 2026
+
+Loom 0.2 broadens complete-program C++ support and packaged AMD GPU/NPU and Vulkan execution, while expanding a shared target compiler across x86, AIE2P, AMDGPU, SPIR-V, and WebAssembly.
+
+[Read article →](<https://www.phoronix.com/news/HRX-Loom-0.2>)
 
 
 ---
 
-Updated 2026-11-17 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-18 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
