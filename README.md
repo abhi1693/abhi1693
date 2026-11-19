@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [CVE-2026-125275 - A device certificate whose CA isn't registered can keep a TLS handshake running forever](<https://cvefeed.io/vuln/detail/CVE-2026-125275>)
+### 1. [TapMap: Free, open-source network map](<https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/>)
 
-**Latest High/Critical Vulnerabilitiy Feed** · Article · Nov 17, 2026
+**Help Net Security** · News · Nov 18, 2026
 
-In NervesHub versions 1.0.0 through before 2.5.4, an unauthenticated remote attacker can cause denial of service by presenting a TLS client certificate whose chain reaches a root trusted by the device endpoint but contains no CA registered in NervesHub.
+TapMap is a free, open-source desktop app that maps active network connections by scanning open sockets, resolving remote IPs with a local GeoIP database, and displaying results in a browser with the associated application name.
 
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-125275>)
-
----
-
-### 2. [CVE-2026-107902 - FUJI ELECTRIC TELLUS Use-After-Free Vulnerability](<https://cvefeed.io/vuln/detail/CVE-2026-107902>)
-
-**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 17, 2026
-
-FUJI ELECTRIC’s TELLUS and TELLUS Lite contain a use-after-free vulnerability. Opening a specially crafted V9 file may cause information exposure or arbitrary code execution on an affected product.
-
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-107902>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/>)
 
 ---
 
-### 3. [IBM, RIKEN, and NVIDIA Improve Iron-Sulfur Cluster Quantum-Calculation Accuracy 79-Fold: The Key Was the Starting Point, Not the Quantum Circuit](<https://joho-todai.com/en/ibm-riken-nvidia-quantum-accuracy-iron-sulfur-cluster/>)
+### 2. [CloudBackend grabs €6.6M to turn AI-generated prototypes into productive business applications](<https://siliconangle.com/2026/11/18/cloudbackend-grabs-e6-6m-to-turn-ai-generated-prototypes-into-productive-business-applications/>)
 
-**Joho no Todai** · Article · Nov 17, 2026
+**SiliconANGLE** · News · Nov 18, 2026
 
-Changing SQD’s classical reference state from restricted Hartree-Fock (RHF), which cannot represent the iron atoms’ opposing spins, to broken-symmetry unrestricted Hartree-Fock (BS-UHF) with a Noodleman initial guess improved the reference energy by about 534 mHa.
+CloudBackend raised €6.6 million in seed funding to develop its Operations Platform, which aims to help turn AI-generated app prototypes into production businesses.
 
-[Read article →](<https://joho-todai.com/en/ibm-riken-nvidia-quantum-accuracy-iron-sulfur-cluster/>)
-
----
-
-### 4. [At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries](<https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/>)
-
-**SiliconANGLE** · News · Nov 17, 2026
-
-Nvidia announced a science-focused hardware and software lineup at SC26. Its planned Rubin HPC GPU, due in 2028, will have more than 50,000 CUDA cores, a new NVLink iteration, and sparse-data acceleration; the current Rubin GPU has over 28,000 CUDA cores.
-
-[Read article →](<https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/>)
+[Read article →](<https://siliconangle.com/2026/11/18/cloudbackend-grabs-e6-6m-to-turn-ai-generated-prototypes-into-productive-business-applications/>)
 
 ---
 
-### 5. [AMD ROCm HRX's Loom 0.2 Expands C++ Support, Improved Targeting](<https://www.phoronix.com/news/HRX-Loom-0.2>)
+### 3. [BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers](<https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/>)
 
-**Phoronix** · Release · Nov 17, 2026
+**Help Net Security** · News · Nov 18, 2026
 
-Loom 0.2 broadens complete-program C++ support and packaged AMD GPU/NPU and Vulkan execution, while expanding a shared target compiler across x86, AIE2P, AMDGPU, SPIR-V, and WebAssembly.
+BubbleLoader hides malware in altered Windows programs, using two PNGs to decrypt and load a payload directly into memory.
 
-[Read article →](<https://www.phoronix.com/news/HRX-Loom-0.2>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/>)
+
+---
+
+### 4. [Product showcase: iVerify Basic helps users check device security and improve privacy](<https://www.helpnetsecurity.com/2026/11/18/product-showcase-iverify-basic/>)
+
+**Help Net Security** · Article · Nov 18, 2026
+
+iVerify Basic gives iOS and Android users a place to check device integrity and review security settings. Its Device tab runs a scan, displays findings and the last-check time, and lists Face ID, screen lock, and update status.
+
+[Read article →](<https://www.helpnetsecurity.com/2026/11/18/product-showcase-iverify-basic/>)
+
+---
+
+### 5. [Fraudsters feed the right face into identity checks through virtual cameras](<https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/>)
+
+**Help Net Security** · News · Nov 18, 2026
+
+Entrust’s report says document fraud remains the largest identity attack category, though its rate fell 19% year over year; physical counterfeits made up 61.1% of fraudulent submissions, and medium-sophistication attacks accounted for nearly 39%. Deepfake detections rose 165%.
+
+[Read article →](<https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/>)
 
 
 ---
 
-Updated 2026-11-18 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-19 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
