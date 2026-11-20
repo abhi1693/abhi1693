@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [TapMap: Free, open-source network map](<https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/>)
+### 1. [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)
 
-**Help Net Security** · News · Nov 18, 2026
+**TechCrunch | AI News &#38; Artificial Intelligence** · News · Nov 19, 2026
 
-TapMap is a free, open-source desktop app that maps active network connections by scanning open sockets, resolving remote IPs with a local GeoIP database, and displaying results in a browser with the associated application name.
+Nadella said Microsoft offered buyouts to give employees agency as it reorganizes around AI, not because he is replacing them with AI. He expects workers’ roles to shift toward directing AI agents, while software engineering continues in a changed form.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/18/tapmap-network-map-open-source/>)
+[Read article →](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)
 
 ---
 
-### 2. [CloudBackend grabs €6.6M to turn AI-generated prototypes into productive business applications](<https://siliconangle.com/2026/11/18/cloudbackend-grabs-e6-6m-to-turn-ai-generated-prototypes-into-productive-business-applications/>)
+### 2. [GPU architecture, clearly explained](<https://blog.dailydoseofds.com/p/gpu-architecture-clearly-explained>)
+
+**Daily Dose of Data Science** · Article · Nov 19, 2026
+
+For single-response LLM generation, memory bandwidth can limit token rate because each 16-bit weight read transfers two bytes for only two arithmetic operations. Batching requests improves reuse by applying each loaded weight across several requests.
+
+[Read article →](<https://blog.dailydoseofds.com/p/gpu-architecture-clearly-explained>)
+
+---
+
+### 3. [Wait for pull request events with GitHub CLI](<https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli>)
+
+**GitHub Changelog** · Release · Nov 19, 2026
+
+With &#96;gh&#96; v2.105.0 or later, &#96;gh event listen&#96; can wait for selected pull request events and print each as a line of JSON, replacing polling loops.
+
+[Read article →](<https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli>)
+
+---
+
+### 4. [Anthropic’s record-breaking IPO priced at $83 per share, higher than expected](<https://siliconangle.com/2026/11/18/anthropics-record-breaking-ipo-priced-at-83-per-share-higher-than-expected/>)
 
 **SiliconANGLE** · News · Nov 18, 2026
 
-CloudBackend raised €6.6 million in seed funding to develop its Operations Platform, which aims to help turn AI-generated app prototypes into production businesses.
+Anthropic priced its IPO at $83 per share, above the expected $70–$78 range. If it sells all offered shares at that price, the sale would raise more than $68 billion; including $26 billion in private placements, the offering would exceed $94 billion.
 
-[Read article →](<https://siliconangle.com/2026/11/18/cloudbackend-grabs-e6-6m-to-turn-ai-generated-prototypes-into-productive-business-applications/>)
-
----
-
-### 3. [BubbleLoader malware turns copies of WinRAR and Windows Media Player into carriers](<https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/>)
-
-**Help Net Security** · News · Nov 18, 2026
-
-BubbleLoader hides malware in altered Windows programs, using two PNGs to decrypt and load a payload directly into memory.
-
-[Read article →](<https://www.helpnetsecurity.com/2026/11/18/winrar-bubbleloader-malware/>)
+[Read article →](<https://siliconangle.com/2026/11/18/anthropics-record-breaking-ipo-priced-at-83-per-share-higher-than-expected/>)
 
 ---
 
-### 4. [Product showcase: iVerify Basic helps users check device security and improve privacy](<https://www.helpnetsecurity.com/2026/11/18/product-showcase-iverify-basic/>)
+### 5. [Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)
 
-**Help Net Security** · Article · Nov 18, 2026
+**TechCrunch | AI News &#38; Artificial Intelligence** · News · Nov 18, 2026
 
-iVerify Basic gives iOS and Android users a place to check device integrity and review security settings. Its Device tab runs a scan, displays findings and the last-check time, and lists Face ID, screen lock, and update status.
+Satya Nadella warned that internet-connected critical infrastructure—including firmware, cooling, HVAC and transportation systems—can contain vulnerabilities that cannot be patched. He said companies must modernize these systems and assess their ability to detect and defend against threats in real time.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/18/product-showcase-iverify-basic/>)
-
----
-
-### 5. [Fraudsters feed the right face into identity checks through virtual cameras](<https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/>)
-
-**Help Net Security** · News · Nov 18, 2026
-
-Entrust’s report says document fraud remains the largest identity attack category, though its rate fell 19% year over year; physical counterfeits made up 61.1% of fraudulent submissions, and medium-sophistication attacks accounted for nearly 39%. Deepfake detections rose 165%.
-
-[Read article →](<https://www.helpnetsecurity.com/2026/11/18/entrust-document-verification-fraud-report/>)
+[Read article →](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)
 
 
 ---
 
-Updated 2026-11-19 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-20 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
