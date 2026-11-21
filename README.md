@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Microsoft CEO Satya Nadella explains why he asked 60K employees to quit](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)
+### 1. [Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?](<https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes>)
 
-**TechCrunch | AI News &#38; Artificial Intelligence** · News · Nov 19, 2026
+**The Guardian | Technology** · Opinion · Nov 20, 2026
 
-Nadella said Microsoft offered buyouts to give employees agency as it reorganizes around AI, not because he is replacing them with AI. He expects workers’ roles to shift toward directing AI agents, while software engineering continues in a changed form.
+Sarah Hanson-Young argues that Labor should not create copyright loopholes to attract AI companies, since big tech is already building datacentres in Australia.
 
-[Read article →](<https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/>)
-
----
-
-### 2. [GPU architecture, clearly explained](<https://blog.dailydoseofds.com/p/gpu-architecture-clearly-explained>)
-
-**Daily Dose of Data Science** · Article · Nov 19, 2026
-
-For single-response LLM generation, memory bandwidth can limit token rate because each 16-bit weight read transfers two bytes for only two arithmetic operations. Batching requests improves reuse by applying each loaded weight across several requests.
-
-[Read article →](<https://blog.dailydoseofds.com/p/gpu-architecture-clearly-explained>)
+[Read article →](<https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes>)
 
 ---
 
-### 3. [Wait for pull request events with GitHub CLI](<https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli>)
+### 2. [Lawmakers form bipartisan caucus to create meaningful AI safety legislation](<https://siliconangle.com/2026/11/19/lawmakers-form-bipartisan-caucus-to-create-meaningful-ai-safety-legislation/>)
 
-**GitHub Changelog** · Release · Nov 19, 2026
+**SiliconANGLE** · News · Nov 20, 2026
 
-With &#96;gh&#96; v2.105.0 or later, &#96;gh event listen&#96; can wait for selected pull request events and print each as a line of JSON, replacing polling loops.
+A 26-member bipartisan House caucus, including seven Republicans, plans to develop targeted AI safety legislation while preserving innovation. Its co-chairs cited reports of AI agents escaping test environments and accessing outside systems as reasons for Congress to better understand security risks.
 
-[Read article →](<https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli>)
-
----
-
-### 4. [Anthropic’s record-breaking IPO priced at $83 per share, higher than expected](<https://siliconangle.com/2026/11/18/anthropics-record-breaking-ipo-priced-at-83-per-share-higher-than-expected/>)
-
-**SiliconANGLE** · News · Nov 18, 2026
-
-Anthropic priced its IPO at $83 per share, above the expected $70–$78 range. If it sells all offered shares at that price, the sale would raise more than $68 billion; including $26 billion in private placements, the offering would exceed $94 billion.
-
-[Read article →](<https://siliconangle.com/2026/11/18/anthropics-record-breaking-ipo-priced-at-83-per-share-higher-than-expected/>)
+[Read article →](<https://siliconangle.com/2026/11/19/lawmakers-form-bipartisan-caucus-to-create-meaningful-ai-safety-legislation/>)
 
 ---
 
-### 5. [Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)
+### 3. [Industrial monitoring startup BrightAI closes $97M investment](<https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/>)
 
-**TechCrunch | AI News &#38; Artificial Intelligence** · News · Nov 18, 2026
+**SiliconANGLE** · News · Nov 20, 2026
 
-Satya Nadella warned that internet-connected critical infrastructure—including firmware, cooling, HVAC and transportation systems—can contain vulnerabilities that cannot be patched. He said companies must modernize these systems and assess their ability to detect and defend against threats in real time.
+BrightAI raised $97 million in a Series A led by Smith Point Capital, with GE Vernova and other venture firms participating.
 
-[Read article →](<https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/>)
+[Read article →](<https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/>)
+
+---
+
+### 4. [Use Kimi Code CLI with models on Amazon Bedrock](<https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/>)
+
+**Artificial Intelligence** · Tutorial · Nov 20, 2026
+
+Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider that uses the standard AWS credential chain, including named profiles and SSO, reducing the need to manage a separate Bedrock API key.
+
+[Read article →](<https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/>)
+
+---
+
+### 5. [Improvements on the pull request overview in public preview](<https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview>)
+
+**GitHub Changelog** · Release · Nov 20, 2026
+
+GitHub’s public preview of the pull request Overview page has been updated to clarify merge readiness and make common review tasks easier. Failed optional checks no longer make otherwise mergeable PRs appear blocked; missing requirements and next steps are clearer, and completed review threads collapse.
+
+[Read article →](<https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview>)
 
 
 ---
 
-Updated 2026-11-20 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-21 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
