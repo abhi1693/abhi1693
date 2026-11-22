@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?](<https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes>)
+### 1. [Borealis Isolated Postgres: Serious Database Security for the Common Runtime](<https://www.heroku.com/blog/borealis-isolated-postgres/>)
 
-**The Guardian | Technology** · Opinion · Nov 20, 2026
+**Heroku** · Article · Nov 20, 2026
 
-Sarah Hanson-Young argues that Labor should not create copyright loopholes to attract AI companies, since big tech is already building datacentres in Australia.
+Borealis Isolated Postgres provides network-isolated PostgreSQL for apps on Heroku’s Common Runtime. Each database cluster sits in its own VPC and rejects incoming traffic by default, while three access paths support different needs: a buildpack creates secure app-to-database tunnels and can use a read-only URL…
 
-[Read article →](<https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes>)
-
----
-
-### 2. [Lawmakers form bipartisan caucus to create meaningful AI safety legislation](<https://siliconangle.com/2026/11/19/lawmakers-form-bipartisan-caucus-to-create-meaningful-ai-safety-legislation/>)
-
-**SiliconANGLE** · News · Nov 20, 2026
-
-A 26-member bipartisan House caucus, including seven Republicans, plans to develop targeted AI safety legislation while preserving innovation. Its co-chairs cited reports of AI agents escaping test environments and accessing outside systems as reasons for Congress to better understand security risks.
-
-[Read article →](<https://siliconangle.com/2026/11/19/lawmakers-form-bipartisan-caucus-to-create-meaningful-ai-safety-legislation/>)
+[Read article →](<https://www.heroku.com/blog/borealis-isolated-postgres/>)
 
 ---
 
-### 3. [Industrial monitoring startup BrightAI closes $97M investment](<https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/>)
+### 2. [CVE-2026-77329 - Tapo: DNS rebinding reaches unauthenticated Tapo MCP smart-home controls](<https://cvefeed.io/vuln/detail/CVE-2026-77329>)
 
-**SiliconANGLE** · News · Nov 20, 2026
+**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 20, 2026
 
-BrightAI raised $97 million in a Series A led by Smith Point Capital, with GE Vernova and other venture firms participating.
+From versions 0.3.1 to before 0.5.0, Tapo’s Streamable HTTP MCP server could accept DNS-rebound browser requests without Host or Origin validation when TAPO&#95;MCP&#95;API&#95;KEY was unset.
 
-[Read article →](<https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment/>)
-
----
-
-### 4. [Use Kimi Code CLI with models on Amazon Bedrock](<https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/>)
-
-**Artificial Intelligence** · Tutorial · Nov 20, 2026
-
-Kimi Code CLI v2.7.0 adds a native Amazon Bedrock provider that uses the standard AWS credential chain, including named profiles and SSO, reducing the need to manage a separate Bedrock API key.
-
-[Read article →](<https://aws.amazon.com/blogs/machine-learning/use-kimi-code-cli-with-models-on-amazon-bedrock/>)
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-77329>)
 
 ---
 
-### 5. [Improvements on the pull request overview in public preview](<https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview>)
+### 3. [CVE-2026-133874 - Iceburg CRM through 5.0.0 Authorization Bypass via Record Save](<https://cvefeed.io/vuln/detail/CVE-2026-133874>)
 
-**GitHub Changelog** · Release · Nov 20, 2026
+**Latest High/Critical Vulnerabilitiy Feed** · Article · Nov 20, 2026
 
-GitHub’s public preview of the pull request Overview page has been updated to clarify merge readiness and make common review tasks easier. Failed optional checks no longer make otherwise mergeable PRs appear blocked; missing requirements and next steps are clearer, and completed review threads collapse.
+Iceburg CRM through version 5.0.0 has an authorization flaw in Module::saveRecord() that can let authenticated users write to modules they are not authorized to access.
 
-[Read article →](<https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview>)
+[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-133874>)
+
+---
+
+### 4. [Google Is Putting AI Chats Right On the Homepage](<https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage>)
+
+**Slashdot** · News
+
+Google is rolling out a redesigned desktop homepage with a collapsible sidebar that lets users return to and continue previous AI Mode searches.
+
+[Read article →](<https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage>)
+
+---
+
+### 5. [Java4Shell (CVE-2026-114938): What It Means for TeamCity](<https://blog.jetbrains.com/teamcity/2026/11/java4shell-cve-2026-114938-what-it-means-for-teamcity/>)
+
+**JetBrains** · News · Nov 20, 2026
+
+CVE-2026-114938 is a memory-corruption flaw in an optimized Java Base64 decoder, not in TeamCity itself.
+
+[Read article →](<https://blog.jetbrains.com/teamcity/2026/11/java4shell-cve-2026-114938-what-it-means-for-teamcity/>)
 
 
 ---
 
-Updated 2026-11-21 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-22 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
