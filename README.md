@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Borealis Isolated Postgres: Serious Database Security for the Common Runtime](<https://www.heroku.com/blog/borealis-isolated-postgres/>)
+### 1. [PSR2 &#38; Panel Replay + Pipe Joiner To Be Supported For Intel On Linux 7.5](<https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner>)
 
-**Heroku** · Article · Nov 20, 2026
+**Phoronix** · News · Nov 22, 2026
 
-Borealis Isolated Postgres provides network-isolated PostgreSQL for apps on Heroku’s Common Runtime. Each database cluster sits in its own VPC and rejects incoming traffic by default, while three access paths support different needs: a buildpack creates secure app-to-database tunnels and can use a read-only URL…
+Intel’s Linux display driver is adding support for Panel Replay and PSR2 while using the pipe joiner, which combines multiple display pipes to drive a display. Previously, the driver supported these power-saving features only without the joiner.
 
-[Read article →](<https://www.heroku.com/blog/borealis-isolated-postgres/>)
-
----
-
-### 2. [CVE-2026-77329 - Tapo: DNS rebinding reaches unauthenticated Tapo MCP smart-home controls](<https://cvefeed.io/vuln/detail/CVE-2026-77329>)
-
-**Latest High/Critical Vulnerabilitiy Feed** · News · Nov 20, 2026
-
-From versions 0.3.1 to before 0.5.0, Tapo’s Streamable HTTP MCP server could accept DNS-rebound browser requests without Host or Origin validation when TAPO&#95;MCP&#95;API&#95;KEY was unset.
-
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-77329>)
+[Read article →](<https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner>)
 
 ---
 
-### 3. [CVE-2026-133874 - Iceburg CRM through 5.0.0 Authorization Bypass via Record Save](<https://cvefeed.io/vuln/detail/CVE-2026-133874>)
+### 2. [Quick WIFI Adapter Through USB](<https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb/>)
 
-**Latest High/Critical Vulnerabilitiy Feed** · Article · Nov 20, 2026
+**Hackaday** · News · Nov 22, 2026
 
-Iceburg CRM through version 5.0.0 has an authorization flaw in Module::saveRecord() that can let authenticated users write to modules they are not authorized to access.
+TinyWifiDongle turns an ESP32-S3 or Pi Pico 2 W into a basic USB internet adapter, useful for light browsing or updating network drivers when a computer’s Wi-Fi fails.
 
-[Read article →](<https://cvefeed.io/vuln/detail/CVE-2026-133874>)
-
----
-
-### 4. [Google Is Putting AI Chats Right On the Homepage](<https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage>)
-
-**Slashdot** · News
-
-Google is rolling out a redesigned desktop homepage with a collapsible sidebar that lets users return to and continue previous AI Mode searches.
-
-[Read article →](<https://tech.slashdot.org/story/26/11/20/0138234/google-is-putting-ai-chats-right-on-the-homepage>)
+[Read article →](<https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb/>)
 
 ---
 
-### 5. [Java4Shell (CVE-2026-114938): What It Means for TeamCity](<https://blog.jetbrains.com/teamcity/2026/11/java4shell-cve-2026-114938-what-it-means-for-teamcity/>)
+### 3. [Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs](<https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/>)
 
-**JetBrains** · News · Nov 20, 2026
+**Help Net Security** · News · Nov 22, 2026
 
-CVE-2026-114938 is a memory-corruption flaw in an optimized Java Base64 decoder, not in TeamCity itself.
+The roundup reports two major incidents: an attacker exploited a vulnerability in Optimizely’s web experimentation platform to plant malicious JavaScript on customer websites, affecting 178 organizations; and OpenJDK’s Base64 decoder flaw CVE-2026-114938 may enable unauthenticated code execution, though exploitation is described as tricky and dependent…
 
-[Read article →](<https://blog.jetbrains.com/teamcity/2026/11/java4shell-cve-2026-114938-what-it-means-for-teamcity/>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/>)
+
+---
+
+### 4. [A Replacement PCB for the Echo Dot](<https://hackaday.com/2026/11/22/a-replacement-pcb-for-the-echo-dot/>)
+
+**Hackaday** · News · Nov 22, 2026
+
+A replacement PCB lets a third-generation Echo Dot keep its interface and microphone array while shifting voice-assistant service to a local Home Assistant server. Its processing hardware pairs an ESP32-P4 application processor with an ESP32-S3 for connectivity.
+
+[Read article →](<https://hackaday.com/2026/11/22/a-replacement-pcb-for-the-echo-dot/>)
+
+---
+
+### 5. [Pixar Co-Founder and Others Urge Film Studios to Partner With a 'New Pixar'—The Proponents Also Stand to Benefit](<https://joho-todai.com/en/pixar-founders-propose-new-pixar-collaboration/>)
+
+**Joho no Todai** · News · Nov 22, 2026
+
+The authors propose that major studios combine their financing, marketing, and distribution with production companies experienced in AI and platforms such as Roblox, while giving creators authority over the work.
+
+[Read article →](<https://joho-todai.com/en/pixar-founders-propose-new-pixar-collaboration/>)
 
 
 ---
 
-Updated 2026-11-22 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-23 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
