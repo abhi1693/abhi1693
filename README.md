@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [PSR2 &#38; Panel Replay + Pipe Joiner To Be Supported For Intel On Linux 7.5](<https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner>)
+### 1. [Raindrop ran 11 decision models over 1,005 decisions](<https://jevdaily.com/issues/2026-11-23-w7>)
 
-**Phoronix** · News · Nov 22, 2026
+**Jev Daily** · News
 
-Intel’s Linux display driver is adding support for Panel Replay and PSR2 while using the pipe joiner, which combines multiple display pipes to drive a display. Previously, the driver supported these power-saving features only without the joiner.
+The excerpt presents decision models as structured predictors for classification and routing, with results that vary by task. In Rivet’s support workflow, a single severity question with SEV1–SEV4 options performed mediocrely; three yes/no questions plus explicit rules improved the approach.
 
-[Read article →](<https://www.phoronix.com/news/Intel-PSR2-Panel-Replay-Joiner>)
-
----
-
-### 2. [Quick WIFI Adapter Through USB](<https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb/>)
-
-**Hackaday** · News · Nov 22, 2026
-
-TinyWifiDongle turns an ESP32-S3 or Pi Pico 2 W into a basic USB internet adapter, useful for light browsing or updating network drivers when a computer’s Wi-Fi fails.
-
-[Read article →](<https://hackaday.com/2026/11/22/quick-wifi-adapter-through-usb/>)
+[Read article →](<https://jevdaily.com/issues/2026-11-23-w7>)
 
 ---
 
-### 3. [Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs](<https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/>)
+### 2. [Individual Rebuilds and Publishes 16,926 Lost AnandTech Articles as a Website](<https://joho-todai.com/en/anandtech-recovered-16926-articles-rebuilt/>)
 
-**Help Net Security** · News · Nov 22, 2026
+**Joho no Todai** · News · Nov 23, 2026
 
-The roundup reports two major incidents: an attacker exploited a vulnerability in Optimizely’s web experimentation platform to plant malicious JavaScript on customer websites, affecting 178 organizations; and OpenJDK’s Base64 decoder flaw CVE-2026-114938 may enable unauthenticated code execution, though exploitation is described as tricky and dependent…
+An unofficial AnandTech Archive has made 16,926 articles from April 1997 through August 2024 readable again as a browsable website. Its creator rebuilt the site from WARC files and ZIM files reportedly collected by ArchiveTeam in 2024 and uploaded to the Internet Archive.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/>)
-
----
-
-### 4. [A Replacement PCB for the Echo Dot](<https://hackaday.com/2026/11/22/a-replacement-pcb-for-the-echo-dot/>)
-
-**Hackaday** · News · Nov 22, 2026
-
-A replacement PCB lets a third-generation Echo Dot keep its interface and microphone array while shifting voice-assistant service to a local Home Assistant server. Its processing hardware pairs an ESP32-P4 application processor with an ESP32-S3 for connectivity.
-
-[Read article →](<https://hackaday.com/2026/11/22/a-replacement-pcb-for-the-echo-dot/>)
+[Read article →](<https://joho-todai.com/en/anandtech-recovered-16926-articles-rebuilt/>)
 
 ---
 
-### 5. [Pixar Co-Founder and Others Urge Film Studios to Partner With a 'New Pixar'—The Proponents Also Stand to Benefit](<https://joho-todai.com/en/pixar-founders-propose-new-pixar-collaboration/>)
+### 3. [Firefox 161 Brings Per-Site VPN Toggling, Classic Themes Section](<https://www.phoronix.com/news/Firefox-161>)
 
-**Joho no Todai** · News · Nov 22, 2026
+**Phoronix** · Release · Nov 23, 2026
 
-The authors propose that major studios combine their financing, marketing, and distribution with production companies experienced in AI and platforms such as Roblox, while giving creators authority over the work.
+Firefox 161 adds per-site controls for Firefox’s built-in VPN, letting users enable or exclude it on selected sites. It also introduces a Classic Themes section with older Proton and OLED themes, plus an optional keyboard shortcut for copying the current tab’s URL.
 
-[Read article →](<https://joho-todai.com/en/pixar-founders-propose-new-pixar-collaboration/>)
+[Read article →](<https://www.phoronix.com/news/Firefox-161>)
+
+---
+
+### 4. [phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path](<https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>)
+
+**SecurityWeek** · News · Nov 23, 2026
+
+PHP patched phpAfterShell (CVE-2026-126714, CVSS 9.2), a session-file overwrite flaw that can leave fresh session data followed by remnants of the prior file if a write is interrupted before truncation.
+
+[Read article →](<https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>)
+
+---
+
+### 5. [Microsoft testing fix for Windows 11 Bluetooth audio quality drops](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/>)
+
+**BleepingComputer** · News · Nov 23, 2026
+
+Windows 11 preview builds for the Beta and Experimental channels let supported Bluetooth LE Audio devices maintain full-range stereo while their microphone is active.
+
+[Read article →](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/>)
 
 
 ---
 
-Updated 2026-11-23 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-24 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
