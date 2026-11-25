@@ -91,7 +91,17 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Raindrop ran 11 decision models over 1,005 decisions](<https://jevdaily.com/issues/2026-11-23-w7>)
+### 1. [Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff](<https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff>)
+
+**Red Hat Blog** · Article · Oct 22, 2026
+
+The survey of 1,940 technology and risk decision-makers finds a gap between sovereignty planning and operational readiness: 47% of organizations remain in the planning phase, and fewer than 3% say they can move critical workloads to a secondary provider within 30 days.
+
+[Read article →](<https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff>)
+
+---
+
+### 2. [Raindrop ran 11 decision models over 1,005 decisions](<https://jevdaily.com/issues/2026-11-23-w7>)
 
 **Jev Daily** · News
 
@@ -101,7 +111,7 @@ The excerpt presents decision models as structured predictors for classification
 
 ---
 
-### 2. [Individual Rebuilds and Publishes 16,926 Lost AnandTech Articles as a Website](<https://joho-todai.com/en/anandtech-recovered-16926-articles-rebuilt/>)
+### 3. [Individual Rebuilds and Publishes 16,926 Lost AnandTech Articles as a Website](<https://joho-todai.com/en/anandtech-recovered-16926-articles-rebuilt/>)
 
 **Joho no Todai** · News · Nov 23, 2026
 
@@ -111,7 +121,7 @@ An unofficial AnandTech Archive has made 16,926 articles from April 1997 through
 
 ---
 
-### 3. [Firefox 161 Brings Per-Site VPN Toggling, Classic Themes Section](<https://www.phoronix.com/news/Firefox-161>)
+### 4. [Firefox 161 Brings Per-Site VPN Toggling, Classic Themes Section](<https://www.phoronix.com/news/Firefox-161>)
 
 **Phoronix** · Release · Nov 23, 2026
 
@@ -121,7 +131,7 @@ Firefox 161 adds per-site controls for Firefox’s built-in VPN, letting users e
 
 ---
 
-### 4. [phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path](<https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>)
+### 5. [phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path](<https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>)
 
 **SecurityWeek** · News · Nov 23, 2026
 
@@ -129,17 +139,7 @@ PHP patched phpAfterShell (CVE-2026-126714, CVSS 9.2), a session-file overwrite 
 
 [Read article →](<https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>)
 
----
-
-### 5. [Microsoft testing fix for Windows 11 Bluetooth audio quality drops](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/>)
-
-**BleepingComputer** · News · Nov 23, 2026
-
-Windows 11 preview builds for the Beta and Experimental channels let supported Bluetooth LE Audio devices maintain full-range stereo while their microphone is active.
-
-[Read article →](<https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/>)
-
 
 ---
 
-Updated 2026-11-24 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-25 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
