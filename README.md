@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Futurum Research study: Why 97 percent of enterprise IT teams cannot survive a cloud cutoff](<https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff>)
+### 1. [Collabora Online Sharply Reduces Server Memory Use With New Optimization](<https://www.phoronix.com/news/Collabora-Online-Half-Memory>)
 
-**Red Hat Blog** · Article · Oct 22, 2026
+**Phoronix** · News · Nov 24, 2026
 
-The survey of 1,940 technology and risk decision-makers finds a gap between sovereignty planning and operational readiness: 47% of organizations remain in the planning phase, and fewer than 3% say they can move critical workloads to a secondary provider within 30 days.
+Collabora Online reduces copy-on-write memory duplication by having the forkit fill and reserve its existing allocator gaps before creating document kits.
 
-[Read article →](<https://www.redhat.com/en/blog/futurum-research-study-why-97-percent-enterprise-it-teams-cannot-survive-cloud-cutoff>)
-
----
-
-### 2. [Raindrop ran 11 decision models over 1,005 decisions](<https://jevdaily.com/issues/2026-11-23-w7>)
-
-**Jev Daily** · News
-
-The excerpt presents decision models as structured predictors for classification and routing, with results that vary by task. In Rivet’s support workflow, a single severity question with SEV1–SEV4 options performed mediocrely; three yes/no questions plus explicit rules improved the approach.
-
-[Read article →](<https://jevdaily.com/issues/2026-11-23-w7>)
+[Read article →](<https://www.phoronix.com/news/Collabora-Online-Half-Memory>)
 
 ---
 
-### 3. [Individual Rebuilds and Publishes 16,926 Lost AnandTech Articles as a Website](<https://joho-todai.com/en/anandtech-recovered-16926-articles-rebuilt/>)
+### 2. [Rethinking resilience in a dynamic digital world](<https://www.cio.com/article/4252166/rethinking-resilience-in-a-dynamic-digital-world.html>)
 
-**Joho no Todai** · News · Nov 23, 2026
+**CIO** · News · Nov 24, 2026
 
-An unofficial AnandTech Archive has made 16,926 articles from April 1997 through August 2024 readable again as a browsable website. Its creator rebuilt the site from WARC files and ZIM files reportedly collected by ArchiveTeam in 2024 and uploaded to the Internet Archive.
+PwC’s survey findings point to a gap between rising cybersecurity investment and organisations’ readiness to recover from disruption.
 
-[Read article →](<https://joho-todai.com/en/anandtech-recovered-16926-articles-rebuilt/>)
-
----
-
-### 4. [Firefox 161 Brings Per-Site VPN Toggling, Classic Themes Section](<https://www.phoronix.com/news/Firefox-161>)
-
-**Phoronix** · Release · Nov 23, 2026
-
-Firefox 161 adds per-site controls for Firefox’s built-in VPN, letting users enable or exclude it on selected sites. It also introduces a Classic Themes section with older Proton and OLED themes, plus an optional keyboard shortcut for copying the current tab’s URL.
-
-[Read article →](<https://www.phoronix.com/news/Firefox-161>)
+[Read article →](<https://www.cio.com/article/4252166/rethinking-resilience-in-a-dynamic-digital-world.html>)
 
 ---
 
-### 5. [phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path](<https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>)
+### 3. [Microsoft Withdraws 'Within Days' Fix Timeline for SQL Server Linked Server Connection Bug, Leaving Release Date Unknown](<https://joho-todai.com/en/sql-server-linked-server-connection-fix-delayed/>)
 
-**SecurityWeek** · News · Nov 23, 2026
+**Joho no Todai** · News · Nov 24, 2026
 
-PHP patched phpAfterShell (CVE-2026-126714, CVSS 9.2), a session-file overwrite flaw that can leave fresh session data followed by remnants of the prior file if a write is interrupted before truncation.
+Microsoft removed its promised “within days” timeline for fixing a SQL Server linked server connection buildup issue; the fix is now assigned to a future Windows update with no release date.
 
-[Read article →](<https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/>)
+[Read article →](<https://joho-todai.com/en/sql-server-linked-server-connection-fix-delayed/>)
+
+---
+
+### 4. [Nvidia engineer who quit over Jensen Huang's departure admits he "may have moved too quickly" after CEO's return](<https://www.techspot.com/news/114684-nvidia-engineer-who-quit-over-jensen-huang-departure.html>)
+
+**TechSpot** · News · Nov 24, 2026
+
+Nvidia robotics engineer Darrell Dai says he may have left too quickly after Jensen Huang’s departure prompted him to quit, and he is open to discussing a return.
+
+[Read article →](<https://www.techspot.com/news/114684-nvidia-engineer-who-quit-over-jensen-huang-departure.html>)
+
+---
+
+### 5. [Astelia’s autonomous network mitigation blocks AI-driven exploits without a patch](<https://siliconangle.com/2026/11/24/astelias-autonomous-network-mitigation-blocks-ai-driven-exploits-without-a-patch/>)
+
+**SiliconANGLE** · News · Nov 24, 2026
+
+Astelia says its autonomous network mitigation can block exploit paths when patches are unavailable or cannot be applied, without changing vulnerable systems.
+
+[Read article →](<https://siliconangle.com/2026/11/24/astelias-autonomous-network-mitigation-blocks-ai-driven-exploits-without-a-patch/>)
 
 
 ---
 
-Updated 2026-11-25 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-26 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
