@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Collabora Online Sharply Reduces Server Memory Use With New Optimization](<https://www.phoronix.com/news/Collabora-Online-Half-Memory>)
+### 1. [Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts](<https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/>)
 
-**Phoronix** · News · Nov 24, 2026
+**Help Net Security** · Release · Nov 25, 2026
 
-Collabora Online reduces copy-on-write memory duplication by having the forkit fill and reserve its existing allocator gaps before creating document kits.
+Shufti Fraud Hub links identity, device, biometric, document, network, and behavioural signals to detect coordinated fraud that account-by-account checks may miss.
 
-[Read article →](<https://www.phoronix.com/news/Collabora-Online-Half-Memory>)
-
----
-
-### 2. [Rethinking resilience in a dynamic digital world](<https://www.cio.com/article/4252166/rethinking-resilience-in-a-dynamic-digital-world.html>)
-
-**CIO** · News · Nov 24, 2026
-
-PwC’s survey findings point to a gap between rising cybersecurity investment and organisations’ readiness to recover from disruption.
-
-[Read article →](<https://www.cio.com/article/4252166/rethinking-resilience-in-a-dynamic-digital-world.html>)
+[Read article →](<https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/>)
 
 ---
 
-### 3. [Microsoft Withdraws 'Within Days' Fix Timeline for SQL Server Linked Server Connection Bug, Leaving Release Date Unknown](<https://joho-todai.com/en/sql-server-linked-server-connection-fix-delayed/>)
+### 2. [Mayo Clinic to pay workers $906,000 for unpaid time spent booting up PCs and logging in](<https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html>)
 
-**Joho no Todai** · News · Nov 24, 2026
+**TechSpot** · News · Nov 25, 2026
 
-Microsoft removed its promised “within days” timeline for fixing a SQL Server linked server connection buildup issue; the fix is now assigned to a future Windows update with no release date.
+Mayo Clinic agreed to pay more than $906,000 in back wages to 1,021 appointment staff for unpaid computer startup and login time and disputed the state’s interpretation while settling.
 
-[Read article →](<https://joho-todai.com/en/sql-server-linked-server-connection-fix-delayed/>)
-
----
-
-### 4. [Nvidia engineer who quit over Jensen Huang's departure admits he "may have moved too quickly" after CEO's return](<https://www.techspot.com/news/114684-nvidia-engineer-who-quit-over-jensen-huang-departure.html>)
-
-**TechSpot** · News · Nov 24, 2026
-
-Nvidia robotics engineer Darrell Dai says he may have left too quickly after Jensen Huang’s departure prompted him to quit, and he is open to discussing a return.
-
-[Read article →](<https://www.techspot.com/news/114684-nvidia-engineer-who-quit-over-jensen-huang-departure.html>)
+[Read article →](<https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html>)
 
 ---
 
-### 5. [Astelia’s autonomous network mitigation blocks AI-driven exploits without a patch](<https://siliconangle.com/2026/11/24/astelias-autonomous-network-mitigation-blocks-ai-driven-exploits-without-a-patch/>)
+### 3. [CrowdStrike Accelerates the Shift to the Agentic SOC](<https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/>)
 
-**SiliconANGLE** · News · Nov 24, 2026
+**Crowdstrike** · Article
 
-Astelia says its autonomous network mitigation can block exploit paths when patches are unavailable or cannot be applied, without changing vulnerable systems.
+CrowdStrike presents an agentic SOC built on a unified platform, combining SIEM data, adversary intelligence, AI investigations, custom agents and governed response.
 
-[Read article →](<https://siliconangle.com/2026/11/24/astelias-autonomous-network-mitigation-blocks-ai-driven-exploits-without-a-patch/>)
+[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/>)
+
+---
+
+### 4. [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)
+
+**TechCrunch | AI News &#38; Artificial Intelligence** · News · Nov 25, 2026
+
+Amazon and Meta have reportedly held multiple rounds of talks about allowing Meta’s AI agent Muse to connect directly to Amazon’s store, potentially ending a two-month blockade that left Muse users unable to check out.
+
+[Read article →](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)
+
+---
+
+### 5. [Securing multimodal AI with NeMo Guardrails and vision models](<https://developers.redhat.com/articles/2026/11/25/securing-multimodal-ai-nemo-guardrails-and-vision-models>)
+
+**Red Hat** · Tutorial · Nov 25, 2026
+
+Text-only guardrails miss sensitive data and prompt injections embedded in images. The excerpt describes using NeMo Guardrails input rails with separate vision judges for PII and image instructions: each examines the full user message and image, returns safe/unsafe with category codes, and blocks unsafe requests…
+
+[Read article →](<https://developers.redhat.com/articles/2026/11/25/securing-multimodal-ai-nemo-guardrails-and-vision-models>)
 
 
 ---
 
-Updated 2026-11-26 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-27 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
