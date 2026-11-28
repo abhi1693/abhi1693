@@ -91,55 +91,55 @@ Alongside it, I maintain:
 
 A fresh reading list from [DevFeed](https://devfeed.tech): five recent articles on software, tools, and the systems behind them.
 
-### 1. [Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts](<https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/>)
+### 1. [HMD’s new $113 phone has one real feature: A Non-English AI Assistant](<https://www.yankodesign.com/2026/11/26/hmds-new-113-phone-has-one-real-feature-a-non-english-ai-assistant/>)
 
-**Help Net Security** · Release · Nov 25, 2026
+**Yanko Design** · News · Nov 26, 2026
 
-Shufti Fraud Hub links identity, device, biometric, document, network, and behavioural signals to detect coordinated fraud that account-by-account checks may miss.
+HMD’s ₹9,999 Rise pairs entry-level hardware with Indus, a voice assistant from Bengaluru-based Sarvam AI that HMD says supports 22 Indian languages and runs on servers hosted in India.
 
-[Read article →](<https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/>)
-
----
-
-### 2. [Mayo Clinic to pay workers $906,000 for unpaid time spent booting up PCs and logging in](<https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html>)
-
-**TechSpot** · News · Nov 25, 2026
-
-Mayo Clinic agreed to pay more than $906,000 in back wages to 1,021 appointment staff for unpaid computer startup and login time and disputed the state’s interpretation while settling.
-
-[Read article →](<https://www.techspot.com/news/114698-mayo-clinic-pay-workers-906000-unpaid-time-spent.html>)
+[Read article →](<https://www.yankodesign.com/2026/11/26/hmds-new-113-phone-has-one-real-feature-a-non-english-ai-assistant/>)
 
 ---
 
-### 3. [CrowdStrike Accelerates the Shift to the Agentic SOC](<https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/>)
+### 2. [Report sheds light on China ties of some US-based Nvidia partners](<https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/>)
 
-**Crowdstrike** · Article
+**SiliconANGLE** · News · Nov 26, 2026
 
-CrowdStrike presents an agentic SOC built on a unified platform, combining SIEM data, adversary intelligence, AI investigations, custom agents and governed response.
+A C4ADS investigation commissioned by CBS News reported connections between several Nvidia partners or server firms and China-linked companies or export-control concerns.
 
-[Read article →](<https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-gartner-mq-isoc/>)
-
----
-
-### 4. [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)
-
-**TechCrunch | AI News &#38; Artificial Intelligence** · News · Nov 25, 2026
-
-Amazon and Meta have reportedly held multiple rounds of talks about allowing Meta’s AI agent Muse to connect directly to Amazon’s store, potentially ending a two-month blockade that left Muse users unable to check out.
-
-[Read article →](<https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/>)
+[Read article →](<https://siliconangle.com/2026/11/26/report-sheds-light-on-china-ties-of-some-us-based-nvidia-partners/>)
 
 ---
 
-### 5. [Securing multimodal AI with NeMo Guardrails and vision models](<https://developers.redhat.com/articles/2026/11/25/securing-multimodal-ai-nemo-guardrails-and-vision-models>)
+### 3. [OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/>)
 
-**Red Hat** · Tutorial · Nov 25, 2026
+**BleepingComputer** · News · Nov 26, 2026
 
-Text-only guardrails miss sensitive data and prompt injections embedded in images. The excerpt describes using NeMo Guardrails input rails with separate vision judges for PII and image instructions: each examines the full user message and image, returns safe/unsafe with category codes, and blocks unsafe requests…
+OpenAI fixed a billing bug that had undercounted usage for GPT-6.2 Astra and Sol. OpenAI says the same work will now consume more of a plan’s allowance: compared with the prior week, users will reach limits 40% faster on Astra and 25% faster on Sol.
 
-[Read article →](<https://developers.redhat.com/articles/2026/11/25/securing-multimodal-ai-nemo-guardrails-and-vision-models>)
+[Read article →](<https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/>)
+
+---
+
+### 4. [The Haywood Securities Case Exposes a Blind Spot in Compliance Technology](<https://hackernoon.com/the-haywood-securities-case-exposes-a-blind-spot-in-compliance-technology?source=rss>)
+
+**HackerNoon** · Article · Nov 26, 2026
+
+The Haywood Securities case shows that identifying compliance risk does not ensure it is acted on.
+
+[Read article →](<https://hackernoon.com/the-haywood-securities-case-exposes-a-blind-spot-in-compliance-technology?source=rss>)
+
+---
+
+### 5. [Another Split Flap Display You Can Print Yourself](<https://hackaday.com/2026/11/26/another-split-flap-display-you-can-print-yourself/>)
+
+**Hackaday** · Article · Nov 26, 2026
+
+OpenFlaps is an open-source, 3D-printed split flap display project controlled by a Raspberry Pi Pico W.
+
+[Read article →](<https://hackaday.com/2026/11/26/another-split-flap-display-you-can-print-yourself/>)
 
 
 ---
 
-Updated 2026-11-27 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
+Updated 2026-11-28 UTC · Refreshed daily through [DevFeed's public MCP](https://devfeed.tech/mcp).
